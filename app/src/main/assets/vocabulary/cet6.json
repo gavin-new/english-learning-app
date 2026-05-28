@@ -1,0 +1,6122 @@
+[
+  {
+    "word": "abandon",
+    "phonetic": "/əˈbændən/",
+    "meaning": "v. 放弃；遗弃",
+    "example": "They had to abandon the project due to lack of funding.",
+    "exampleTranslation": "由于缺乏资金，他们不得不放弃这个项目。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "abbreviate",
+    "phonetic": "/əˈbriːvieɪt/",
+    "meaning": "v. 缩写；缩短",
+    "example": "The United Nations is often abbreviated as the UN.",
+    "exampleTranslation": "联合国常被缩写为UN。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "abnormal",
+    "phonetic": "/æbˈnɔːrml/",
+    "meaning": "adj. 不正常的；反常的",
+    "example": "The test results showed an abnormal pattern.",
+    "exampleTranslation": "测试结果显示出一种异常的模式。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "abolish",
+    "phonetic": "/əˈbɒlɪʃ/",
+    "meaning": "v. 废除；废止",
+    "example": "The government decided to abolish the outdated law.",
+    "exampleTranslation": "政府决定废除这项过时的法律。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "abortion",
+    "phonetic": "/əˈbɔːʃn/",
+    "meaning": "n. 流产；中止",
+    "example": "The topic of abortion remains controversial.",
+    "exampleTranslation": "流产的话题仍然存在争议。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "abrupt",
+    "phonetic": "/əˈbrʌpt/",
+    "meaning": "adj. 突然的；唐突的",
+    "example": "His abrupt departure surprised everyone.",
+    "exampleTranslation": "他的突然离开让所有人感到惊讶。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "absurd",
+    "phonetic": "/əbˈsɜːrd/",
+    "meaning": "adj. 荒谬的；可笑的",
+    "example": "It would be absurd to blame them for this.",
+    "exampleTranslation": "因为这件事责怪他们是荒谬的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "abundance",
+    "phonetic": "/əˈbʌndəns/",
+    "meaning": "n. 丰富；充裕",
+    "example": "The country has an abundance of natural resources.",
+    "exampleTranslation": "这个国家拥有丰富的自然资源。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "meaning": "v. 加速；促进",
+    "example": "The company plans to accelerate its expansion.",
+    "exampleTranslation": "公司计划加速其扩张。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "accessible",
+    "phonetic": "/əkˈsesəbl/",
+    "meaning": "adj. 可接近的；可使用的",
+    "example": "The building is accessible to wheelchair users.",
+    "exampleTranslation": "这座建筑对轮椅使用者是可进入的。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "accommodate",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "meaning": "v. 容纳；适应；提供住宿",
+    "example": "The hotel can accommodate up to 500 guests.",
+    "exampleTranslation": "这家酒店最多可容纳500位客人。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "accomplish",
+    "phonetic": "/əˈkʌmplɪʃ/",
+    "meaning": "v. 完成；实现",
+    "example": "She accomplished all her goals for the year.",
+    "exampleTranslation": "她完成了今年的所有目标。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "meaning": "v. 积累；堆积",
+    "example": "He has accumulated a lot of experience over the years.",
+    "exampleTranslation": "多年来他积累了大量经验。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "accusation",
+    "phonetic": "/ˌækjuˈzeɪʃn/",
+    "meaning": "n. 指控；谴责",
+    "example": "He denied the accusation of fraud.",
+    "exampleTranslation": "他否认了欺诈的指控。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "acknowledge",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "meaning": "v. 承认；致谢",
+    "example": "She acknowledged her mistake publicly.",
+    "exampleTranslation": "她公开承认了自己的错误。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "activate",
+    "phonetic": "/ˈæktɪveɪt/",
+    "meaning": "v. 激活；使活动",
+    "example": "You need to activate your account before using it.",
+    "exampleTranslation": "你需要先激活账户才能使用。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "acute",
+    "phonetic": "/əˈkjuːt/",
+    "meaning": "adj. 敏锐的；急性的；严重的",
+    "example": "She has an acute sense of hearing.",
+    "exampleTranslation": "她有敏锐的听觉。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "advocate",
+    "phonetic": "/ˈædvəkeɪt/",
+    "meaning": "v./n. 提倡；倡导者",
+    "example": "She is a strong advocate for human rights.",
+    "exampleTranslation": "她是人权的坚定倡导者。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "affection",
+    "phonetic": "/əˈfekʃn/",
+    "meaning": "n. 喜爱；感情",
+    "example": "He has great affection for his grandchildren.",
+    "exampleTranslation": "他非常疼爱他的孙辈。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "aggregate",
+    "phonetic": "/ˈæɡrɪɡeɪt/",
+    "meaning": "v./n. 聚集；总计",
+    "example": "The aggregate score determines the final ranking.",
+    "exampleTranslation": "总分决定最终排名。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "agitate",
+    "phonetic": "/ˈædʒɪteɪt/",
+    "meaning": "v. 搅动；鼓动；使不安",
+    "example": "The news agitated the public.",
+    "exampleTranslation": "这条新闻使公众感到不安。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "allegation",
+    "phonetic": "/ˌæləˈɡeɪʃn/",
+    "meaning": "n. 指控；陈述",
+    "example": "The allegation was never proven in court.",
+    "exampleTranslation": "这项指控从未在法庭上得到证实。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "alleviate",
+    "phonetic": "/əˈliːvieɪt/",
+    "meaning": "v. 减轻；缓和",
+    "example": "This medicine can alleviate the pain.",
+    "exampleTranslation": "这种药可以减轻疼痛。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "meaning": "v. 分配；拨出",
+    "example": "The government allocated funds for education.",
+    "exampleTranslation": "政府拨出了教育经费。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "alteration",
+    "phonetic": "/ˌɔːltəˈreɪʃn/",
+    "meaning": "n. 改变；修改",
+    "example": "Any alteration to the plan must be approved.",
+    "exampleTranslation": "对计划的任何修改都必须得到批准。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "meaning": "adj. 模棱两可的；含糊的",
+    "example": "The contract language is deliberately ambiguous.",
+    "exampleTranslation": "合同的语言故意含糊不清。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "ambitious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "meaning": "adj. 有雄心的；野心勃勃的",
+    "example": "She is an ambitious young entrepreneur.",
+    "exampleTranslation": "她是一个有雄心的年轻企业家。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "amend",
+    "phonetic": "/əˈmend/",
+    "meaning": "v. 修正；改良",
+    "example": "The constitution was amended to protect civil rights.",
+    "exampleTranslation": "宪法被修正以保护公民权利。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "ample",
+    "phonetic": "/ˈæmpl/",
+    "meaning": "adj. 充足的；宽敞的",
+    "example": "There is ample evidence to support the theory.",
+    "exampleTranslation": "有充足的证据支持这个理论。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "analogy",
+    "phonetic": "/əˈnælədʒi/",
+    "meaning": "n. 类比；类推",
+    "example": "He drew an analogy between life and a journey.",
+    "exampleTranslation": "他在人生和旅程之间做了类比。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "anonymous",
+    "phonetic": "/əˈnɒnɪməs/",
+    "meaning": "adj. 匿名的",
+    "example": "The donation was made by an anonymous benefactor.",
+    "exampleTranslation": "这笔捐款来自一位匿名捐赠者。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "meaning": "v. 预期；预料",
+    "example": "We anticipate that sales will increase next quarter.",
+    "exampleTranslation": "我们预计下季度销售额会增长。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "apparatus",
+    "phonetic": "/ˌæpəˈreɪtəs/",
+    "meaning": "n. 器械；装置",
+    "example": "The laboratory is equipped with modern apparatus.",
+    "exampleTranslation": "实验室配备了现代化设备。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "arbitrary",
+    "phonetic": "/ˈɑːrbɪtrəri/",
+    "meaning": "adj. 任意的；武断的",
+    "example": "The decision seemed completely arbitrary.",
+    "exampleTranslation": "这个决定似乎完全是武断的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "array",
+    "phonetic": "/əˈreɪ/",
+    "meaning": "n. 一系列；排列",
+    "example": "The store offers a wide array of products.",
+    "exampleTranslation": "这家商店提供种类繁多的产品。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "articulate",
+    "phonetic": "/ɑːrˈtɪkjuleɪt/",
+    "meaning": "v./adj. 清楚表达；口齿清晰的",
+    "example": "She articulated her ideas very clearly.",
+    "exampleTranslation": "她非常清楚地表达了自己的想法。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "ascend",
+    "phonetic": "/əˈsend/",
+    "meaning": "v. 上升；攀登",
+    "example": "The hikers ascended the mountain at dawn.",
+    "exampleTranslation": "登山者在黎明时分攀登了这座山。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "ascertain",
+    "phonetic": "/ˌæsərˈteɪn/",
+    "meaning": "v. 确定；查明",
+    "example": "The police are trying to ascertain the cause of the fire.",
+    "exampleTranslation": "警方正试图查明火灾的原因。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "aspiration",
+    "phonetic": "/ˌæspəˈreɪʃn/",
+    "meaning": "n. 抱负；渴望",
+    "example": "Her aspiration is to become a doctor.",
+    "exampleTranslation": "她的抱负是成为一名医生。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "assault",
+    "phonetic": "/əˈsɔːlt/",
+    "meaning": "n./v. 攻击；袭击",
+    "example": "The assault on the building was carried out at night.",
+    "exampleTranslation": "对这座建筑的袭击是在夜间进行的。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "assert",
+    "phonetic": "/əˈsɜːrt/",
+    "meaning": "v. 断言；维护",
+    "example": "He asserted that he was innocent.",
+    "exampleTranslation": "他坚称自己是无辜的。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "assess",
+    "phonetic": "/əˈses/",
+    "meaning": "v. 评估；评定",
+    "example": "We need to assess the impact of the policy.",
+    "exampleTranslation": "我们需要评估这项政策的影响。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "asset",
+    "phonetic": "/ˈæset/",
+    "meaning": "n. 资产；有价值的人或物",
+    "example": "She is a great asset to the company.",
+    "exampleTranslation": "她是公司的一大宝贵财富。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "assimilate",
+    "phonetic": "/əˈsɪməleɪt/",
+    "meaning": "v. 吸收；同化",
+    "example": "It takes time to assimilate new information.",
+    "exampleTranslation": "吸收新信息需要时间。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "assurance",
+    "phonetic": "/əˈʃʊərəns/",
+    "meaning": "n. 保证；信心",
+    "example": "The manager gave his assurance that the problem would be solved.",
+    "exampleTranslation": "经理保证问题会得到解决。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "attribute",
+    "phonetic": "/əˈtrɪbjuːt/",
+    "meaning": "v./n. 归因于；属性",
+    "example": "She attributes her success to hard work.",
+    "exampleTranslation": "她把自己的成功归因于努力工作。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "authentic",
+    "phonetic": "/ɔːˈθentɪk/",
+    "meaning": "adj. 真正的；可靠的",
+    "example": "This is an authentic piece of ancient pottery.",
+    "exampleTranslation": "这是一件真正的古代陶器。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "authorize",
+    "phonetic": "/ˈɔːθəraɪz/",
+    "meaning": "v. 授权；批准",
+    "example": "The board authorized the construction of a new facility.",
+    "exampleTranslation": "董事会批准了建设新设施。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "autonomous",
+    "phonetic": "/ɔːˈtɒnəməs/",
+    "meaning": "adj. 自治的；自主的",
+    "example": "The region was granted autonomous status.",
+    "exampleTranslation": "该地区被授予自治地位。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "bankrupt",
+    "phonetic": "/ˈbæŋkrʌpt/",
+    "meaning": "adj./v. 破产的；使破产",
+    "example": "The company went bankrupt after the financial crisis.",
+    "exampleTranslation": "金融危机后这家公司破产了。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "barrier",
+    "phonetic": "/ˈbæriər/",
+    "meaning": "n. 障碍；屏障",
+    "example": "Language can be a barrier to communication.",
+    "exampleTranslation": "语言可能成为沟通的障碍。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "beforehand",
+    "phonetic": "/bɪˈfɔːrhænd/",
+    "meaning": "adv. 事先；预先",
+    "example": "Please let me know beforehand if you plan to attend.",
+    "exampleTranslation": "如果你打算参加，请事先告诉我。",
+    "level": 3,
+    "category": "副词",
+    "grade": 14
+  },
+  {
+    "word": "betray",
+    "phonetic": "/bɪˈtreɪ/",
+    "meaning": "v. 背叛；泄露",
+    "example": "He would never betray his friends.",
+    "exampleTranslation": "他永远不会背叛朋友。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "bias",
+    "phonetic": "/ˈbaɪəs/",
+    "meaning": "n./v. 偏见；偏向",
+    "example": "The report showed a clear bias toward the company.",
+    "exampleTranslation": "报告明显偏向这家公司。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "bizarre",
+    "phonetic": "/bɪˈzɑːr/",
+    "meaning": "adj. 奇异的；古怪的",
+    "example": "She had a bizarre dream last night.",
+    "exampleTranslation": "她昨晚做了一个奇怪的梦。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "bleak",
+    "phonetic": "/bliːk/",
+    "meaning": "adj. 荒凉的；暗淡的",
+    "example": "The economic outlook looks rather bleak.",
+    "exampleTranslation": "经济前景看起来相当暗淡。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "blend",
+    "phonetic": "/blend/",
+    "meaning": "v./n. 混合；融合",
+    "example": "The architect blends traditional and modern styles.",
+    "exampleTranslation": "这位建筑师融合了传统和现代风格。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "bless",
+    "phonetic": "/bles/",
+    "meaning": "v. 祝福；保佑",
+    "example": "May God bless you and your family.",
+    "exampleTranslation": "愿上帝保佑你和你的家人。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "blunder",
+    "phonetic": "/ˈblʌndər/",
+    "meaning": "n./v. 大错；犯大错",
+    "example": "Making that comment was a terrible blunder.",
+    "exampleTranslation": "发表那番评论是一个糟糕的大错。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "boost",
+    "phonetic": "/buːst/",
+    "meaning": "v./n. 促进；增强",
+    "example": "The new policy is expected to boost economic growth.",
+    "exampleTranslation": "新政策预计将促进经济增长。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "boycott",
+    "phonetic": "/ˈbɔɪkɒt/",
+    "meaning": "v./n. 抵制",
+    "example": "Consumers are boycotting products from that brand.",
+    "exampleTranslation": "消费者正在抵制那个品牌的产品。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "breach",
+    "phonetic": "/briːtʃ/",
+    "meaning": "n./v. 违反；缺口",
+    "example": "This constitutes a breach of contract.",
+    "exampleTranslation": "这构成了违约。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "bribe",
+    "phonetic": "/braɪb/",
+    "meaning": "v./n. 贿赂",
+    "example": "He was accused of bribing government officials.",
+    "exampleTranslation": "他被指控贿赂政府官员。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "brisk",
+    "phonetic": "/brɪsk/",
+    "meaning": "adj. 轻快的；兴隆的",
+    "example": "Business has been brisk this quarter.",
+    "exampleTranslation": "本季度生意兴隆。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "brittle",
+    "phonetic": "/ˈbrɪtl/",
+    "meaning": "adj. 易碎的；脆弱的",
+    "example": "The old paper has become brittle with age.",
+    "exampleTranslation": "旧纸张因年代久远而变得脆弱。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "browse",
+    "phonetic": "/braʊz/",
+    "meaning": "v. 浏览；随意翻阅",
+    "example": "She spent the afternoon browsing through bookstores.",
+    "exampleTranslation": "她整个下午都在书店里浏览书籍。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "brutal",
+    "phonetic": "/ˈbruːtl/",
+    "meaning": "adj. 残忍的；野蛮的",
+    "example": "The regime was known for its brutal treatment of prisoners.",
+    "exampleTranslation": "该政权以残酷对待囚犯而闻名。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "budget",
+    "phonetic": "/ˈbʌdʒɪt/",
+    "meaning": "n./v. 预算",
+    "example": "We need to cut the budget by ten percent.",
+    "exampleTranslation": "我们需要将预算削减百分之十。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "burden",
+    "phonetic": "/ˈbɜːrdn/",
+    "meaning": "n./v. 负担；重担",
+    "example": "The tax burden falls mainly on the middle class.",
+    "exampleTranslation": "税收负担主要落在中产阶级身上。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "campaign",
+    "phonetic": "/kæmˈpeɪn/",
+    "meaning": "n./v. 运动；战役",
+    "example": "The advertising campaign was very successful.",
+    "exampleTranslation": "这次广告活动非常成功。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "capability",
+    "phonetic": "/ˌkeɪpəˈbɪləti/",
+    "meaning": "n. 能力；才能",
+    "example": "The system has the capability to process large amounts of data.",
+    "exampleTranslation": "该系统具有处理大量数据的能力。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "captive",
+    "phonetic": "/ˈkæptɪv/",
+    "meaning": "adj./n. 被俘虏的；俘虏",
+    "example": "The captive soldiers were treated humanely.",
+    "exampleTranslation": "被俘士兵受到了人道对待。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "cascade",
+    "phonetic": "/kæˈskeɪd/",
+    "meaning": "n./v. 瀑布；级联",
+    "example": "A cascade of events led to the final decision.",
+    "exampleTranslation": "一连串的事件导致了最终决定。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "cater",
+    "phonetic": "/ˈkeɪtər/",
+    "meaning": "v. 迎合；提供饮食",
+    "example": "The restaurant caters to various dietary needs.",
+    "exampleTranslation": "这家餐厅迎合各种饮食需求。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "caution",
+    "phonetic": "/ˈkɔːʃn/",
+    "meaning": "n./v. 谨慎；警告",
+    "example": "Proceed with caution in this dangerous area.",
+    "exampleTranslation": "在这个危险区域请谨慎行事。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "cease",
+    "phonetic": "/siːs/",
+    "meaning": "v. 停止；终止",
+    "example": "The factory ceased production last month.",
+    "exampleTranslation": "这家工厂上个月停止了生产。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "census",
+    "phonetic": "/ˈsensəs/",
+    "meaning": "n. 人口普查",
+    "example": "The national census is conducted every ten years.",
+    "exampleTranslation": "全国人口普查每十年进行一次。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "chronic",
+    "phonetic": "/ˈkrɒnɪk/",
+    "meaning": "adj. 慢性的；长期的",
+    "example": "She suffers from chronic back pain.",
+    "exampleTranslation": "她患有慢性背痛。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "circulate",
+    "phonetic": "/ˈsɜːrkjuleɪt/",
+    "meaning": "v. 循环；传播",
+    "example": "The news circulated quickly on social media.",
+    "exampleTranslation": "这条新闻在社交媒体上迅速传播。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "clarify",
+    "phonetic": "/ˈklærəfaɪ/",
+    "meaning": "v. 澄清；阐明",
+    "example": "Could you clarify what you mean by that?",
+    "exampleTranslation": "你能澄清一下你的意思吗？",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "clash",
+    "phonetic": "/klæʃ/",
+    "meaning": "n./v. 冲突；碰撞",
+    "example": "The protest clashed with police forces.",
+    "exampleTranslation": "抗议活动与警方发生了冲突。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "classify",
+    "phonetic": "/ˈklæsɪfaɪ/",
+    "meaning": "v. 分类；归类",
+    "example": "Scientists classify animals into different species.",
+    "exampleTranslation": "科学家将动物分为不同的物种。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "coalition",
+    "phonetic": "/ˌkoʊəˈlɪʃn/",
+    "meaning": "n. 联盟；联合",
+    "example": "The parties formed a coalition government.",
+    "exampleTranslation": "各党派组成了联合政府。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "coarse",
+    "phonetic": "/kɔːrs/",
+    "meaning": "adj. 粗糙的；粗俗的",
+    "example": "The fabric feels quite coarse to the touch.",
+    "exampleTranslation": "这种面料摸起来相当粗糙。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "coincide",
+    "phonetic": "/ˌkoʊɪnˈsaɪd/",
+    "meaning": "v. 巧合；同时发生",
+    "example": "His arrival coincided with the start of the meeting.",
+    "exampleTranslation": "他的到达与会议的开始恰巧同时。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "collaborate",
+    "phonetic": "/kəˈlæbəreɪt/",
+    "meaning": "v. 合作；协作",
+    "example": "The two universities are collaborating on a research project.",
+    "exampleTranslation": "两所大学正在合作一个研究项目。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "collapse",
+    "phonetic": "/kəˈlæps/",
+    "meaning": "v./n. 倒塌；崩溃",
+    "example": "The bridge collapsed during the earthquake.",
+    "exampleTranslation": "这座桥在地震中倒塌了。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "commemorate",
+    "phonetic": "/kəˈmeməreɪt/",
+    "meaning": "v. 纪念",
+    "example": "A ceremony was held to commemorate the victims.",
+    "exampleTranslation": "举行了一场仪式来纪念遇难者。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "commence",
+    "phonetic": "/kəˈmens/",
+    "meaning": "v. 开始；着手",
+    "example": "The ceremony will commence at noon.",
+    "exampleTranslation": "仪式将在中午开始。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "commend",
+    "phonetic": "/kəˈmend/",
+    "meaning": "v. 表扬；推荐",
+    "example": "The teacher commended the student for her hard work.",
+    "exampleTranslation": "老师表扬了这位学生的努力。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "compact",
+    "phonetic": "/kəmˈpækt/",
+    "meaning": "adj./n. 紧凑的；契约",
+    "example": "The apartment is compact but well-designed.",
+    "exampleTranslation": "这套公寓虽小但设计精良。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "compel",
+    "phonetic": "/kəmˈpel/",
+    "meaning": "v. 强迫；迫使",
+    "example": "Circumstances compelled him to change his plan.",
+    "exampleTranslation": "情况迫使他改变了计划。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "compensate",
+    "phonetic": "/ˈkɒmpenseɪt/",
+    "meaning": "v. 补偿；赔偿",
+    "example": "The company agreed to compensate the victims.",
+    "exampleTranslation": "公司同意赔偿受害者。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "compile",
+    "phonetic": "/kəmˈpaɪl/",
+    "meaning": "v. 汇编；编纂",
+    "example": "She compiled a list of references for the report.",
+    "exampleTranslation": "她为报告汇编了一份参考书目。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "comply",
+    "phonetic": "/kəmˈplaɪ/",
+    "meaning": "v. 遵从；服从",
+    "example": "All employees must comply with company regulations.",
+    "exampleTranslation": "所有员工必须遵守公司规定。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "comprehensive",
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "meaning": "adj. 全面的；综合的",
+    "example": "The report provides a comprehensive analysis of the problem.",
+    "exampleTranslation": "这份报告对问题进行了全面分析。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "compulsory",
+    "phonetic": "/kəmˈpʌlsəri/",
+    "meaning": "adj. 强制的；义务的",
+    "example": "Education is compulsory for children under 16.",
+    "exampleTranslation": "16岁以下儿童必须接受义务教育。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "conceive",
+    "phonetic": "/kənˈsiːv/",
+    "meaning": "v. 构想；怀孕",
+    "example": "He conceived the idea during a long walk.",
+    "exampleTranslation": "他在一次长走中构想出了这个主意。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "confidential",
+    "phonetic": "/ˌkɒnfɪˈdenʃl/",
+    "meaning": "adj. 机密的；保密的",
+    "example": "This document is strictly confidential.",
+    "exampleTranslation": "这份文件是严格保密的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "confine",
+    "phonetic": "/kənˈfaɪn/",
+    "meaning": "v. 限制；禁闭",
+    "example": "The discussion should be confined to the agenda.",
+    "exampleTranslation": "讨论应该局限于议程范围内。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "conform",
+    "phonetic": "/kənˈfɔːrm/",
+    "meaning": "v. 遵守；符合",
+    "example": "Products must conform to safety standards.",
+    "exampleTranslation": "产品必须符合安全标准。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "confront",
+    "phonetic": "/kənˈfrʌnt/",
+    "meaning": "v. 面对；对抗",
+    "example": "We must confront the challenges ahead.",
+    "exampleTranslation": "我们必须面对前方的挑战。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "conscience",
+    "phonetic": "/ˈkɒnʃəns/",
+    "meaning": "n. 良心；道德感",
+    "example": "His conscience would not let him ignore the injustice.",
+    "exampleTranslation": "他的良心不允许他对不公正视而不见。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "consensus",
+    "phonetic": "/kənˈsensəs/",
+    "meaning": "n. 共识；一致意见",
+    "example": "There is a growing consensus on this issue.",
+    "exampleTranslation": "在这个问题上正在形成越来越多的共识。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "consequent",
+    "phonetic": "/ˈkɒnsɪkwənt/",
+    "meaning": "adj. 随之发生的；必然的",
+    "example": "The consequent delay cost the company millions.",
+    "exampleTranslation": "随之而来的延误使公司损失了数百万。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "conserve",
+    "phonetic": "/kənˈsɜːrv/",
+    "meaning": "v. 保存；节约",
+    "example": "We must conserve water during the drought.",
+    "exampleTranslation": "在干旱期间我们必须节约用水。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "considerable",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "meaning": "adj. 相当大的；重要的",
+    "example": "The project requires considerable investment.",
+    "exampleTranslation": "这个项目需要相当大的投资。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "consist",
+    "phonetic": "/kənˈsɪst/",
+    "meaning": "v. 由...组成；在于",
+    "example": "The committee consists of ten members.",
+    "exampleTranslation": "委员会由十名成员组成。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "consolidate",
+    "phonetic": "/kənˈsɒlɪdeɪt/",
+    "meaning": "v. 巩固；合并",
+    "example": "The company consolidated its position in the market.",
+    "exampleTranslation": "公司巩固了其在市场上的地位。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "conspicuous",
+    "phonetic": "/kənˈspɪkjuəs/",
+    "meaning": "adj. 显眼的；引人注目的",
+    "example": "She was conspicuous in her bright red dress.",
+    "exampleTranslation": "她穿着鲜红的裙子十分显眼。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "constitute",
+    "phonetic": "/ˈkɒnstɪtjuːt/",
+    "meaning": "v. 构成；组成",
+    "example": "Women constitute over half of the workforce.",
+    "exampleTranslation": "女性占劳动力的半数以上。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "constraint",
+    "phonetic": "/kənˈstreɪnt/",
+    "meaning": "n. 约束；限制",
+    "example": "Budget constraints limited our options.",
+    "exampleTranslation": "预算限制缩小了我们的选择范围。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "consultant",
+    "phonetic": "/kənˈsʌltənt/",
+    "meaning": "n. 顾问；咨询师",
+    "example": "We hired a consultant to improve our efficiency.",
+    "exampleTranslation": "我们聘请了一位顾问来提高效率。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "contemplate",
+    "phonetic": "/ˈkɒntəmpleɪt/",
+    "meaning": "v. 沉思；考虑",
+    "example": "She sat quietly contemplating her future.",
+    "exampleTranslation": "她静静地坐着思考自己的未来。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "contempt",
+    "phonetic": "/kənˈtempt/",
+    "meaning": "n. 轻蔑；藐视",
+    "example": "He showed contempt for the rules.",
+    "exampleTranslation": "他对规则表现出轻蔑。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "contend",
+    "phonetic": "/kənˈtend/",
+    "meaning": "v. 竞争；主张",
+    "example": "Several teams are contending for the championship.",
+    "exampleTranslation": "几支队伍正在争夺冠军。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "contradict",
+    "phonetic": "/ˌkɒntrəˈdɪkt/",
+    "meaning": "v. 反驳；与...矛盾",
+    "example": "The evidence contradicts his testimony.",
+    "exampleTranslation": "证据与他的证词相矛盾。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "controversy",
+    "phonetic": "/ˈkɒntrəvɜːrsi/",
+    "meaning": "n. 争论；争议",
+    "example": "The new policy has sparked considerable controversy.",
+    "exampleTranslation": "新政策引发了相当大的争议。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "converge",
+    "phonetic": "/kənˈvɜːrdʒ/",
+    "meaning": "v. 汇聚；趋同",
+    "example": "The two rivers converge near the city.",
+    "exampleTranslation": "两条河在城市附近汇合。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "conversion",
+    "phonetic": "/kənˈvɜːrʃn/",
+    "meaning": "n. 转变；转换",
+    "example": "The conversion of the building took six months.",
+    "exampleTranslation": "这座建筑的改造花了六个月时间。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "convey",
+    "phonetic": "/kənˈveɪ/",
+    "meaning": "v. 传达；运送",
+    "example": "Words cannot convey how grateful I am.",
+    "exampleTranslation": "言语无法表达我有多感激。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "cooperative",
+    "phonetic": "/koʊˈɒpərətɪv/",
+    "meaning": "adj. 合作的；配合的",
+    "example": "The witness was very cooperative during the investigation.",
+    "exampleTranslation": "证人在调查过程中非常配合。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "correspond",
+    "phonetic": "/ˌkɒrɪˈspɒnd/",
+    "meaning": "v. 符合；通信",
+    "example": "The two descriptions do not correspond.",
+    "exampleTranslation": "这两个描述不一致。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "corrupt",
+    "phonetic": "/kəˈrʌpt/",
+    "meaning": "adj./v. 腐败的；使堕落",
+    "example": "The corrupt officials were arrested.",
+    "exampleTranslation": "腐败官员被逮捕了。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "correspondence",
+    "phonetic": "/ˌkɒrɪˈspɒndəns/",
+    "meaning": "n. 通信；一致",
+    "example": "He kept up a long correspondence with his professor.",
+    "exampleTranslation": "他与教授保持了长期的通信联系。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "counsel",
+    "phonetic": "/ˈkaʊnsl/",
+    "meaning": "n./v. 忠告；法律顾问",
+    "example": "She sought counsel from her attorney.",
+    "exampleTranslation": "她向律师寻求了法律意见。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "counterpart",
+    "phonetic": "/ˈkaʊntərpɑːrt/",
+    "meaning": "n. 对应的人或物",
+    "example": "The minister met with his Chinese counterpart.",
+    "exampleTranslation": "部长会见了中国 counterpart。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "courtesy",
+    "phonetic": "/ˈkɜːrtəsi/",
+    "meaning": "n. 礼貌；好意",
+    "example": "He did it out of courtesy.",
+    "exampleTranslation": "他出于礼貌这样做了。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "credible",
+    "phonetic": "/ˈkredəbl/",
+    "meaning": "adj. 可信的；可靠的",
+    "example": "The witness gave a credible account of the event.",
+    "exampleTranslation": "证人对事件的叙述是可信的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "crisp",
+    "phonetic": "/krɪsp/",
+    "meaning": "adj. 脆的；清新的",
+    "example": "The autumn air was crisp and cool.",
+    "exampleTranslation": "秋天的空气清新凉爽。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "criteria",
+    "phonetic": "/kraɪˈtɪəriə/",
+    "meaning": "n. 标准；准则",
+    "example": "The selection criteria are very strict.",
+    "exampleTranslation": "选拔标准非常严格。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "crude",
+    "phonetic": "/kruːd/",
+    "meaning": "adj. 粗糙的；粗鲁的",
+    "example": "Crude oil prices have risen sharply.",
+    "exampleTranslation": "原油价格急剧上涨。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "cultivate",
+    "phonetic": "/ˈkʌltɪveɪt/",
+    "meaning": "v. 培养；耕种",
+    "example": "Schools should cultivate students' creativity.",
+    "exampleTranslation": "学校应该培养学生的创造力。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "cumulative",
+    "phonetic": "/ˈkjuːmjələtɪv/",
+    "meaning": "adj. 累积的",
+    "example": "The cumulative effect of stress can be harmful.",
+    "exampleTranslation": "压力的累积影响可能是有害的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "curb",
+    "phonetic": "/kɜːrb/",
+    "meaning": "v./n. 控制；抑制",
+    "example": "The government took measures to curb inflation.",
+    "exampleTranslation": "政府采取措施抑制通货膨胀。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "curriculum",
+    "phonetic": "/kəˈrɪkjələm/",
+    "meaning": "n. 课程；课程设置",
+    "example": "The school has updated its curriculum.",
+    "exampleTranslation": "学校已经更新了课程设置。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "deceive",
+    "phonetic": "/dɪˈsiːv/",
+    "meaning": "v. 欺骗；蒙蔽",
+    "example": "Don't be deceived by his appearance.",
+    "exampleTranslation": "不要被他的外表所欺骗。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "decent",
+    "phonetic": "/ˈdiːsnt/",
+    "meaning": "adj. 体面的；正派的",
+    "example": "Everyone deserves a decent standard of living.",
+    "exampleTranslation": "每个人都应该享有体面的生活水平。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "decline",
+    "phonetic": "/dɪˈklaɪn/",
+    "meaning": "v./n. 下降；衰退",
+    "example": "The population of the village has declined sharply.",
+    "exampleTranslation": "这个村庄的人口急剧下降。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dedicate",
+    "phonetic": "/ˈdedɪkeɪt/",
+    "meaning": "v. 奉献；致力于",
+    "example": "She dedicated her life to scientific research.",
+    "exampleTranslation": "她将一生奉献给了科学研究。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "deduce",
+    "phonetic": "/dɪˈdjuːs/",
+    "meaning": "v. 推断；演绎",
+    "example": "From the evidence, we can deduce that he was lying.",
+    "exampleTranslation": "从证据中我们可以推断他在说谎。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "deficiency",
+    "phonetic": "/dɪˈfɪʃnsi/",
+    "meaning": "n. 缺乏；不足",
+    "example": "Vitamin D deficiency is common in winter.",
+    "exampleTranslation": "维生素D缺乏在冬季很常见。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "deficit",
+    "phonetic": "/ˈdefɪsɪt/",
+    "meaning": "n. 赤字；逆差",
+    "example": "The government is trying to reduce the budget deficit.",
+    "exampleTranslation": "政府正试图减少预算赤字。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "defy",
+    "phonetic": "/dɪˈfaɪ/",
+    "meaning": "v. 违抗；藐视",
+    "example": "She defied her parents and went to art school.",
+    "exampleTranslation": "她违抗父母的意愿去了艺术学校。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "delegate",
+    "phonetic": "/ˈdelɪɡeɪt/",
+    "meaning": "v./n. 委派；代表",
+    "example": "The manager delegated the task to her assistant.",
+    "exampleTranslation": "经理将任务委派给了她的助手。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "deliberate",
+    "phonetic": "/dɪˈlɪbərət/",
+    "meaning": "adj./v. 故意的；深思熟虑",
+    "example": "It was a deliberate attempt to mislead the public.",
+    "exampleTranslation": "这是蓄意误导公众的行为。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "delicate",
+    "phonetic": "/ˈdelɪkət/",
+    "meaning": "adj. 精致的；微妙的",
+    "example": "This is a very delicate situation.",
+    "exampleTranslation": "这是一个非常微妙的情况。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "denounce",
+    "phonetic": "/dɪˈnaʊns/",
+    "meaning": "v. 谴责；告发",
+    "example": "The opposition denounced the new law.",
+    "exampleTranslation": "反对党谴责了这项新法律。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "depict",
+    "phonetic": "/dɪˈpɪkt/",
+    "meaning": "v. 描绘；描述",
+    "example": "The novel depicts life in rural China.",
+    "exampleTranslation": "这部小说描绘了中国农村的生活。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "deprive",
+    "phonetic": "/dɪˈpraɪv/",
+    "meaning": "v. 剥夺；使丧失",
+    "example": "No one should be deprived of basic human rights.",
+    "exampleTranslation": "任何人都不应被剥夺基本人权。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "derive",
+    "phonetic": "/dɪˈraɪv/",
+    "meaning": "v. 源于；获得",
+    "example": "The word derives from Latin.",
+    "exampleTranslation": "这个词源自拉丁语。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "descend",
+    "phonetic": "/dɪˈsend/",
+    "meaning": "v. 下降；下来",
+    "example": "The plane began to descend.",
+    "exampleTranslation": "飞机开始下降。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "designate",
+    "phonetic": "/ˈdezɪɡneɪt/",
+    "meaning": "v. 指定；命名",
+    "example": "The area was designated as a nature reserve.",
+    "exampleTranslation": "该区域被指定为自然保护区。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "despise",
+    "phonetic": "/dɪˈspaɪz/",
+    "meaning": "v. 鄙视；看不起",
+    "example": "He despised people who were dishonest.",
+    "exampleTranslation": "他鄙视不诚实的人。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "destiny",
+    "phonetic": "/ˈdestɪni/",
+    "meaning": "n. 命运；天命",
+    "example": "She believed it was her destiny to become a writer.",
+    "exampleTranslation": "她相信成为一名作家是她的命运。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "detach",
+    "phonetic": "/dɪˈtætʃ/",
+    "meaning": "v. 分离；拆下",
+    "example": "Please detach the form and mail it back.",
+    "exampleTranslation": "请撕下表格并寄回。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "meaning": "v. 恶化；变坏",
+    "example": "His health has deteriorated rapidly.",
+    "exampleTranslation": "他的健康状况迅速恶化。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "deviate",
+    "phonetic": "/ˈdiːvieɪt/",
+    "meaning": "v. 偏离；背离",
+    "example": "The project deviated from the original plan.",
+    "exampleTranslation": "项目偏离了原计划。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "devote",
+    "phonetic": "/dɪˈvoʊt/",
+    "meaning": "v. 投入；奉献",
+    "example": "He devoted himself to helping the poor.",
+    "exampleTranslation": "他致力于帮助穷人。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "diagnose",
+    "phonetic": "/ˈdaɪəɡnoʊz/",
+    "meaning": "v. 诊断",
+    "example": "The doctor diagnosed her with diabetes.",
+    "exampleTranslation": "医生诊断她患有糖尿病。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dictate",
+    "phonetic": "/dɪkˈteɪt/",
+    "meaning": "v. 命令；口述",
+    "example": "You cannot dictate how other people should live.",
+    "exampleTranslation": "你不能命令别人该怎么生活。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dilemma",
+    "phonetic": "/dɪˈlemə/",
+    "meaning": "n. 困境；进退两难",
+    "example": "She faced the dilemma of choosing between career and family.",
+    "exampleTranslation": "她面临着在事业和家庭之间选择的困境。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "meaning": "v. 减少；缩小",
+    "example": "The threat of war has diminished significantly.",
+    "exampleTranslation": "战争的威胁已大大减少。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "discard",
+    "phonetic": "/dɪˈskɑːrd/",
+    "meaning": "v. 丢弃；抛弃",
+    "example": "Discard any damaged items.",
+    "exampleTranslation": "丢弃任何损坏的物品。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "discipline",
+    "phonetic": "/ˈdɪsəplɪn/",
+    "meaning": "n./v. 纪律；学科",
+    "example": "The school maintains strict discipline.",
+    "exampleTranslation": "学校维持严格的纪律。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "disclose",
+    "phonetic": "/dɪˈskloʊz/",
+    "meaning": "v. 揭露；公开",
+    "example": "The company refused to disclose its financial details.",
+    "exampleTranslation": "公司拒绝公开其财务细节。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "discrete",
+    "phonetic": "/dɪˈskriːt/",
+    "meaning": "adj. 离散的；不相关的",
+    "example": "The data consists of discrete units.",
+    "exampleTranslation": "数据由离散的单元组成。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "discrimination",
+    "phonetic": "/dɪˌskrɪmɪˈneɪʃn/",
+    "meaning": "n. 歧视；辨别力",
+    "example": "Racial discrimination is illegal in many countries.",
+    "exampleTranslation": "种族歧视在许多国家是违法的。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "disguise",
+    "phonetic": "/dɪsˈɡaɪz/",
+    "meaning": "v./n. 伪装；假扮",
+    "example": "He wore a disguise to avoid being recognized.",
+    "exampleTranslation": "他伪装起来以避免被认出。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dismiss",
+    "phonetic": "/dɪsˈmɪs/",
+    "meaning": "v. 解散；驳回",
+    "example": "The judge dismissed the case for lack of evidence.",
+    "exampleTranslation": "法官因证据不足驳回了案件。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dispatch",
+    "phonetic": "/dɪˈspætʃ/",
+    "meaning": "v./n. 派遣；发送",
+    "example": "Emergency teams were dispatched to the scene.",
+    "exampleTranslation": "紧急救援队被派往现场。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "displace",
+    "phonetic": "/dɪsˈpleɪs/",
+    "meaning": "v. 取代；迫使离开",
+    "example": "Thousands of people were displaced by the flood.",
+    "exampleTranslation": "数千人因洪水而流离失所。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dispose",
+    "phonetic": "/dɪˈspoʊz/",
+    "meaning": "v. 处理；安排",
+    "example": "Please dispose of your litter properly.",
+    "exampleTranslation": "请妥善处理垃圾。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dispute",
+    "phonetic": "/dɪˈspjuːt/",
+    "meaning": "n./v. 争论；纠纷",
+    "example": "The dispute was finally resolved through mediation.",
+    "exampleTranslation": "纠纷最终通过调解得到了解决。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "disrupt",
+    "phonetic": "/dɪsˈrʌpt/",
+    "meaning": "v. 扰乱；中断",
+    "example": "The storm disrupted flights across the country.",
+    "exampleTranslation": "暴风雨扰乱了全国各地的航班。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "dissolve",
+    "phonetic": "/dɪˈzɒlv/",
+    "meaning": "v. 溶解；解散",
+    "example": "Sugar dissolves easily in hot water.",
+    "exampleTranslation": "糖在热水中容易溶解。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "distinct",
+    "phonetic": "/dɪˈstɪŋkt/",
+    "meaning": "adj. 不同的；明显的",
+    "example": "The two species have distinct characteristics.",
+    "exampleTranslation": "这两个物种有明显的特征区别。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "distort",
+    "phonetic": "/dɪˈstɔːrt/",
+    "meaning": "v. 扭曲；歪曲",
+    "example": "The media often distorts the facts.",
+    "exampleTranslation": "媒体经常歪曲事实。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "distract",
+    "phonetic": "/dɪˈstrækt/",
+    "meaning": "v. 分心；转移注意力",
+    "example": "Noise from the street distracted her from studying.",
+    "exampleTranslation": "街上的噪音使她学习时分心。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "distribute",
+    "phonetic": "/dɪˈstrɪbjuːt/",
+    "meaning": "v. 分发；分布",
+    "example": "The organization distributes food to the homeless.",
+    "exampleTranslation": "该组织向无家可归者分发食物。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "diverge",
+    "phonetic": "/daɪˈvɜːrdʒ/",
+    "meaning": "v. 分歧；偏离",
+    "example": "Their opinions diverged on this matter.",
+    "exampleTranslation": "他们在这个问题上的意见产生了分歧。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "diverse",
+    "phonetic": "/daɪˈvɜːrs/",
+    "meaning": "adj. 多样的；不同的",
+    "example": "The city has a very diverse population.",
+    "exampleTranslation": "这座城市的人口非常多样化。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "doctrine",
+    "phonetic": "/ˈdɒktrɪn/",
+    "meaning": "n. 教义；学说",
+    "example": "The doctrine has been widely accepted.",
+    "exampleTranslation": "这一学说已被广泛接受。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "domain",
+    "phonetic": "/doʊˈmeɪn/",
+    "meaning": "n. 领域；范围",
+    "example": "This topic falls outside my domain of expertise.",
+    "exampleTranslation": "这个话题超出了我的专业领域。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "dominate",
+    "phonetic": "/ˈdɒmɪneɪt/",
+    "meaning": "v. 支配；主导",
+    "example": "The company dominates the global market.",
+    "exampleTranslation": "这家公司主导着全球市场。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "donate",
+    "phonetic": "/doʊˈneɪt/",
+    "meaning": "v. 捐赠；捐献",
+    "example": "She donated a large sum to the charity.",
+    "exampleTranslation": "她向慈善机构捐赠了一大笔钱。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "doom",
+    "phonetic": "/duːm/",
+    "meaning": "n./v. 厄运；注定",
+    "example": "The project seemed doomed to fail from the start.",
+    "exampleTranslation": "这个项目从一开始就注定要失败。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "drastic",
+    "phonetic": "/ˈdræstɪk/",
+    "meaning": "adj. 激烈的；极端的",
+    "example": "Drastic measures were needed to save the company.",
+    "exampleTranslation": "需要采取极端措施来拯救公司。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "durable",
+    "phonetic": "/ˈdjʊərəbl/",
+    "meaning": "adj. 耐用的；持久的",
+    "example": "This material is very durable.",
+    "exampleTranslation": "这种材料非常耐用。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "dynamic",
+    "phonetic": "/daɪˈnæmɪk/",
+    "meaning": "adj. 动态的；有活力的",
+    "example": "She is a dynamic and inspiring leader.",
+    "exampleTranslation": "她是一位充满活力且鼓舞人心的领导者。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "elaborate",
+    "phonetic": "/ɪˈlæbərət/",
+    "meaning": "adj./v. 精心的；详尽阐述",
+    "example": "Could you elaborate on your proposal?",
+    "exampleTranslation": "你能详细阐述一下你的提案吗？",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "electrode",
+    "phonetic": "/ɪˈlektrəʊd/",
+    "meaning": "n. 电极",
+    "example": "The electrode was placed on the patient's chest.",
+    "exampleTranslation": "电极被放置在患者的胸部。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "elegant",
+    "phonetic": "/ˈelɪɡənt/",
+    "meaning": "adj. 优雅的；精美的",
+    "example": "She gave an elegant solution to the problem.",
+    "exampleTranslation": "她对这个问题给出了一个优雅的解决方案。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "elevate",
+    "phonetic": "/ˈelɪveɪt/",
+    "meaning": "v. 提升；举起",
+    "example": "Exercise can elevate your mood.",
+    "exampleTranslation": "运动可以提升你的心情。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "eligible",
+    "phonetic": "/ˈelɪdʒəbl/",
+    "meaning": "adj. 有资格的；合格的",
+    "example": "Only members are eligible to vote.",
+    "exampleTranslation": "只有成员才有资格投票。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "eliminate",
+    "phonetic": "/ɪˈlɪmɪneɪt/",
+    "meaning": "v. 消除；淘汰",
+    "example": "We need to eliminate all sources of error.",
+    "exampleTranslation": "我们需要消除所有误差来源。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "embrace",
+    "phonetic": "/ɪmˈbreɪs/",
+    "meaning": "v./n. 拥抱；接受",
+    "example": "We should embrace new technologies.",
+    "exampleTranslation": "我们应该拥抱新技术。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "emerge",
+    "phonetic": "/ɪˈmɜːrdʒ/",
+    "meaning": "v. 出现；浮现",
+    "example": "New evidence has emerged in the investigation.",
+    "exampleTranslation": "调查中出现了新的证据。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "emission",
+    "phonetic": "/ɪˈmɪʃn/",
+    "meaning": "n. 排放；散发",
+    "example": "The government aims to reduce carbon emissions.",
+    "exampleTranslation": "政府的目标是减少碳排放。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "emphasize",
+    "phonetic": "/ˈemfəsaɪz/",
+    "meaning": "v. 强调；着重",
+    "example": "The report emphasizes the need for reform.",
+    "exampleTranslation": "报告强调了改革的必要性。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "empirical",
+    "phonetic": "/ɪmˈpɪrɪkl/",
+    "meaning": "adj. 经验主义的；以经验为依据的",
+    "example": "The theory is supported by empirical evidence.",
+    "exampleTranslation": "该理论有经验证据支持。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "encompass",
+    "phonetic": "/ɪnˈkʌmpəs/",
+    "meaning": "v. 包含；围绕",
+    "example": "The course encompasses a wide range of topics.",
+    "exampleTranslation": "这门课程涵盖了广泛的主题。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "endeavor",
+    "phonetic": "/ɪnˈdevər/",
+    "meaning": "n./v. 努力；尝试",
+    "example": "We should endeavor to improve the situation.",
+    "exampleTranslation": "我们应该努力改善局势。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "endorse",
+    "phonetic": "/ɪnˈdɔːrs/",
+    "meaning": "v. 赞同；背书",
+    "example": "The committee endorsed the new proposal.",
+    "exampleTranslation": "委员会赞同了新提案。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "endure",
+    "phonetic": "/ɪnˈdjʊər/",
+    "meaning": "v. 忍受；持续",
+    "example": "She endured great hardship during the war.",
+    "exampleTranslation": "她在战争期间忍受了巨大的苦难。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "enforce",
+    "phonetic": "/ɪnˈfɔːrs/",
+    "meaning": "v. 执行；强制",
+    "example": "The police enforce the law strictly.",
+    "exampleTranslation": "警方严格执行法律。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "engage",
+    "phonetic": "/ɪnˈɡeɪdʒ/",
+    "meaning": "v. 从事；吸引；订婚",
+    "example": "Students should actively engage in class discussions.",
+    "exampleTranslation": "学生应积极参与课堂讨论。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "enhance",
+    "phonetic": "/ɪnˈhæns/",
+    "meaning": "v. 增强；提高",
+    "example": "Technology can enhance the learning experience.",
+    "exampleTranslation": "技术可以增强学习体验。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "enlighten",
+    "phonetic": "/ɪnˈlaɪtn/",
+    "meaning": "v. 启发；开导",
+    "example": "The lecture enlightened me on many issues.",
+    "exampleTranslation": "这场讲座让我对许多问题有了新的认识。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "enterprise",
+    "phonetic": "/ˈentərpraɪz/",
+    "meaning": "n. 企业；事业心",
+    "example": "She showed great enterprise in starting her own business.",
+    "exampleTranslation": "她在创办自己的企业方面表现出了极大的事业心。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "enthusiasm",
+    "phonetic": "/ɪnˈθjuːziæzəm/",
+    "meaning": "n. 热情；热忱",
+    "example": "Her enthusiasm for teaching is inspiring.",
+    "exampleTranslation": "她对教学的热情令人鼓舞。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "entity",
+    "phonetic": "/ˈentəti/",
+    "meaning": "n. 实体；存在",
+    "example": "The company is a separate legal entity.",
+    "exampleTranslation": "公司是一个独立的法律实体。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "epidemic",
+    "phonetic": "/ˌepɪˈdemɪk/",
+    "meaning": "n./adj. 流行病；流行的",
+    "example": "The country is facing an obesity epidemic.",
+    "exampleTranslation": "该国正面临肥胖流行病。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "equivalent",
+    "phonetic": "/ɪˈkwɪvələnt/",
+    "meaning": "adj./n. 等价的；等价物",
+    "example": "One mile is roughly equivalent to 1.6 kilometers.",
+    "exampleTranslation": "一英里大约等于1.6公里。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "erode",
+    "phonetic": "/ɪˈroʊd/",
+    "meaning": "v. 侵蚀；腐蚀",
+    "example": "Wind and rain have eroded the cliffs.",
+    "exampleTranslation": "风雨侵蚀了悬崖。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "essence",
+    "phonetic": "/ˈesns/",
+    "meaning": "n. 本质；精髓",
+    "example": "Time management is the essence of productivity.",
+    "exampleTranslation": "时间管理是效率的本质。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "eternal",
+    "phonetic": "/ɪˈtɜːrnl/",
+    "meaning": "adj. 永恒的；不朽的",
+    "example": "The philosopher pondered the eternal questions of life.",
+    "exampleTranslation": "哲学家思考着关于生命的永恒问题。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "evaluate",
+    "phonetic": "/ɪˈvæljueɪt/",
+    "meaning": "v. 评估；评价",
+    "example": "We need to evaluate the effectiveness of the program.",
+    "exampleTranslation": "我们需要评估该项目的效果。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "evoke",
+    "phonetic": "/ɪˈvoʊk/",
+    "meaning": "v. 唤起；引起",
+    "example": "The music evoked memories of her childhood.",
+    "exampleTranslation": "这音乐唤起了她童年的回忆。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "exaggerate",
+    "phonetic": "/ɪɡˈzædʒəreɪt/",
+    "meaning": "v. 夸张；夸大",
+    "example": "The media tends to exaggerate the risks.",
+    "exampleTranslation": "媒体倾向于夸大风险。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "exceed",
+    "phonetic": "/ɪkˈsiːd/",
+    "meaning": "v. 超过；超越",
+    "example": "Demand has exceeded supply this year.",
+    "exampleTranslation": "今年需求已超过供给。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "exclusive",
+    "phonetic": "/ɪkˈskluːsɪv/",
+    "meaning": "adj. 排他的；独有的",
+    "example": "The hotel offers exclusive services to its guests.",
+    "exampleTranslation": "这家酒店为客人提供专属服务。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "exempt",
+    "phonetic": "/ɪɡˈzempt/",
+    "meaning": "adj./v. 免除的；豁免",
+    "example": "Students are exempt from paying tuition fees.",
+    "exampleTranslation": "学生免交学费。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "exhaust",
+    "phonetic": "/ɪɡˈzɔːst/",
+    "meaning": "v./n. 耗尽；使筋疲力尽",
+    "example": "The long journey exhausted all of us.",
+    "exampleTranslation": "漫长的旅途使我们都筋疲力尽了。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "exotic",
+    "phonetic": "/ɪɡˈzɒtɪk/",
+    "meaning": "adj. 异国的；奇异的",
+    "example": "She loves cooking with exotic spices.",
+    "exampleTranslation": "她喜欢用异国香料烹饪。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "expedition",
+    "phonetic": "/ˌekspɪˈdɪʃn/",
+    "meaning": "n. 远征；探险",
+    "example": "They organized an expedition to the Arctic.",
+    "exampleTranslation": "他们组织了一次北极探险。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "explicit",
+    "phonetic": "/ɪkˈsplɪsɪt/",
+    "meaning": "adj. 明确的；直率的",
+    "example": "She gave explicit instructions not to open the box.",
+    "exampleTranslation": "她明确指示不要打开盒子。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "exploit",
+    "phonetic": "/ɪkˈsplɔɪt/",
+    "meaning": "v./n. 利用；开发；功绩",
+    "example": "We must exploit renewable energy sources.",
+    "exampleTranslation": "我们必须开发可再生能源。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "expose",
+    "phonetic": "/ɪkˈspoʊz/",
+    "meaning": "v. 暴露；揭露",
+    "example": "The report exposed the corruption in the industry.",
+    "exampleTranslation": "报告揭露了该行业的腐败行为。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "extract",
+    "phonetic": "/ɪkˈstrækt/",
+    "meaning": "v./n. 提取；摘录",
+    "example": "Scientists extracted DNA from the sample.",
+    "exampleTranslation": "科学家从样本中提取了DNA。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "extravagant",
+    "phonetic": "/ɪkˈstrævəɡənt/",
+    "meaning": "adj. 奢侈的；铺张的",
+    "example": "The wedding was an extravagant affair.",
+    "exampleTranslation": "这场婚礼非常奢侈。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "fabricate",
+    "phonetic": "/ˈfæbrɪkeɪt/",
+    "meaning": "v. 捏造；制造",
+    "example": "He fabricated the whole story.",
+    "exampleTranslation": "他捏造了整个故事。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "facet",
+    "phonetic": "/ˈfæsɪt/",
+    "meaning": "n. 方面；刻面",
+    "example": "Every facet of the problem must be considered.",
+    "exampleTranslation": "问题的每个方面都必须考虑。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "facilitate",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "meaning": "v. 促进；使便利",
+    "example": "Technology facilitates communication across distances.",
+    "exampleTranslation": "技术促进了远距离沟通。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "faculty",
+    "phonetic": "/ˈfæklti/",
+    "meaning": "n. 全体教员；能力",
+    "example": "The faculty meeting is scheduled for Friday.",
+    "exampleTranslation": "全体教员会议安排在周五。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "feasible",
+    "phonetic": "/ˈfiːzəbl/",
+    "meaning": "adj. 可行的；可能的",
+    "example": "The plan does not seem feasible.",
+    "exampleTranslation": "这个计划似乎不可行。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "feeble",
+    "phonetic": "/ˈfiːbl/",
+    "meaning": "adj. 虚弱的；无力的",
+    "example": "He made a feeble attempt to justify his actions.",
+    "exampleTranslation": "他无力地试图为自己的行为辩解。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "fellowship",
+    "phonetic": "/ˈfeloʊʃɪp/",
+    "meaning": "n. 友谊；研究员职位",
+    "example": "She was awarded a research fellowship.",
+    "exampleTranslation": "她获得了一项研究奖学金。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "feminine",
+    "phonetic": "/ˈfemənɪn/",
+    "meaning": "adj. 女性的；女子气的",
+    "example": "The dress has a very feminine design.",
+    "exampleTranslation": "这条裙子有非常女性化的设计。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "fierce",
+    "phonetic": "/fɪrs/",
+    "meaning": "adj. 凶猛的；激烈的",
+    "example": "There is fierce competition in the job market.",
+    "exampleTranslation": "就业市场竞争激烈。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "filter",
+    "phonetic": "/ˈfɪltər/",
+    "meaning": "v./n. 过滤；筛选",
+    "example": "The water is passed through a filter.",
+    "exampleTranslation": "水通过过滤器过滤。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "finite",
+    "phonetic": "/ˈfaɪnaɪt/",
+    "meaning": "adj. 有限的",
+    "example": "Natural resources are finite.",
+    "exampleTranslation": "自然资源是有限的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "fixture",
+    "phonetic": "/ˈfɪkstʃər/",
+    "meaning": "n. 固定装置；常客",
+    "example": "The old fixtures in the house need replacing.",
+    "exampleTranslation": "房子里的旧固定装置需要更换。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "flaw",
+    "phonetic": "/flɔː/",
+    "meaning": "n. 缺陷；瑕疵",
+    "example": "The study has several methodological flaws.",
+    "exampleTranslation": "这项研究有几个方法论上的缺陷。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "flee",
+    "phonetic": "/fliː/",
+    "meaning": "v. 逃跑；逃避",
+    "example": "The residents fled the building during the earthquake.",
+    "exampleTranslation": "地震期间居民们逃离了大楼。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "flourish",
+    "phonetic": "/ˈflʌrɪʃ/",
+    "meaning": "v. 繁荣；茂盛",
+    "example": "The economy flourished under the new policy.",
+    "exampleTranslation": "经济在新政策下繁荣发展。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "fluctuate",
+    "phonetic": "/ˈflʌktʃueɪt/",
+    "meaning": "v. 波动；起伏",
+    "example": "Oil prices fluctuate according to global demand.",
+    "exampleTranslation": "石油价格根据全球需求波动。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "formidable",
+    "phonetic": "/ˈfɔːrmɪdəbl/",
+    "meaning": "adj. 强大的；令人敬畏的",
+    "example": "She is a formidable opponent.",
+    "exampleTranslation": "她是一个强大的对手。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "formulate",
+    "phonetic": "/ˈfɔːrmjuleɪt/",
+    "meaning": "v. 制定；构想",
+    "example": "The team formulated a new strategy.",
+    "exampleTranslation": "团队制定了一项新策略。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "foster",
+    "phonetic": "/ˈfɒstər/",
+    "meaning": "v. 培养；促进",
+    "example": "The program aims to foster innovation.",
+    "exampleTranslation": "该项目旨在促进创新。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "fragile",
+    "phonetic": "/ˈfrædʒaɪl/",
+    "meaning": "adj. 脆弱的；易碎的",
+    "example": "Handle with care — the vase is fragile.",
+    "exampleTranslation": "小心轻放——花瓶很脆弱。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "friction",
+    "phonetic": "/ˈfrɪkʃn/",
+    "meaning": "n. 摩擦；冲突",
+    "example": "There is friction between the two departments.",
+    "exampleTranslation": "两个部门之间存在摩擦。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "fulfill",
+    "phonetic": "/fʊlˈfɪl/",
+    "meaning": "v. 实现；履行",
+    "example": "He worked hard to fulfill his dream.",
+    "exampleTranslation": "他努力工作以实现自己的梦想。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "fundamental",
+    "phonetic": "/ˌfʌndəˈmentl/",
+    "meaning": "adj. 基本的；根本的",
+    "example": "Education is a fundamental right.",
+    "exampleTranslation": "教育是一项基本权利。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "fury",
+    "phonetic": "/ˈfjʊəri/",
+    "meaning": "n. 狂怒；暴怒",
+    "example": "The decision provoked fury among the workers.",
+    "exampleTranslation": "这个决定激起了工人们的愤怒。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "generate",
+    "phonetic": "/ˈdʒenəreɪt/",
+    "meaning": "v. 产生；发电",
+    "example": "Solar panels generate clean energy.",
+    "exampleTranslation": "太阳能电池板产生清洁能源。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "genetic",
+    "phonetic": "/dʒəˈnetɪk/",
+    "meaning": "adj. 遗传的；基因的",
+    "example": "The disease has a genetic component.",
+    "exampleTranslation": "这种疾病有遗传因素。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "genuine",
+    "phonetic": "/ˈdʒenjuɪn/",
+    "meaning": "adj. 真正的；真诚的",
+    "example": "She showed genuine concern for his welfare.",
+    "exampleTranslation": "她对他的福祉表现出了真诚的关心。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "gesture",
+    "phonetic": "/ˈdʒestʃər/",
+    "meaning": "n./v. 手势；姿态",
+    "example": "It was a kind gesture on her part.",
+    "exampleTranslation": "这是她的一种善意姿态。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "gigantic",
+    "phonetic": "/dʒaɪˈɡæntɪk/",
+    "meaning": "adj. 巨大的",
+    "example": "They built a gigantic shopping mall.",
+    "exampleTranslation": "他们建了一座巨大的购物中心。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "gloomy",
+    "phonetic": "/ˈɡluːmi/",
+    "meaning": "adj. 阴暗的；忧郁的",
+    "example": "The weather looks gloomy today.",
+    "exampleTranslation": "今天天气看起来很阴沉。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "gorgeous",
+    "phonetic": "/ˈɡɔːrdʒəs/",
+    "meaning": "adj. 华丽的；极好的",
+    "example": "The sunset was absolutely gorgeous.",
+    "exampleTranslation": "日落美极了。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "govern",
+    "phonetic": "/ˈɡʌvərn/",
+    "meaning": "v. 统治；管理",
+    "example": "Laws govern the behavior of citizens.",
+    "exampleTranslation": "法律规范公民的行为。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "grace",
+    "phonetic": "/ɡreɪs/",
+    "meaning": "n. 优雅；恩典",
+    "example": "She moved with natural grace.",
+    "exampleTranslation": "她举止优雅自然。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "grant",
+    "phonetic": "/ɡrænt/",
+    "meaning": "v./n. 授予；拨款",
+    "example": "The university was granted funding for research.",
+    "exampleTranslation": "大学获得了研究拨款。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "grasp",
+    "phonetic": "/ɡræsp/",
+    "meaning": "v./n. 抓住；理解",
+    "example": "It took her a while to grasp the concept.",
+    "exampleTranslation": "她花了一段时间才理解这个概念。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "gratitude",
+    "phonetic": "/ˈɡrætɪtjuːd/",
+    "meaning": "n. 感激；感谢",
+    "example": "I want to express my gratitude for your help.",
+    "exampleTranslation": "我想对你的帮助表达感激之情。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "grieve",
+    "phonetic": "/ɡriːv/",
+    "meaning": "v. 悲伤；哀悼",
+    "example": "She is still grieving the loss of her father.",
+    "exampleTranslation": "她仍在为失去父亲而悲伤。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "grim",
+    "phonetic": "/ɡrɪm/",
+    "meaning": "adj. 严峻的；冷酷的",
+    "example": "The economic outlook is rather grim.",
+    "exampleTranslation": "经济前景相当严峻。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "gross",
+    "phonetic": "/ɡroʊs/",
+    "meaning": "adj. 总的；粗鲁的",
+    "example": "The gross income was higher than expected.",
+    "exampleTranslation": "总收入高于预期。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "guarantee",
+    "phonetic": "/ˌɡærənˈtiː/",
+    "meaning": "v./n. 保证；担保",
+    "example": "We guarantee the quality of our products.",
+    "exampleTranslation": "我们保证产品的质量。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "halt",
+    "phonetic": "/hɔːlt/",
+    "meaning": "v./n. 停止；暂停",
+    "example": "Production was halted due to safety concerns.",
+    "exampleTranslation": "由于安全考虑，生产被停止了。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "hamper",
+    "phonetic": "/ˈhæmpər/",
+    "meaning": "v. 妨碍；阻碍",
+    "example": "Bad weather hampered rescue efforts.",
+    "exampleTranslation": "恶劣天气阻碍了救援工作。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "handicap",
+    "phonetic": "/ˈhændikæp/",
+    "meaning": "n./v. 障碍；使不利",
+    "example": "Lack of funding is a major handicap for the project.",
+    "exampleTranslation": "缺乏资金是这个项目的主要障碍。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "harass",
+    "phonetic": "/həˈræs/",
+    "meaning": "v. 骚扰；烦扰",
+    "example": "It is illegal to harass someone in the workplace.",
+    "exampleTranslation": "在工作场所骚扰他人是违法的。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "harmony",
+    "phonetic": "/ˈhɑːrməni/",
+    "meaning": "n. 和谐；融洽",
+    "example": "They lived together in harmony.",
+    "exampleTranslation": "他们和谐地生活在一起。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "harness",
+    "phonetic": "/ˈhɑːrnɪs/",
+    "meaning": "v. 利用；控制",
+    "example": "We must harness the power of technology.",
+    "exampleTranslation": "我们必须利用技术的力量。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "harsh",
+    "phonetic": "/hɑːrʃ/",
+    "meaning": "adj. 严厉的；恶劣的",
+    "example": "The punishment was too harsh.",
+    "exampleTranslation": "惩罚太严厉了。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "hasty",
+    "phonetic": "/ˈheɪsti/",
+    "meaning": "adj. 匆忙的；草率的",
+    "example": "Don't make a hasty decision.",
+    "exampleTranslation": "不要匆忙做决定。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "hazard",
+    "phonetic": "/ˈhæzərd/",
+    "meaning": "n./v. 危险；冒险",
+    "example": "Smoking is a health hazard.",
+    "exampleTranslation": "吸烟是一种健康危害。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "heritage",
+    "phonetic": "/ˈherɪtɪdʒ/",
+    "meaning": "n. 遗产；传统",
+    "example": "The ancient temple is part of our cultural heritage.",
+    "exampleTranslation": "这座古庙是我们文化遗产的一部分。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "hierarchy",
+    "phonetic": "/ˈhaɪərɑːrki/",
+    "meaning": "n. 等级制度；层级",
+    "example": "There is a strict hierarchy in the organization.",
+    "exampleTranslation": "这个组织有严格的等级制度。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "hinder",
+    "phonetic": "/ˈhɪndər/",
+    "meaning": "v. 阻碍；妨碍",
+    "example": "Lack of sleep can hinder your performance.",
+    "exampleTranslation": "睡眠不足会影响你的表现。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "hormone",
+    "phonetic": "/ˈhɔːrmoʊn/",
+    "meaning": "n. 荷尔蒙；激素",
+    "example": "Stress hormones can affect your health.",
+    "exampleTranslation": "压力荷尔蒙会影响你的健康。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "hostile",
+    "phonetic": "/ˈhɒstaɪl/",
+    "meaning": "adj. 敌对的；不友好的",
+    "example": "He was met with a hostile reception.",
+    "exampleTranslation": "他受到了敌对的接待。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "humble",
+    "phonetic": "/ˈhʌmbl/",
+    "meaning": "adj. 谦逊的；卑微的",
+    "example": "Despite his success, he remained humble.",
+    "exampleTranslation": "尽管取得了成功，他仍然保持谦逊。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "humiliate",
+    "phonetic": "/hjuːˈmɪlieɪt/",
+    "meaning": "v. 羞辱；使丢脸",
+    "example": "He was humiliated in front of his classmates.",
+    "exampleTranslation": "他在同学面前受到了羞辱。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "hypothesis",
+    "phonetic": "/haɪˈpɒθəsɪs/",
+    "meaning": "n. 假说；假设",
+    "example": "The scientist proposed a new hypothesis.",
+    "exampleTranslation": "科学家提出了一个新假设。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "identical",
+    "phonetic": "/aɪˈdentɪkl/",
+    "meaning": "adj. 完全相同的",
+    "example": "The two documents are virtually identical.",
+    "exampleTranslation": "这两份文件几乎完全相同。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "ideology",
+    "phonetic": "/ˌaɪdiˈɒlədʒi/",
+    "meaning": "n. 意识形态；思想体系",
+    "example": "Political ideology shapes government policy.",
+    "exampleTranslation": "政治意识形态塑造政府政策。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "ignorance",
+    "phonetic": "/ˈɪɡnərəns/",
+    "meaning": "n. 无知；愚昧",
+    "example": "Ignorance of the law is no excuse.",
+    "exampleTranslation": "不懂法律不能成为借口。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "illuminate",
+    "phonetic": "/ɪˈluːmɪneɪt/",
+    "meaning": "v. 照亮；阐明",
+    "example": "The research illuminated several important issues.",
+    "exampleTranslation": "这项研究阐明了一些重要问题。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "illusion",
+    "phonetic": "/ɪˈluːʒn/",
+    "meaning": "n. 错觉；幻想",
+    "example": "He had no illusions about the difficulty of the task.",
+    "exampleTranslation": "他对任务的困难没有抱任何幻想。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "immerse",
+    "phonetic": "/ɪˈmɜːrs/",
+    "meaning": "v. 沉浸；浸入",
+    "example": "She immersed herself in her studies.",
+    "exampleTranslation": "她沉浸在学习中。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "immune",
+    "phonetic": "/ɪˈmjuːn/",
+    "meaning": "adj. 免疫的；不受影响的",
+    "example": "No one is immune to the effects of stress.",
+    "exampleTranslation": "没有人能免疫压力的影响。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "impair",
+    "phonetic": "/ɪmˈpeər/",
+    "meaning": "v. 损害；削弱",
+    "example": "Alcohol can impair your judgment.",
+    "exampleTranslation": "酒精会损害你的判断力。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "implement",
+    "phonetic": "/ˈɪmplɪment/",
+    "meaning": "v./n. 实施；工具",
+    "example": "The government plans to implement new regulations.",
+    "exampleTranslation": "政府计划实施新规定。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "implicit",
+    "phonetic": "/ɪmˈplɪsɪt/",
+    "meaning": "adj. 隐含的；含蓄的",
+    "example": "There was an implicit threat in his words.",
+    "exampleTranslation": "他的话中隐含着威胁。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "impose",
+    "phonetic": "/ɪmˈpoʊz/",
+    "meaning": "v. 强加；征收",
+    "example": "The government imposed a tax on imports.",
+    "exampleTranslation": "政府对进口商品征收了税。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "impulse",
+    "phonetic": "/ˈɪmpʌls/",
+    "meaning": "n. 冲动；脉冲",
+    "example": "She bought the dress on impulse.",
+    "exampleTranslation": "她一时冲动买了那条裙子。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "inadequate",
+    "phonetic": "/ɪnˈædɪkwət/",
+    "meaning": "adj. 不充分的；不适当的",
+    "example": "The funding was inadequate for the project.",
+    "exampleTranslation": "资金对这个项目来说不够。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "inaugurate",
+    "phonetic": "/ɪˈnɔːɡjureɪt/",
+    "meaning": "v. 开创；使就职",
+    "example": "The new president was inaugurated in January.",
+    "exampleTranslation": "新总统在一月份就职。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "incidence",
+    "phonetic": "/ˈɪnsɪdəns/",
+    "meaning": "n. 发生率；影响范围",
+    "example": "The incidence of the disease has decreased.",
+    "exampleTranslation": "这种疾病的发病率已经下降。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "inclination",
+    "phonetic": "/ˌɪnklɪˈneɪʃn/",
+    "meaning": "n. 倾向；意愿",
+    "example": "He has an inclination toward the arts.",
+    "exampleTranslation": "他有艺术方面的倾向。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "incorporate",
+    "phonetic": "/ɪnˈkɔːrpəreɪt/",
+    "meaning": "v. 合并；包含",
+    "example": "The plan incorporates several new features.",
+    "exampleTranslation": "该计划包含了几项新功能。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "incredible",
+    "phonetic": "/ɪnˈkredəbl/",
+    "meaning": "adj. 难以置信的",
+    "example": "She has made incredible progress this year.",
+    "exampleTranslation": "她今年取得了令人难以置信的进步。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "indifferent",
+    "phonetic": "/ɪnˈdɪfrənt/",
+    "meaning": "adj. 漠不关心的",
+    "example": "He seemed indifferent to her feelings.",
+    "exampleTranslation": "他似乎对她的感受漠不关心。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "indigenous",
+    "phonetic": "/ɪnˈdɪdʒənəs/",
+    "meaning": "adj. 本地的；土著的",
+    "example": "The indigenous people have lived here for centuries.",
+    "exampleTranslation": "土著人民在这里生活了几个世纪。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "indispensable",
+    "phonetic": "/ˌɪndɪˈspensəbl/",
+    "meaning": "adj. 不可缺少的",
+    "example": "Computers have become indispensable in modern life.",
+    "exampleTranslation": "电脑在现代生活中已变得不可缺少。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "induce",
+    "phonetic": "/ɪnˈdjuːs/",
+    "meaning": "v. 引诱；导致",
+    "example": "Stress can induce headaches.",
+    "exampleTranslation": "压力可能导致头痛。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "inevitable",
+    "phonetic": "/ɪnˈevɪtəbl/",
+    "meaning": "adj. 不可避免的",
+    "example": "Change is inevitable in any organization.",
+    "exampleTranslation": "在任何组织中，变化都是不可避免的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "infer",
+    "phonetic": "/ɪnˈfɜːr/",
+    "meaning": "v. 推断；推论",
+    "example": "We can infer from the data that sales are declining.",
+    "exampleTranslation": "从数据中我们可以推断出销售额在下降。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "ingenious",
+    "phonetic": "/ɪnˈdʒiːniəs/",
+    "meaning": "adj. 巧妙的；有创意的",
+    "example": "She came up with an ingenious solution.",
+    "exampleTranslation": "她想出了一个巧妙的解决方案。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "inherent",
+    "phonetic": "/ɪnˈhɪərənt/",
+    "meaning": "adj. 固有的；内在的",
+    "example": "There are inherent risks in any investment.",
+    "exampleTranslation": "任何投资都有固有的风险。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "inhibit",
+    "phonetic": "/ɪnˈhɪbɪt/",
+    "meaning": "v. 抑制；阻止",
+    "example": "Fear can inhibit creativity.",
+    "exampleTranslation": "恐惧会抑制创造力。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "initiate",
+    "phonetic": "/ɪˈnɪʃieɪt/",
+    "meaning": "v. 发起；开始",
+    "example": "The company initiated a new training program.",
+    "exampleTranslation": "公司启动了一个新的培训项目。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "innovation",
+    "phonetic": "/ˌɪnəˈveɪʃn/",
+    "meaning": "n. 创新；革新",
+    "example": "Innovation is the key to business success.",
+    "exampleTranslation": "创新是企业成功的关键。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "insight",
+    "phonetic": "/ˈɪnsaɪt/",
+    "meaning": "n. 洞察力；见解",
+    "example": "The book provides valuable insights into human behavior.",
+    "exampleTranslation": "这本书提供了对人类行为的宝贵见解。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "inspect",
+    "phonetic": "/ɪnˈspekt/",
+    "meaning": "v. 检查；视察",
+    "example": "Officials inspected the factory for safety violations.",
+    "exampleTranslation": "官员们检查了工厂的安全违规情况。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "install",
+    "phonetic": "/ɪnˈstɔːl/",
+    "meaning": "v. 安装；设置",
+    "example": "We need to install new software on all computers.",
+    "exampleTranslation": "我们需要在所有电脑上安装新软件。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "instinct",
+    "phonetic": "/ˈɪnstɪŋkt/",
+    "meaning": "n. 本能；直觉",
+    "example": "Animals rely on instinct to survive.",
+    "exampleTranslation": "动物依靠本能生存。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "institute",
+    "phonetic": "/ˈɪnstɪtjuːt/",
+    "meaning": "n./v. 研究所；制定",
+    "example": "The research institute was founded in 1990.",
+    "exampleTranslation": "该研究所成立于1990年。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "integral",
+    "phonetic": "/ˈɪntɪɡrəl/",
+    "meaning": "adj. 不可或缺的；完整的",
+    "example": "Teamwork is an integral part of the project.",
+    "exampleTranslation": "团队合作是项目不可或缺的一部分。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "integrate",
+    "phonetic": "/ˈɪntɪɡreɪt/",
+    "meaning": "v. 整合；融合",
+    "example": "The school aims to integrate students from diverse backgrounds.",
+    "exampleTranslation": "学校旨在融合来自不同背景的学生。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "integrity",
+    "phonetic": "/ɪnˈteɡrəti/",
+    "meaning": "n. 正直；完整性",
+    "example": "He is a man of great integrity.",
+    "exampleTranslation": "他是一个非常正直的人。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "intellectual",
+    "phonetic": "/ˌɪntəˈlektʃuəl/",
+    "meaning": "adj./n. 智力的；知识分子",
+    "example": "Intellectual curiosity drives scientific discovery.",
+    "exampleTranslation": "求知欲推动科学发现。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "intensify",
+    "phonetic": "/ɪnˈtensɪfaɪ/",
+    "meaning": "v. 加强；加剧",
+    "example": "The conflict has intensified in recent weeks.",
+    "exampleTranslation": "冲突在最近几周加剧了。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "intercourse",
+    "phonetic": "/ˈɪntərkɔːrs/",
+    "meaning": "n. 交流；交往",
+    "example": "Cultural intercourse promotes mutual understanding.",
+    "exampleTranslation": "文化交流促进相互理解。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "interfere",
+    "phonetic": "/ˌɪntərˈfɪər/",
+    "meaning": "v. 干涉；妨碍",
+    "example": "Don't interfere in other people's affairs.",
+    "exampleTranslation": "不要干涉别人的事情。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "intermediate",
+    "phonetic": "/ˌɪntərˈmiːdiət/",
+    "meaning": "adj. 中间的；中级的",
+    "example": "Students at the intermediate level can take this course.",
+    "exampleTranslation": "中级水平的学生可以选修这门课。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "interpret",
+    "phonetic": "/ɪnˈtɜːrprɪt/",
+    "meaning": "v. 解释；口译",
+    "example": "How do you interpret the data?",
+    "exampleTranslation": "你如何解释这些数据？",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "intervene",
+    "phonetic": "/ˌɪntərˈviːn/",
+    "meaning": "v. 干预；介入",
+    "example": "The government decided to intervene in the crisis.",
+    "exampleTranslation": "政府决定干预这场危机。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "intimate",
+    "phonetic": "/ˈɪntɪmət/",
+    "meaning": "adj. 亲密的；私人的",
+    "example": "She shared intimate details of her life.",
+    "exampleTranslation": "她分享了她生活中私密的事情。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "intricate",
+    "phonetic": "/ˈɪntrɪkət/",
+    "meaning": "adj. 复杂的；精细的",
+    "example": "The design of the machine is very intricate.",
+    "exampleTranslation": "这台机器的设计非常复杂。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "intrinsic",
+    "phonetic": "/ɪnˈtrɪnzɪk/",
+    "meaning": "adj. 固有的；内在的",
+    "example": "The intrinsic value of education cannot be measured.",
+    "exampleTranslation": "教育的内在价值无法衡量。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "intuition",
+    "phonetic": "/ˌɪntjuˈɪʃn/",
+    "meaning": "n. 直觉；直感",
+    "example": "She had an intuition that something was wrong.",
+    "exampleTranslation": "她直觉有什么不对劲。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "invade",
+    "phonetic": "/ɪnˈveɪd/",
+    "meaning": "v. 侵入；侵犯",
+    "example": "The army invaded the neighboring country.",
+    "exampleTranslation": "军队入侵了邻国。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "invalid",
+    "phonetic": "/ɪnˈvælɪd/",
+    "meaning": "adj. 无效的；站不住脚的",
+    "example": "Your ticket is no longer valid — it is invalid.",
+    "exampleTranslation": "你的票不再有效——它是无效的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "inventory",
+    "phonetic": "/ˈɪnvəntɔːri/",
+    "meaning": "n. 库存；清单",
+    "example": "We need to check the inventory regularly.",
+    "exampleTranslation": "我们需要定期检查库存。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "investigate",
+    "phonetic": "/ɪnˈvestɪɡeɪt/",
+    "meaning": "v. 调查；研究",
+    "example": "The police are investigating the incident.",
+    "exampleTranslation": "警方正在调查这一事件。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "invoke",
+    "phonetic": "/ɪnˈvoʊk/",
+    "meaning": "v. 援引；祈求",
+    "example": "The lawyer invoked a constitutional right.",
+    "exampleTranslation": "律师援引了一项宪法权利。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "irony",
+    "phonetic": "/ˈaɪrəni/",
+    "meaning": "n. 讽刺；反语",
+    "example": "There is a certain irony in the situation.",
+    "exampleTranslation": "这种情况带有某种讽刺意味。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "irritate",
+    "phonetic": "/ˈɪrɪteɪt/",
+    "meaning": "v. 激怒；刺激",
+    "example": "His constant complaining irritated everyone.",
+    "exampleTranslation": "他不断的抱怨激怒了所有人。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "isolate",
+    "phonetic": "/ˈaɪsəleɪt/",
+    "meaning": "v. 隔离；孤立",
+    "example": "The patient was isolated to prevent the spread of disease.",
+    "exampleTranslation": "患者被隔离以防止疾病传播。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "jeopardize",
+    "phonetic": "/ˈdʒepərdaɪz/",
+    "meaning": "v. 危及；损害",
+    "example": "Reckless spending could jeopardize the company's future.",
+    "exampleTranslation": "鲁莽的支出可能危及公司的未来。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "judicial",
+    "phonetic": "/dʒuːˈdɪʃl/",
+    "meaning": "adj. 司法的；审判的",
+    "example": "The judicial system needs reform.",
+    "exampleTranslation": "司法系统需要改革。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "junction",
+    "phonetic": "/ˈdʒʌŋkʃn/",
+    "meaning": "n. 交叉点；汇合处",
+    "example": "Turn left at the next junction.",
+    "exampleTranslation": "在下一个交叉路口左转。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "jurisdiction",
+    "phonetic": "/ˌdʒʊərɪsˈdɪkʃn/",
+    "meaning": "n. 管辖权；权限",
+    "example": "This matter falls under federal jurisdiction.",
+    "exampleTranslation": "此事属于联邦管辖范围。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "juvenile",
+    "phonetic": "/ˈdʒuːvənaɪl/",
+    "meaning": "adj./n. 青少年的；少年",
+    "example": "Juvenile crime rates have increased.",
+    "exampleTranslation": "青少年犯罪率上升了。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "landscape",
+    "phonetic": "/ˈlændskeɪp/",
+    "meaning": "n. 风景；景观",
+    "example": "The political landscape has changed dramatically.",
+    "exampleTranslation": "政治格局发生了巨大变化。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "launch",
+    "phonetic": "/lɔːntʃ/",
+    "meaning": "v./n. 发射；发起",
+    "example": "The company plans to launch a new product next month.",
+    "exampleTranslation": "公司计划下个月发布一款新产品。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "legitimate",
+    "phonetic": "/lɪˈdʒɪtɪmət/",
+    "meaning": "adj. 合法的；正当的",
+    "example": "She has a legitimate reason for being absent.",
+    "exampleTranslation": "她有正当的缺席理由。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "leisure",
+    "phonetic": "/ˈleʒər/",
+    "meaning": "n. 休闲；空闲时间",
+    "example": "He enjoys reading in his leisure time.",
+    "exampleTranslation": "他喜欢在空闲时间阅读。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "liable",
+    "phonetic": "/ˈlaɪəbl/",
+    "meaning": "adj. 有责任的；易于...的",
+    "example": "You are liable for any damage caused.",
+    "exampleTranslation": "你对造成的任何损坏都有责任。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "liberal",
+    "phonetic": "/ˈlɪbərəl/",
+    "meaning": "adj. 自由的；开明的",
+    "example": "She holds liberal views on education.",
+    "exampleTranslation": "她对教育持开明观点。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "linger",
+    "phonetic": "/ˈlɪŋɡər/",
+    "meaning": "v. 逗留；徘徊",
+    "example": "The smell of smoke lingered in the room.",
+    "exampleTranslation": "烟味在房间里挥之不去。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "literacy",
+    "phonetic": "/ˈlɪtərəsi/",
+    "meaning": "n. 读写能力；素养",
+    "example": "Improving digital literacy is a priority.",
+    "exampleTranslation": "提高数字素养是当务之急。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "literally",
+    "phonetic": "/ˈlɪtərəli/",
+    "meaning": "adv. 字面上地；确实地",
+    "example": "The word is literally used in this context.",
+    "exampleTranslation": "这个词在这个语境中是字面意义上的用法。",
+    "level": 3,
+    "category": "副词",
+    "grade": 14
+  },
+  {
+    "word": "litter",
+    "phonetic": "/ˈlɪtər/",
+    "meaning": "n./v. 垃圾；乱扔",
+    "example": "Please do not litter in public places.",
+    "exampleTranslation": "请不要在公共场所乱扔垃圾。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "lobby",
+    "phonetic": "/ˈlɒbi/",
+    "meaning": "n./v. 游说；大厅",
+    "example": "Environmental groups lobbied for stricter regulations.",
+    "exampleTranslation": "环保组织游说要求更严格的规定。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "lofty",
+    "phonetic": "/ˈlɒfti/",
+    "meaning": "adj. 崇高的；高耸的",
+    "example": "He set lofty goals for himself.",
+    "exampleTranslation": "他为自己设定了崇高的目标。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "logic",
+    "phonetic": "/ˈlɒdʒɪk/",
+    "meaning": "n. 逻辑；推理",
+    "example": "There is no logic in his argument.",
+    "exampleTranslation": "他的论点没有逻辑。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "loyalty",
+    "phonetic": "/ˈlɔɪəlti/",
+    "meaning": "n. 忠诚；忠心",
+    "example": "His loyalty to the company is unquestionable.",
+    "exampleTranslation": "他对公司的忠诚是毋庸置疑的。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "luminous",
+    "phonetic": "/ˈluːmɪnəs/",
+    "meaning": "adj. 发光的；明亮的",
+    "example": "The stars were luminous in the clear sky.",
+    "exampleTranslation": "晴空中的星星闪闪发光。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "magnify",
+    "phonetic": "/ˈmæɡnɪfaɪ/",
+    "meaning": "v. 放大；夸大",
+    "example": "The microscope magnifies objects up to 1000 times.",
+    "exampleTranslation": "显微镜可以将物体放大1000倍。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "magnitude",
+    "phonetic": "/ˈmæɡnɪtjuːd/",
+    "meaning": "n. 重要性；规模",
+    "example": "They did not realize the magnitude of the problem.",
+    "exampleTranslation": "他们没有意识到问题的严重性。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "manipulate",
+    "phonetic": "/məˈnɪpjuleɪt/",
+    "meaning": "v. 操纵；控制",
+    "example": "He tried to manipulate public opinion.",
+    "exampleTranslation": "他试图操纵公众舆论。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "manifest",
+    "phonetic": "/ˈmænɪfest/",
+    "meaning": "v./adj. 表明；明显的",
+    "example": "His nervousness manifested itself in his shaking hands.",
+    "exampleTranslation": "他的紧张表现在颤抖的双手上。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "manuscript",
+    "phonetic": "/ˈmænjuskrɪpt/",
+    "meaning": "n. 手稿；原稿",
+    "example": "The author submitted the manuscript to the publisher.",
+    "exampleTranslation": "作者将手稿提交给了出版社。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "marginal",
+    "phonetic": "/ˈmɑːrdʒɪnl/",
+    "meaning": "adj. 边缘的；微小的",
+    "example": "There has been a marginal improvement in sales.",
+    "exampleTranslation": "销售额有微小的改善。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "massacre",
+    "phonetic": "/ˈmæsəkər/",
+    "meaning": "n./v. 大屠杀",
+    "example": "The massacre shocked the entire world.",
+    "exampleTranslation": "这场大屠杀震惊了全世界。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "mediate",
+    "phonetic": "/ˈmiːdieɪt/",
+    "meaning": "v. 调解；斡旋",
+    "example": "The UN mediated between the two countries.",
+    "exampleTranslation": "联合国在两国之间进行了调解。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "medieval",
+    "phonetic": "/ˌmediˈiːvl/",
+    "meaning": "adj. 中世纪的",
+    "example": "The castle dates back to medieval times.",
+    "exampleTranslation": "这座城堡可以追溯到中世纪。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "memorize",
+    "phonetic": "/ˈmeməraɪz/",
+    "meaning": "v. 记忆；背诵",
+    "example": "Students need to memorize the vocabulary.",
+    "exampleTranslation": "学生需要记忆这些词汇。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "merge",
+    "phonetic": "/mɜːrdʒ/",
+    "meaning": "v. 合并；融合",
+    "example": "The two companies decided to merge.",
+    "exampleTranslation": "两家公司决定合并。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "migrate",
+    "phonetic": "/maɪˈɡreɪt/",
+    "meaning": "v. 迁移；移居",
+    "example": "Many birds migrate south for the winter.",
+    "exampleTranslation": "许多鸟类在冬天向南迁徙。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "militant",
+    "phonetic": "/ˈmɪlɪtənt/",
+    "meaning": "adj./n. 激进的；好战分子",
+    "example": "Militant groups have threatened further attacks.",
+    "exampleTranslation": "激进组织威胁将进一步发动攻击。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "miniature",
+    "phonetic": "/ˈmɪnətʃər/",
+    "meaning": "adj./n. 微型的；微型模型",
+    "example": "She collects miniature figurines.",
+    "exampleTranslation": "她收集微型人偶。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "minimize",
+    "phonetic": "/ˈmɪnɪmaɪz/",
+    "meaning": "v. 最小化；降到最低",
+    "example": "We need to minimize the risk of errors.",
+    "exampleTranslation": "我们需要将错误风险降到最低。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "mislead",
+    "phonetic": "/mɪsˈliːd/",
+    "meaning": "v. 误导；引入歧途",
+    "example": "The advertisement was designed to mislead consumers.",
+    "exampleTranslation": "这则广告旨在误导消费者。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "momentum",
+    "phonetic": "/moʊˈmentəm/",
+    "meaning": "n. 动力；势头",
+    "example": "The campaign is gaining momentum.",
+    "exampleTranslation": "这场运动正在获得势头。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "monopoly",
+    "phonetic": "/məˈnɒpəli/",
+    "meaning": "n. 垄断；独占",
+    "example": "The company has a monopoly on the market.",
+    "exampleTranslation": "这家公司垄断了市场。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "motive",
+    "phonetic": "/ˈmoʊtɪv/",
+    "meaning": "n. 动机；目的",
+    "example": "The police are trying to determine the motive for the crime.",
+    "exampleTranslation": "警方正试图确定犯罪的动机。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "municipal",
+    "phonetic": "/mjuːˈnɪsɪpl/",
+    "meaning": "adj. 市政的；地方的",
+    "example": "The municipal government approved the new plan.",
+    "exampleTranslation": "市政府批准了新计划。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "mutual",
+    "phonetic": "/ˈmjuːtʃuəl/",
+    "meaning": "adj. 相互的；共同的",
+    "example": "The decision was based on mutual respect.",
+    "exampleTranslation": "这个决定基于相互尊重。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "myth",
+    "phonetic": "/mɪθ/",
+    "meaning": "n. 神话；虚构",
+    "example": "It is a myth that money always brings happiness.",
+    "exampleTranslation": "钱总是带来幸福，这是一个迷思。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "neglect",
+    "phonetic": "/nɪˈɡlekt/",
+    "meaning": "v./n. 忽视；疏忽",
+    "example": "The building has been neglected for years.",
+    "exampleTranslation": "这座建筑已被忽视多年。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "negotiate",
+    "phonetic": "/nɪˈɡoʊʃieɪt/",
+    "meaning": "v. 谈判；协商",
+    "example": "The two sides agreed to negotiate a settlement.",
+    "exampleTranslation": "双方同意协商解决。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "neutral",
+    "phonetic": "/ˈnjuːtrəl/",
+    "meaning": "adj. 中立的；中性的",
+    "example": "Switzerland remained neutral during the war.",
+    "exampleTranslation": "瑞士在战争期间保持中立。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "nominal",
+    "phonetic": "/ˈnɒmɪnl/",
+    "meaning": "adj. 名义上的；微不足道的",
+    "example": "He paid only a nominal fee.",
+    "exampleTranslation": "他只付了一笔名义上的费用。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "norm",
+    "phonetic": "/nɔːrm/",
+    "meaning": "n. 标准；规范",
+    "example": "Social norms vary across cultures.",
+    "exampleTranslation": "社会规范因文化而异。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "notable",
+    "phonetic": "/ˈnoʊtəbl/",
+    "meaning": "adj. 值得注意的；显著的",
+    "example": "There has been a notable increase in enrollment.",
+    "exampleTranslation": "入学人数有了显著增加。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "notion",
+    "phonetic": "/ˈnoʊʃn/",
+    "meaning": "n. 概念；观念",
+    "example": "She rejected the notion that women are inferior.",
+    "exampleTranslation": "她拒绝了女性低人一等的观念。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "notorious",
+    "phonetic": "/noʊˈtɔːriəs/",
+    "meaning": "adj. 臭名昭著的",
+    "example": "The city is notorious for its traffic jams.",
+    "exampleTranslation": "这座城市因交通拥堵而臭名昭著。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "nourish",
+    "phonetic": "/ˈnʌrɪʃ/",
+    "meaning": "v. 滋养；培育",
+    "example": "Good food nourishes the body.",
+    "exampleTranslation": "好的食物滋养身体。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "novel",
+    "phonetic": "/ˈnɒvl/",
+    "meaning": "adj. 新颖的；新奇的",
+    "example": "She proposed a novel approach to the problem.",
+    "exampleTranslation": "她提出了一个解决该问题的新颖方法。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "nurture",
+    "phonetic": "/ˈnɜːrtʃər/",
+    "meaning": "v./n. 培养；养育",
+    "example": "Parents should nurture their children's talents.",
+    "exampleTranslation": "父母应该培养孩子的才能。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "oblige",
+    "phonetic": "/əˈblaɪdʒ/",
+    "meaning": "v. 迫使；施恩于",
+    "example": "The law obliges employers to provide insurance.",
+    "exampleTranslation": "法律要求雇主提供保险。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "obscure",
+    "phonetic": "/əbˈskjʊər/",
+    "meaning": "adj./v. 模糊的；使模糊",
+    "example": "The origin of the word is obscure.",
+    "exampleTranslation": "这个词的起源不清楚。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "obsolete",
+    "phonetic": "/ˈɒbsəliːt/",
+    "meaning": "adj. 过时的；废弃的",
+    "example": "This technology has become obsolete.",
+    "exampleTranslation": "这项技术已经过时了。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "obstacle",
+    "phonetic": "/ˈɒbstəkl/",
+    "meaning": "n. 障碍；阻碍",
+    "example": "Lack of money is a major obstacle.",
+    "exampleTranslation": "缺钱是一个主要障碍。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "offset",
+    "phonetic": "/ˈɒfset/",
+    "meaning": "v. 抵消；补偿",
+    "example": "The gains offset the losses.",
+    "exampleTranslation": "收益抵消了损失。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "oppress",
+    "phonetic": "/əˈpres/",
+    "meaning": "v. 压迫；压制",
+    "example": "The regime oppressed its people for decades.",
+    "exampleTranslation": "该政权压迫人民数十年。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "opt",
+    "phonetic": "/ɒpt/",
+    "meaning": "v. 选择",
+    "example": "Many students opt to study abroad.",
+    "exampleTranslation": "许多学生选择出国留学。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "optimism",
+    "phonetic": "/ˈɒptɪmɪzəm/",
+    "meaning": "n. 乐观；乐观主义",
+    "example": "She expressed optimism about the future.",
+    "exampleTranslation": "她对未来表示乐观。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "orient",
+    "phonetic": "/ˈɔːriənt/",
+    "meaning": "v./n. 使适应；东方",
+    "example": "It took her a few days to orient herself.",
+    "exampleTranslation": "她花了几天时间来适应环境。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "originate",
+    "phonetic": "/əˈrɪdʒɪneɪt/",
+    "meaning": "v. 起源；发起",
+    "example": "The tradition originated in ancient China.",
+    "exampleTranslation": "这个传统起源于古代中国。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "outbreak",
+    "phonetic": "/ˈaʊtbreɪk/",
+    "meaning": "n. 爆发；突发",
+    "example": "The outbreak of the disease caused widespread panic.",
+    "exampleTranslation": "疾病的爆发引起了广泛恐慌。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "outfit",
+    "phonetic": "/ˈaʊtfɪt/",
+    "meaning": "n. 全套装备；一套衣服",
+    "example": "She bought a new outfit for the interview.",
+    "exampleTranslation": "她为面试买了一套新衣服。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "outlook",
+    "phonetic": "/ˈaʊtlʊk/",
+    "meaning": "n. 前景；观点",
+    "example": "The economic outlook is improving.",
+    "exampleTranslation": "经济前景正在改善。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "outstanding",
+    "phonetic": "/aʊtˈstændɪŋ/",
+    "meaning": "adj. 杰出的；显著的",
+    "example": "She made an outstanding contribution to the field.",
+    "exampleTranslation": "她对该领域做出了杰出贡献。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "overcome",
+    "phonetic": "/ˌoʊvərˈkʌm/",
+    "meaning": "v. 克服；战胜",
+    "example": "She overcame many obstacles to achieve success.",
+    "exampleTranslation": "她克服了许多障碍取得了成功。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "overwhelm",
+    "phonetic": "/ˌoʊvərˈwelm/",
+    "meaning": "v. 压倒；使不知所措",
+    "example": "She was overwhelmed by the support she received.",
+    "exampleTranslation": "她得到的支持让她不知所措。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "paradigm",
+    "phonetic": "/ˈpærədaɪm/",
+    "meaning": "n. 范例；典范",
+    "example": "The discovery created a new paradigm in science.",
+    "exampleTranslation": "这一发现创造了科学的新范式。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "paradox",
+    "phonetic": "/ˈpærədɒks/",
+    "meaning": "n. 悖论；矛盾",
+    "example": "It is a paradox that the busiest people often have the most free time.",
+    "exampleTranslation": "最忙的人往往有最多的空闲时间，这是一个悖论。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "parallel",
+    "phonetic": "/ˈpærəlel/",
+    "meaning": "adj./n. 平行的；相似物",
+    "example": "There are parallels between the two cases.",
+    "exampleTranslation": "这两个案件有相似之处。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "paralyze",
+    "phonetic": "/ˈpærəlaɪz/",
+    "meaning": "v. 使瘫痪；使麻痹",
+    "example": "The strike paralyzed the transportation system.",
+    "exampleTranslation": "罢工使交通系统瘫痪。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "participate",
+    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+    "meaning": "v. 参加；参与",
+    "example": "All students are encouraged to participate.",
+    "exampleTranslation": "鼓励所有学生参加。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "patent",
+    "phonetic": "/ˈpætnt/",
+    "meaning": "n./adj. 专利；明显的",
+    "example": "The company applied for a patent for the invention.",
+    "exampleTranslation": "公司为这项发明申请了专利。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "patrol",
+    "phonetic": "/pəˈtroʊl/",
+    "meaning": "v./n. 巡逻",
+    "example": "Police patrol the streets at night.",
+    "exampleTranslation": "警察夜间在街上巡逻。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "peculiar",
+    "phonetic": "/pɪˈkjuːliər/",
+    "meaning": "adj. 奇怪的；特有的",
+    "example": "The plant has a peculiar smell.",
+    "exampleTranslation": "这种植物有一种奇怪的气味。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "penalty",
+    "phonetic": "/ˈpenəlti/",
+    "meaning": "n. 处罚；罚款",
+    "example": "The penalty for speeding is a fine.",
+    "exampleTranslation": "超速的处罚是罚款。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "perceive",
+    "phonetic": "/pərˈsiːv/",
+    "meaning": "v. 感知；理解",
+    "example": "She perceived a change in his attitude.",
+    "exampleTranslation": "她感觉到他的态度发生了变化。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "perpetual",
+    "phonetic": "/pərˈpetʃuəl/",
+    "meaning": "adj. 永久的；持续的",
+    "example": "They lived in a state of perpetual anxiety.",
+    "exampleTranslation": "他们生活在持续的焦虑中。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "persist",
+    "phonetic": "/pərˈsɪst/",
+    "meaning": "v. 坚持；持续",
+    "example": "If symptoms persist, see a doctor.",
+    "exampleTranslation": "如果症状持续，请就医。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "perspective",
+    "phonetic": "/pərˈspektɪv/",
+    "meaning": "n. 视角；观点",
+    "example": "Try to see the problem from a different perspective.",
+    "exampleTranslation": "试着从不同的角度看问题。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "petition",
+    "phonetic": "/pəˈtɪʃn/",
+    "meaning": "n./v. 请愿；请愿书",
+    "example": "They signed a petition to save the park.",
+    "exampleTranslation": "他们签署了一份请愿书来拯救公园。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "plausible",
+    "phonetic": "/ˈplɔːzəbl/",
+    "meaning": "adj. 貌似合理的",
+    "example": "His explanation sounded plausible.",
+    "exampleTranslation": "他的解释听起来很合理。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "pledge",
+    "phonetic": "/pledʒ/",
+    "meaning": "v./n. 保证；誓言",
+    "example": "The government pledged to reduce emissions.",
+    "exampleTranslation": "政府承诺减少排放。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "plunge",
+    "phonetic": "/plʌndʒ/",
+    "meaning": "v./n. 跳入；骤降",
+    "example": "Stock prices plunged after the announcement.",
+    "exampleTranslation": "公告发布后股价暴跌。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "precede",
+    "phonetic": "/prɪˈsiːd/",
+    "meaning": "v. 在...之前；先于",
+    "example": "A short introduction will precede the main speech.",
+    "exampleTranslation": "简短的介绍将在主要演讲之前进行。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "predominant",
+    "phonetic": "/prɪˈdɒmɪnənt/",
+    "meaning": "adj. 主要的；占优势的",
+    "example": "Yellow is the predominant color in this painting.",
+    "exampleTranslation": "黄色是这幅画中的主要颜色。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "preliminary",
+    "phonetic": "/prɪˈlɪmɪnəri/",
+    "meaning": "adj. 初步的；预备的",
+    "example": "The preliminary results are very promising.",
+    "exampleTranslation": "初步结果非常有希望。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "premise",
+    "phonetic": "/ˈpremɪs/",
+    "meaning": "n. 前提；假设",
+    "example": "The argument is based on a false premise.",
+    "exampleTranslation": "这个论点建立在一个错误的前提之上。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "premium",
+    "phonetic": "/ˈpriːmiəm/",
+    "meaning": "n./adj. 保险费；高级的",
+    "example": "You have to pay a premium for quality.",
+    "exampleTranslation": "你必须为质量支付额外费用。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "prescribe",
+    "phonetic": "/prɪˈskraɪb/",
+    "meaning": "v. 开处方；规定",
+    "example": "The doctor prescribed antibiotics for the infection.",
+    "exampleTranslation": "医生开了抗生素来治疗感染。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "prestige",
+    "phonetic": "/preˈstiːʒ/",
+    "meaning": "n. 威望；声望",
+    "example": "The university has great prestige.",
+    "exampleTranslation": "这所大学享有很高的声望。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "presume",
+    "phonetic": "/prɪˈzjuːm/",
+    "meaning": "v. 假定；推测",
+    "example": "I presume you have read the report.",
+    "exampleTranslation": "我假定你已经读过报告了。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "prevail",
+    "phonetic": "/prɪˈveɪl/",
+    "meaning": "v. 盛行；获胜",
+    "example": "Justice will prevail in the end.",
+    "exampleTranslation": "正义终将获胜。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "prevalent",
+    "phonetic": "/ˈprevələnt/",
+    "meaning": "adj. 流行的；普遍的",
+    "example": "The disease is prevalent in tropical regions.",
+    "exampleTranslation": "这种疾病在热带地区很普遍。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "primitive",
+    "phonetic": "/ˈprɪmɪtɪv/",
+    "meaning": "adj. 原始的；简陋的",
+    "example": "They used primitive tools to build the shelter.",
+    "exampleTranslation": "他们使用原始工具建造了避难所。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "privilege",
+    "phonetic": "/ˈprɪvəlɪdʒ/",
+    "meaning": "n./v. 特权；优待",
+    "example": "Education should be a right, not a privilege.",
+    "exampleTranslation": "教育应该是一项权利，而不是特权。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "probe",
+    "phonetic": "/proʊb/",
+    "meaning": "v./n. 探测；调查",
+    "example": "Scientists probed the surface of Mars.",
+    "exampleTranslation": "科学家探测了火星表面。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "proceed",
+    "phonetic": "/prəˈsiːd/",
+    "meaning": "v. 继续；进行",
+    "example": "Please proceed to the next step.",
+    "exampleTranslation": "请继续下一步。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "profound",
+    "phonetic": "/prəˈfaʊnd/",
+    "meaning": "adj. 深刻的；深远的",
+    "example": "The book had a profound impact on me.",
+    "exampleTranslation": "这本书对我产生了深远的影响。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "prohibit",
+    "phonetic": "/prəˈhɪbɪt/",
+    "meaning": "v. 禁止",
+    "example": "Smoking is prohibited in public buildings.",
+    "exampleTranslation": "公共场所禁止吸烟。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "prominent",
+    "phonetic": "/ˈprɒmɪnənt/",
+    "meaning": "adj. 杰出的；突出的",
+    "example": "She is a prominent figure in the industry.",
+    "exampleTranslation": "她是该行业的杰出人物。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "prompt",
+    "phonetic": "/prɒmpt/",
+    "meaning": "v./adj. 促使；迅速的",
+    "example": "The incident prompted a review of safety procedures.",
+    "exampleTranslation": "这一事件促使对安全程序进行了审查。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "propaganda",
+    "phonetic": "/ˌprɒpəˈɡændə/",
+    "meaning": "n. 宣传",
+    "example": "The government spread propaganda to control public opinion.",
+    "exampleTranslation": "政府散布宣传来控制公众舆论。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "propel",
+    "phonetic": "/prəˈpel/",
+    "meaning": "v. 推进；驱使",
+    "example": "Ambition propelled him to succeed.",
+    "exampleTranslation": "雄心驱使他取得成功。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "proportion",
+    "phonetic": "/prəˈpɔːrʃn/",
+    "meaning": "n. 比例；部分",
+    "example": "A large proportion of students passed the exam.",
+    "exampleTranslation": "很大比例的学生通过了考试。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "prospect",
+    "phonetic": "/ˈprɒspekt/",
+    "meaning": "n. 前景；可能性",
+    "example": "The prospects for economic growth are encouraging.",
+    "exampleTranslation": "经济增长的前景令人鼓舞。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "prosperous",
+    "phonetic": "/ˈprɒspərəs/",
+    "meaning": "adj. 繁荣的；兴旺的",
+    "example": "The country enjoyed a prosperous period.",
+    "exampleTranslation": "这个国家经历了一个繁荣时期。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "provoke",
+    "phonetic": "/prəˈvoʊk/",
+    "meaning": "v. 激怒；引起",
+    "example": "His comments provoked a heated debate.",
+    "exampleTranslation": "他的评论引起了激烈的辩论。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "publicize",
+    "phonetic": "/ˈpʌblɪsaɪz/",
+    "meaning": "v. 宣传；公布",
+    "example": "The campaign was widely publicized.",
+    "exampleTranslation": "这场运动被广泛宣传。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "qualitative",
+    "phonetic": "/ˈkwɒlɪtətɪv/",
+    "meaning": "adj. 定性的；质量的",
+    "example": "The study used qualitative research methods.",
+    "exampleTranslation": "这项研究使用了定性研究方法。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "quantitative",
+    "phonetic": "/ˈkwɒntɪtətɪv/",
+    "meaning": "adj. 定量的；数量的",
+    "example": "Quantitative data supports the conclusion.",
+    "exampleTranslation": "定量数据支持这一结论。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "quarrel",
+    "phonetic": "/ˈkwɒrəl/",
+    "meaning": "n./v. 争吵；口角",
+    "example": "They had a quarrel about money.",
+    "exampleTranslation": "他们因为钱吵了一架。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "quest",
+    "phonetic": "/kwest/",
+    "meaning": "n. 探索；追求",
+    "example": "The quest for knowledge never ends.",
+    "exampleTranslation": "对知识的追求永无止境。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "radiate",
+    "phonetic": "/ˈreɪdieɪt/",
+    "meaning": "v. 辐射；散发",
+    "example": "The sun radiates heat and light.",
+    "exampleTranslation": "太阳散发热量和光。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "random",
+    "phonetic": "/ˈrændəm/",
+    "meaning": "adj. 随机的；任意的",
+    "example": "The survey was conducted on a random sample.",
+    "exampleTranslation": "调查是在随机样本上进行的。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "rationale",
+    "phonetic": "/ˌræʃəˈnɑːl/",
+    "meaning": "n. 基本原理；理由",
+    "example": "What is the rationale behind this decision?",
+    "exampleTranslation": "这个决定背后的理由是什么？",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "reckon",
+    "phonetic": "/ˈrekən/",
+    "meaning": "v. 认为；估计",
+    "example": "I reckon it will rain tomorrow.",
+    "exampleTranslation": "我估计明天会下雨。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "reconcile",
+    "phonetic": "/ˈrekənsaɪl/",
+    "meaning": "v. 调和；和解",
+    "example": "She tried to reconcile the two conflicting views.",
+    "exampleTranslation": "她试图调和这两种冲突的观点。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "redundant",
+    "phonetic": "/rɪˈdʌndənt/",
+    "meaning": "adj. 多余的；冗余的",
+    "example": "Many workers were made redundant.",
+    "exampleTranslation": "许多工人被裁员。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "refine",
+    "phonetic": "/rɪˈfaɪn/",
+    "meaning": "v. 精炼；改进",
+    "example": "We need to refine our methods.",
+    "exampleTranslation": "我们需要改进我们的方法。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "reform",
+    "phonetic": "/rɪˈfɔːrm/",
+    "meaning": "n./v. 改革；改良",
+    "example": "The government introduced economic reforms.",
+    "exampleTranslation": "政府推行了经济改革。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "refuge",
+    "phonetic": "/ˈrefjuːdʒ/",
+    "meaning": "n. 避难所；庇护",
+    "example": "They took refuge in a nearby building.",
+    "exampleTranslation": "他们在附近一栋建筑中避难。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "regime",
+    "phonetic": "/reɪˈʒiːm/",
+    "meaning": "n. 政权；制度",
+    "example": "The regime was overthrown by a revolution.",
+    "exampleTranslation": "该政权被革命推翻。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "reinforce",
+    "phonetic": "/ˌriːɪnˈfɔːrs/",
+    "meaning": "v. 加强；增援",
+    "example": "The evidence reinforces the argument.",
+    "exampleTranslation": "证据加强了论点。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "relevant",
+    "phonetic": "/ˈreləvənt/",
+    "meaning": "adj. 相关的；切题的",
+    "example": "Please keep your comments relevant to the topic.",
+    "exampleTranslation": "请让你的评论与主题相关。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "reliable",
+    "phonetic": "/rɪˈlaɪəbl/",
+    "meaning": "adj. 可靠的",
+    "example": "This is a reliable source of information.",
+    "exampleTranslation": "这是一个可靠的信息来源。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "reliance",
+    "phonetic": "/rɪˈlaɪəns/",
+    "meaning": "n. 依赖；信赖",
+    "example": "Our reliance on technology has increased.",
+    "exampleTranslation": "我们对技术的依赖增加了。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "reluctant",
+    "phonetic": "/rɪˈlʌktənt/",
+    "meaning": "adj. 不情愿的；勉强的",
+    "example": "She was reluctant to admit her mistake.",
+    "exampleTranslation": "她不情愿承认自己的错误。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "remainder",
+    "phonetic": "/rɪˈmeɪndər/",
+    "meaning": "n. 剩余部分",
+    "example": "The remainder of the book is equally fascinating.",
+    "exampleTranslation": "书的剩余部分同样引人入胜。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "remedy",
+    "phonetic": "/ˈremədi/",
+    "meaning": "n./v. 补救；治疗",
+    "example": "There is no easy remedy for this situation.",
+    "exampleTranslation": "这种情况没有简单的补救方法。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "render",
+    "phonetic": "/ˈrendər/",
+    "meaning": "v. 使成为；给予",
+    "example": "The accident rendered him unable to work.",
+    "exampleTranslation": "事故使他无法工作。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "reproduce",
+    "phonetic": "/ˌriːprəˈdjuːs/",
+    "meaning": "v. 繁殖；复制",
+    "example": "The results were difficult to reproduce.",
+    "exampleTranslation": "这些结果很难复制。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "resemble",
+    "phonetic": "/rɪˈzembl/",
+    "meaning": "v. 类似；像",
+    "example": "She strongly resembles her mother.",
+    "exampleTranslation": "她很像她的母亲。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "reside",
+    "phonetic": "/rɪˈzaɪd/",
+    "meaning": "v. 居住；存在",
+    "example": "The power to decide resides with the board.",
+    "exampleTranslation": "决定权在董事会。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "resign",
+    "phonetic": "/rɪˈzaɪn/",
+    "meaning": "v. 辞职；放弃",
+    "example": "The CEO resigned due to health reasons.",
+    "exampleTranslation": "首席执行官因健康原因辞职。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "resolve",
+    "phonetic": "/rɪˈzɒlv/",
+    "meaning": "v. 解决；决心",
+    "example": "We must resolve this issue immediately.",
+    "exampleTranslation": "我们必须立即解决这个问题。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "resort",
+    "phonetic": "/rɪˈzɔːrt/",
+    "meaning": "n./v. 度假胜地；诉诸",
+    "example": "We had to resort to extreme measures.",
+    "exampleTranslation": "我们不得不诉诸极端措施。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "restrain",
+    "phonetic": "/rɪˈstreɪn/",
+    "meaning": "v. 抑制；约束",
+    "example": "He had to restrain himself from shouting.",
+    "exampleTranslation": "他不得不克制自己不要大喊。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "retain",
+    "phonetic": "/rɪˈteɪn/",
+    "meaning": "v. 保留；保持",
+    "example": "The company retained its market position.",
+    "exampleTranslation": "公司保持了其市场地位。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "retrieve",
+    "phonetic": "/rɪˈtriːv/",
+    "meaning": "v. 检索；取回",
+    "example": "You can retrieve your data from the cloud.",
+    "exampleTranslation": "你可以从云端检索你的数据。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "reveal",
+    "phonetic": "/rɪˈviːl/",
+    "meaning": "v. 揭示；透露",
+    "example": "The investigation revealed some shocking facts.",
+    "exampleTranslation": "调查揭示了一些令人震惊的事实。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "revenue",
+    "phonetic": "/ˈrevənjuː/",
+    "meaning": "n. 收入；税收",
+    "example": "The company reported an increase in revenue.",
+    "exampleTranslation": "公司报告收入增长。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "reverse",
+    "phonetic": "/rɪˈvɜːrs/",
+    "meaning": "v./adj. 颠倒；相反的",
+    "example": "The court reversed the lower court's decision.",
+    "exampleTranslation": "法院推翻了下级法院的判决。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "revive",
+    "phonetic": "/rɪˈvaɪv/",
+    "meaning": "v. 复苏；恢复",
+    "example": "The economy is beginning to revive.",
+    "exampleTranslation": "经济开始复苏。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "revolve",
+    "phonetic": "/rɪˈvɒlv/",
+    "meaning": "v. 旋转；围绕",
+    "example": "The Earth revolves around the Sun.",
+    "exampleTranslation": "地球围绕太阳旋转。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "rigid",
+    "phonetic": "/ˈrɪdʒɪd/",
+    "meaning": "adj. 严格的；僵硬的",
+    "example": "The company has rigid rules about attendance.",
+    "exampleTranslation": "公司对出勤有严格的规定。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "rival",
+    "phonetic": "/ˈraɪvl/",
+    "meaning": "n./v. 对手；竞争",
+    "example": "The two companies are fierce rivals.",
+    "exampleTranslation": "这两家公司是激烈的竞争对手。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "robust",
+    "phonetic": "/roʊˈbʌst/",
+    "meaning": "adj. 强健的；坚固的",
+    "example": "The economy showed robust growth.",
+    "exampleTranslation": "经济显示出强劲的增长。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "safeguard",
+    "phonetic": "/ˈseɪfɡɑːrd/",
+    "meaning": "v./n. 保护；防护措施",
+    "example": "We must safeguard the environment for future generations.",
+    "exampleTranslation": "我们必须为后代保护环境。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "sanction",
+    "phonetic": "/ˈsæŋkʃn/",
+    "meaning": "n./v. 制裁；批准",
+    "example": "The UN imposed sanctions on the country.",
+    "exampleTranslation": "联合国对该国实施了制裁。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "saturate",
+    "phonetic": "/ˈsætʃəreɪt/",
+    "meaning": "v. 使饱和；浸透",
+    "example": "The market is saturated with similar products.",
+    "exampleTranslation": "市场上充斥着类似产品。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "scenario",
+    "phonetic": "/sɪˈnærioʊ/",
+    "meaning": "n. 情景；方案",
+    "example": "The worst-case scenario is unlikely to happen.",
+    "exampleTranslation": "最坏的情况不太可能发生。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "scrutiny",
+    "phonetic": "/ˈskruːtəni/",
+    "meaning": "n. 仔细检查；审查",
+    "example": "The proposal came under close scrutiny.",
+    "exampleTranslation": "该提案受到了仔细审查。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "segment",
+    "phonetic": "/ˈseɡmənt/",
+    "meaning": "n./v. 部分；分段",
+    "example": "The market is divided into several segments.",
+    "exampleTranslation": "市场被分为几个部分。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "segregate",
+    "phonetic": "/ˈseɡrɪɡeɪt/",
+    "meaning": "v. 隔离；分离",
+    "example": "The prisoners were segregated by gender.",
+    "exampleTranslation": "囚犯按性别被隔离。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "sensation",
+    "phonetic": "/senˈseɪʃn/",
+    "meaning": "n. 感觉；轰动",
+    "example": "The news caused a sensation.",
+    "exampleTranslation": "这条新闻引起了轰动。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "sentiment",
+    "phonetic": "/ˈsentɪmənt/",
+    "meaning": "n. 感情；情绪",
+    "example": "Public sentiment is against the new law.",
+    "exampleTranslation": "公众情绪反对新法律。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "shedule",
+    "phonetic": "/ˈʃedjuːl/",
+    "meaning": "n./v. 时间表；安排",
+    "example": "The meeting is scheduled for next Monday.",
+    "exampleTranslation": "会议安排在下周一。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "setback",
+    "phonetic": "/ˈsetbæk/",
+    "meaning": "n. 挫折；倒退",
+    "example": "The project suffered a major setback.",
+    "exampleTranslation": "项目遭受了重大挫折。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "shelter",
+    "phonetic": "/ˈʃeltər/",
+    "meaning": "n./v. 避难所；庇护",
+    "example": "They sought shelter from the rain.",
+    "exampleTranslation": "他们找地方避雨。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "shield",
+    "phonetic": "/ʃiːld/",
+    "meaning": "v./n. 保护；盾牌",
+    "example": "She tried to shield her children from harm.",
+    "exampleTranslation": "她试图保护孩子免受伤害。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "shrink",
+    "phonetic": "/ʃrɪŋk/",
+    "meaning": "v. 缩小；退缩",
+    "example": "The company's profits shrank by 20 percent.",
+    "exampleTranslation": "公司的利润缩小了百分之二十。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "simulate",
+    "phonetic": "/ˈsɪmjuleɪt/",
+    "meaning": "v. 模拟；模仿",
+    "example": "The program can simulate real-world conditions.",
+    "exampleTranslation": "该程序可以模拟真实世界的条件。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "simultaneous",
+    "phonetic": "/ˌsɪmlˈteɪniəs/",
+    "meaning": "adj. 同时的",
+    "example": "There were simultaneous explosions in three cities.",
+    "exampleTranslation": "三个城市同时发生了爆炸。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "skepticism",
+    "phonetic": "/ˈskeptɪsɪzəm/",
+    "meaning": "n. 怀疑论；怀疑态度",
+    "example": "The claim was met with skepticism.",
+    "exampleTranslation": "这一说法受到了质疑。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "soar",
+    "phonetic": "/sɔːr/",
+    "meaning": "v. 猛增；翱翔",
+    "example": "Oil prices soared last month.",
+    "exampleTranslation": "上个月油价飙升。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "sophisticated",
+    "phonetic": "/səˈfɪstɪkeɪtɪd/",
+    "meaning": "adj. 复杂的；精密的",
+    "example": "The system uses sophisticated algorithms.",
+    "exampleTranslation": "该系统使用复杂的算法。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "sovereign",
+    "phonetic": "/ˈsɒvrɪn/",
+    "meaning": "adj./n. 主权的；君主",
+    "example": "Every nation has sovereign rights.",
+    "exampleTranslation": "每个国家都有主权权利。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "span",
+    "phonetic": "/spæn/",
+    "meaning": "n./v. 跨度；跨越",
+    "example": "The bridge spans the river.",
+    "exampleTranslation": "这座桥横跨河流。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "specification",
+    "phonetic": "/ˌspesɪfɪˈkeɪʃn/",
+    "meaning": "n. 规格；规范",
+    "example": "The product must meet the required specifications.",
+    "exampleTranslation": "产品必须符合要求的规格。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "speculate",
+    "phonetic": "/ˈspekjuleɪt/",
+    "meaning": "v. 推测；投机",
+    "example": "The media speculated about the reasons for his resignation.",
+    "exampleTranslation": "媒体猜测他辞职的原因。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "spouse",
+    "phonetic": "/spaʊs/",
+    "meaning": "n. 配偶",
+    "example": "Employees and their spouses are invited.",
+    "exampleTranslation": "员工及其配偶受到邀请。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "stabilize",
+    "phonetic": "/ˈsteɪbəlaɪz/",
+    "meaning": "v. 使稳定；稳定",
+    "example": "The government took steps to stabilize the economy.",
+    "exampleTranslation": "政府采取措施稳定经济。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "stagger",
+    "phonetic": "/ˈstæɡər/",
+    "meaning": "v. 蹒跚；交错",
+    "example": "He staggered home after the party.",
+    "exampleTranslation": "聚会后他蹒跚着回了家。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "stationary",
+    "phonetic": "/ˈsteɪʃəneri/",
+    "meaning": "adj. 静止的；固定的",
+    "example": "The car was stationary when it was hit.",
+    "exampleTranslation": "汽车被撞时是静止的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "statistics",
+    "phonetic": "/stəˈtɪstɪks/",
+    "meaning": "n. 统计学；统计数据",
+    "example": "The statistics show a clear trend.",
+    "exampleTranslation": "统计数据显示出明显的趋势。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "status",
+    "phonetic": "/ˈsteɪtəs/",
+    "meaning": "n. 地位；状态",
+    "example": "Education can improve your social status.",
+    "exampleTranslation": "教育可以提高你的社会地位。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "stereotype",
+    "phonetic": "/ˈsteriətaɪp/",
+    "meaning": "n./v. 刻板印象",
+    "example": "We should challenge gender stereotypes.",
+    "exampleTranslation": "我们应该挑战性别刻板印象。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "stimulate",
+    "phonetic": "/ˈstɪmjuleɪt/",
+    "meaning": "v. 刺激；激励",
+    "example": "The policy is designed to stimulate economic growth.",
+    "exampleTranslation": "该政策旨在刺激经济增长。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "stipulate",
+    "phonetic": "/ˈstɪpjuleɪt/",
+    "meaning": "v. 规定；约定",
+    "example": "The contract stipulates a delivery date.",
+    "exampleTranslation": "合同规定了交货日期。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "strategy",
+    "phonetic": "/ˈstrætədʒi/",
+    "meaning": "n. 战略；策略",
+    "example": "We need a new marketing strategy.",
+    "exampleTranslation": "我们需要一个新的营销策略。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "strengthen",
+    "phonetic": "/ˈstreŋθn/",
+    "meaning": "v. 加强；巩固",
+    "example": "Exercise strengthens your muscles.",
+    "exampleTranslation": "锻炼增强你的肌肉。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "strive",
+    "phonetic": "/straɪv/",
+    "meaning": "v. 努力；奋斗",
+    "example": "We must strive for excellence.",
+    "exampleTranslation": "我们必须追求卓越。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "stumble",
+    "phonetic": "/ˈstʌmbl/",
+    "meaning": "v. 绊倒；偶然发现",
+    "example": "She stumbled upon the solution by accident.",
+    "exampleTranslation": "她偶然发现了解决方案。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "subject",
+    "phonetic": "/səbˈdʒekt/",
+    "meaning": "v./adj. 使遭受；受制于",
+    "example": "The plan is subject to approval.",
+    "exampleTranslation": "该计划需要批准。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "submit",
+    "phonetic": "/səbˈmɪt/",
+    "meaning": "v. 提交；服从",
+    "example": "Please submit your application by Friday.",
+    "exampleTranslation": "请在周五前提交你的申请。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "subordinate",
+    "phonetic": "/səˈbɔːrdɪnət/",
+    "meaning": "adj./n. 下级的；下属",
+    "example": "He was subordinate to the director.",
+    "exampleTranslation": "他是主任的下属。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "subscribe",
+    "phonetic": "/səbˈskraɪb/",
+    "meaning": "v. 订阅；同意",
+    "example": "I subscribe to several academic journals.",
+    "exampleTranslation": "我订阅了几份学术期刊。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "subsequent",
+    "phonetic": "/ˈsʌbsɪkwənt/",
+    "meaning": "adj. 随后的；后来的",
+    "example": "Subsequent events proved him right.",
+    "exampleTranslation": "随后的事件证明他是对的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "subsidy",
+    "phonetic": "/ˈsʌbsɪdi/",
+    "meaning": "n. 补贴；津贴",
+    "example": "The government provides subsidies for renewable energy.",
+    "exampleTranslation": "政府为可再生能源提供补贴。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "substantial",
+    "phonetic": "/səbˈstænʃl/",
+    "meaning": "adj. 大量的；实质的",
+    "example": "There has been a substantial improvement.",
+    "exampleTranslation": "有了实质性的改善。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "substitute",
+    "phonetic": "/ˈsʌbstɪtjuːt/",
+    "meaning": "n./v. 替代品；替代",
+    "example": "There is no substitute for hard work.",
+    "exampleTranslation": "没有什么可以替代努力工作。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "subtle",
+    "phonetic": "/ˈsʌtl/",
+    "meaning": "adj. 微妙的；精细的",
+    "example": "There is a subtle difference between the two words.",
+    "exampleTranslation": "这两个词之间有微妙的区别。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "successive",
+    "phonetic": "/səkˈsesɪv/",
+    "meaning": "adj. 连续的；接连的",
+    "example": "The team won three successive championships.",
+    "exampleTranslation": "这支队伍连续赢得了三次冠军。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "sue",
+    "phonetic": "/suː/",
+    "meaning": "v. 起诉；控告",
+    "example": "She threatened to sue the company.",
+    "exampleTranslation": "她威胁要起诉这家公司。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "summarize",
+    "phonetic": "/ˈsʌməraɪz/",
+    "meaning": "v. 总结；概括",
+    "example": "Please summarize the main points of the article.",
+    "exampleTranslation": "请总结文章的要点。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "superb",
+    "phonetic": "/suːˈpɜːrb/",
+    "meaning": "adj. 极好的；华丽的",
+    "example": "The performance was absolutely superb.",
+    "exampleTranslation": "表演 absolutely superb。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "supplement",
+    "phonetic": "/ˈsʌplɪment/",
+    "meaning": "n./v. 补充；增刊",
+    "example": "She takes vitamin supplements daily.",
+    "exampleTranslation": "她每天服用维生素补充剂。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "suppress",
+    "phonetic": "/səˈpres/",
+    "meaning": "v. 压制；镇压",
+    "example": "The government suppressed the rebellion.",
+    "exampleTranslation": "政府镇压了叛乱。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "surge",
+    "phonetic": "/sɜːrdʒ/",
+    "meaning": "n./v. 激增；汹涌",
+    "example": "There was a surge in demand for housing.",
+    "exampleTranslation": "住房需求激增。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "surplus",
+    "phonetic": "/ˈsɜːrpləs/",
+    "meaning": "n./adj. 剩余；过剩的",
+    "example": "The country has a trade surplus.",
+    "exampleTranslation": "该国拥有贸易顺差。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "surrender",
+    "phonetic": "/səˈrendər/",
+    "meaning": "v./n. 投降；放弃",
+    "example": "The enemy was forced to surrender.",
+    "exampleTranslation": "敌人被迫投降。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "surveillance",
+    "phonetic": "/sɜːrˈveɪləns/",
+    "meaning": "n. 监视；监控",
+    "example": "The building is under constant surveillance.",
+    "exampleTranslation": "这栋建筑受到持续监控。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "suspicious",
+    "phonetic": "/səˈspɪʃəs/",
+    "meaning": "adj. 可疑的；怀疑的",
+    "example": "His behavior made the police suspicious.",
+    "exampleTranslation": "他的行为让警方起了疑心。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "sustain",
+    "phonetic": "/səˈsteɪn/",
+    "meaning": "v. 维持；支撑",
+    "example": "The economy cannot sustain this level of growth.",
+    "exampleTranslation": "经济无法维持这种增长水平。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "symptom",
+    "phonetic": "/ˈsɪmptəm/",
+    "meaning": "n. 症状；征兆",
+    "example": "Fever is a common symptom of infection.",
+    "exampleTranslation": "发烧是感染的常见症状。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "synthetic",
+    "phonetic": "/sɪnˈθetɪk/",
+    "meaning": "adj. 合成的；人造的",
+    "example": "Synthetic fabrics are often cheaper.",
+    "exampleTranslation": "合成面料通常更便宜。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "tackle",
+    "phonetic": "/ˈtækl/",
+    "meaning": "v. 应对；处理",
+    "example": "The government must tackle climate change.",
+    "exampleTranslation": "政府必须应对气候变化。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "tame",
+    "phonetic": "/teɪm/",
+    "meaning": "adj./v. 驯服的；驯服",
+    "example": "The wild horse was gradually tamed.",
+    "exampleTranslation": "野马被逐渐驯服了。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "tangible",
+    "phonetic": "/ˈtændʒəbl/",
+    "meaning": "adj. 有形的；切实的",
+    "example": "We need tangible evidence to support the claim.",
+    "exampleTranslation": "我们需要切实的证据来支持这个说法。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "tedious",
+    "phonetic": "/ˈtiːdiəs/",
+    "meaning": "adj. 乏味的；冗长的",
+    "example": "The process was long and tedious.",
+    "exampleTranslation": "这个过程漫长而乏味。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "terminal",
+    "phonetic": "/ˈtɜːrmɪnl/",
+    "meaning": "adj./n. 终端的；终点站",
+    "example": "The patient was diagnosed with a terminal illness.",
+    "exampleTranslation": "患者被诊断出患有晚期疾病。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "terminate",
+    "phonetic": "/ˈtɜːrmɪneɪt/",
+    "meaning": "v. 终止；结束",
+    "example": "The contract was terminated early.",
+    "exampleTranslation": "合同被提前终止了。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "terrain",
+    "phonetic": "/təˈreɪn/",
+    "meaning": "n. 地形；地势",
+    "example": "The terrain made the march very difficult.",
+    "exampleTranslation": "地形使行军非常困难。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "territory",
+    "phonetic": "/ˈterɪtɔːri/",
+    "meaning": "n. 领土；领域",
+    "example": "The country defended its territory fiercely.",
+    "exampleTranslation": "这个国家激烈地保卫了自己的领土。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "testimony",
+    "phonetic": "/ˈtestɪmoʊni/",
+    "meaning": "n. 证词；证据",
+    "example": "Her testimony was crucial to the case.",
+    "exampleTranslation": "她的证词对这个案件至关重要。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "threshold",
+    "phonetic": "/ˈθreʃhoʊld/",
+    "meaning": "n. 门槛；起点",
+    "example": "We are on the threshold of a new era.",
+    "exampleTranslation": "我们正处于一个新时代的门槛上。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "thrive",
+    "phonetic": "/θraɪv/",
+    "meaning": "v. 繁荣；茁壮成长",
+    "example": "Plants thrive in warm, sunny conditions.",
+    "exampleTranslation": "植物在温暖阳光的条件下茁壮成长。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "tolerance",
+    "phonetic": "/ˈtɒlərəns/",
+    "meaning": "n. 容忍；宽容",
+    "example": "We need to promote tolerance in society.",
+    "exampleTranslation": "我们需要在社会中促进宽容。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "toxic",
+    "phonetic": "/ˈtɒksɪk/",
+    "meaning": "adj. 有毒的",
+    "example": "Toxic chemicals were found in the water.",
+    "exampleTranslation": "在水中发现了有毒化学品。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "trait",
+    "phonetic": "/treɪt/",
+    "meaning": "n. 特征；特点",
+    "example": "Honesty is an important character trait.",
+    "exampleTranslation": "诚实是一个重要的性格特征。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "transaction",
+    "phonetic": "/trænˈzækʃn/",
+    "meaning": "n. 交易；事务",
+    "example": "All transactions are recorded electronically.",
+    "exampleTranslation": "所有交易都以电子方式记录。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "transform",
+    "phonetic": "/trænsˈfɔːrm/",
+    "meaning": "v. 转变；改造",
+    "example": "Technology has transformed the way we communicate.",
+    "exampleTranslation": "技术改变了我们的沟通方式。",
+    "level": 3,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "transit",
+    "phonetic": "/ˈtrænzɪt/",
+    "meaning": "n./v. 运输；经过",
+    "example": "The goods were damaged in transit.",
+    "exampleTranslation": "货物在运输中损坏了。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "transition",
+    "phonetic": "/trænˈzɪʃn/",
+    "meaning": "n. 过渡；转变",
+    "example": "The transition from school to work can be challenging.",
+    "exampleTranslation": "从学校到工作的过渡可能充满挑战。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "transparent",
+    "phonetic": "/trænsˈpærənt/",
+    "meaning": "adj. 透明的；坦率的",
+    "example": "The government should be more transparent.",
+    "exampleTranslation": "政府应该更加透明。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "treasure",
+    "phonetic": "/ˈtreʒər/",
+    "meaning": "n./v. 财宝；珍惜",
+    "example": "She treasures the memories of her childhood.",
+    "exampleTranslation": "她珍惜童年的回忆。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "tremendous",
+    "phonetic": "/trɪˈmendəs/",
+    "meaning": "adj. 巨大的；极好的",
+    "example": "She has made tremendous progress.",
+    "exampleTranslation": "她取得了巨大的进步。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "trigger",
+    "phonetic": "/ˈtrɪɡər/",
+    "meaning": "v./n. 触发；引起",
+    "example": "The earthquake triggered a tsunami.",
+    "exampleTranslation": "地震引发了海啸。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "trivial",
+    "phonetic": "/ˈtrɪviəl/",
+    "meaning": "adj. 琐碎的；微不足道的",
+    "example": "Don't waste time on trivial matters.",
+    "exampleTranslation": "不要在琐碎的事情上浪费时间。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "turbulent",
+    "phonetic": "/ˈtɜːrbjələnt/",
+    "meaning": "adj. 动荡的；湍急的",
+    "example": "The country went through a turbulent period.",
+    "exampleTranslation": "这个国家经历了一个动荡时期。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "underestimate",
+    "phonetic": "/ˌʌndərˈestɪmeɪt/",
+    "meaning": "v. 低估",
+    "example": "Never underestimate the power of teamwork.",
+    "exampleTranslation": "永远不要低估团队合作的力量。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "undergo",
+    "phonetic": "/ˌʌndərˈɡoʊ/",
+    "meaning": "v. 经历；承受",
+    "example": "The patient underwent surgery last week.",
+    "exampleTranslation": "患者上周接受了手术。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "undermine",
+    "phonetic": "/ˌʌndərˈmaɪn/",
+    "meaning": "v. 破坏；削弱",
+    "example": "Corruption undermines public trust.",
+    "exampleTranslation": "腐败破坏公众信任。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "undertake",
+    "phonetic": "/ˌʌndərˈteɪk/",
+    "meaning": "v. 承担；着手做",
+    "example": "She undertook the task with enthusiasm.",
+    "exampleTranslation": "她热情地承担了这项任务。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "unfold",
+    "phonetic": "/ʌnˈfoʊld/",
+    "meaning": "v. 展开；展现",
+    "example": "The story unfolds gradually.",
+    "exampleTranslation": "故事逐渐展开。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "uniform",
+    "phonetic": "/ˈjuːnɪfɔːrm/",
+    "meaning": "adj./n. 统一的；制服",
+    "example": "The results were remarkably uniform.",
+    "exampleTranslation": "结果非常一致。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "unprecedented",
+    "phonetic": "/ʌnˈpresɪdentɪd/",
+    "meaning": "adj. 前所未有的",
+    "example": "The pandemic caused unprecedented disruption.",
+    "exampleTranslation": "疫情造成了前所未有的破坏。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "uphold",
+    "phonetic": "/ʌpˈhoʊld/",
+    "meaning": "v. 维护；支持",
+    "example": "The court upheld the original decision.",
+    "exampleTranslation": "法院维持了原判。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "utilize",
+    "phonetic": "/ˈjuːtəlaɪz/",
+    "meaning": "v. 利用；使用",
+    "example": "We should utilize all available resources.",
+    "exampleTranslation": "我们应该利用所有可用资源。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "utmost",
+    "phonetic": "/ˈʌtmoʊst/",
+    "meaning": "adj./n. 最大的；极限",
+    "example": "Safety is of the utmost importance.",
+    "exampleTranslation": "安全是至关重要的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "vacuum",
+    "phonetic": "/ˈvækjuːm/",
+    "meaning": "n. 真空；空白",
+    "example": "The sudden resignation created a power vacuum.",
+    "exampleTranslation": "突然的辞职造成了权力真空。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "valid",
+    "phonetic": "/ˈvælɪd/",
+    "meaning": "adj. 有效的；合理的",
+    "example": "Your passport must be valid for at least six months.",
+    "exampleTranslation": "你的护照必须至少有效六个月。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "vanish",
+    "phonetic": "/ˈvænɪʃ/",
+    "meaning": "v. 消失；消散",
+    "example": "The species has vanished from the region.",
+    "exampleTranslation": "该物种已从这个地区消失。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "variable",
+    "phonetic": "/ˈveriəbl/",
+    "meaning": "adj./n. 可变的；变量",
+    "example": "The weather is highly variable at this time of year.",
+    "exampleTranslation": "每年这个时候天气变化很大。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "velocity",
+    "phonetic": "/vəˈlɒsəti/",
+    "meaning": "n. 速度；速率",
+    "example": "The velocity of light is constant.",
+    "exampleTranslation": "光速是恒定的。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "venture",
+    "phonetic": "/ˈventʃər/",
+    "meaning": "n./v. 冒险；风险投资",
+    "example": "Starting a business is always a risky venture.",
+    "exampleTranslation": "创业总是一项有风险的冒险。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "verdict",
+    "phonetic": "/ˈvɜːrdɪkt/",
+    "meaning": "n. 裁决；判断",
+    "example": "The jury reached a verdict of guilty.",
+    "exampleTranslation": "陪审团做出了有罪的裁决。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "verify",
+    "phonetic": "/ˈverɪfaɪ/",
+    "meaning": "v. 核实；验证",
+    "example": "Please verify your identity before proceeding.",
+    "exampleTranslation": "请在继续之前验证您的身份。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "versatile",
+    "phonetic": "/ˈvɜːrsətaɪl/",
+    "meaning": "adj. 多才多艺的；多功能的",
+    "example": "She is a versatile performer.",
+    "exampleTranslation": "她是一位多才多艺的表演者。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "via",
+    "phonetic": "/ˈvaɪə/",
+    "meaning": "prep. 通过；经由",
+    "example": "The information was transmitted via satellite.",
+    "exampleTranslation": "信息通过卫星传输。",
+    "level": 3,
+    "category": "介词",
+    "grade": 14
+  },
+  {
+    "word": "violate",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "meaning": "v. 违反；侵犯",
+    "example": "They violated the terms of the agreement.",
+    "exampleTranslation": "他们违反了协议条款。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "virtual",
+    "phonetic": "/ˈvɜːrtʃuəl/",
+    "meaning": "adj. 虚拟的；实质上的",
+    "example": "Virtual meetings have become the norm.",
+    "exampleTranslation": "虚拟会议已成为常态。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "visible",
+    "phonetic": "/ˈvɪzəbl/",
+    "meaning": "adj. 可见的；明显的",
+    "example": "The effects of pollution are clearly visible.",
+    "exampleTranslation": "污染的影响清晰可见。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "visual",
+    "phonetic": "/ˈvɪʒuəl/",
+    "meaning": "adj. 视觉的",
+    "example": "The report includes visual aids.",
+    "exampleTranslation": "报告包含视觉辅助材料。",
+    "level": 3,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "vivid",
+    "phonetic": "/ˈvɪvɪd/",
+    "meaning": "adj. 生动的；鲜明的",
+    "example": "She gave a vivid description of the event.",
+    "exampleTranslation": "她对事件进行了生动的描述。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "voluntary",
+    "phonetic": "/ˈvɒləntri/",
+    "meaning": "adj. 自愿的；志愿的",
+    "example": "Participation is entirely voluntary.",
+    "exampleTranslation": "参与完全是自愿的。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "vulnerable",
+    "phonetic": "/ˈvʌlnərəbl/",
+    "meaning": "adj. 脆弱的；易受伤的",
+    "example": "Children are particularly vulnerable to abuse.",
+    "exampleTranslation": "儿童特别容易受到虐待。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  },
+  {
+    "word": "warrant",
+    "phonetic": "/ˈwɒrənt/",
+    "meaning": "v./n. 保证；授权令",
+    "example": "The situation warrants immediate attention.",
+    "exampleTranslation": "这种情况需要立即关注。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "weave",
+    "phonetic": "/wiːv/",
+    "meaning": "v. 编织；穿插",
+    "example": "She weaves beautiful carpets by hand.",
+    "exampleTranslation": "她手工编织美丽的地毯。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "welfare",
+    "phonetic": "/ˈwelfeər/",
+    "meaning": "n. 福利；幸福",
+    "example": "The government should protect the welfare of citizens.",
+    "exampleTranslation": "政府应该保护公民的福利。",
+    "level": 3,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "whereby",
+    "phonetic": "/weərˈbaɪ/",
+    "meaning": "adv. 凭借；由此",
+    "example": "They introduced a system whereby employees could work from home.",
+    "exampleTranslation": "他们引入了一个系统，使员工可以在家工作。",
+    "level": 4,
+    "category": "副词",
+    "grade": 14
+  },
+  {
+    "word": "withhold",
+    "phonetic": "/wɪðˈhoʊld/",
+    "meaning": "v. 保留；扣留",
+    "example": "The company withheld important information.",
+    "exampleTranslation": "公司扣留了重要信息。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "withstand",
+    "phonetic": "/wɪðˈstænd/",
+    "meaning": "v. 承受；经受",
+    "example": "The building is designed to withstand earthquakes.",
+    "exampleTranslation": "这座建筑被设计为能承受地震。",
+    "level": 4,
+    "category": "动词",
+    "grade": 14
+  },
+  {
+    "word": "worship",
+    "phonetic": "/ˈwɜːrʃɪp/",
+    "meaning": "n./v. 崇拜；敬仰",
+    "example": "In ancient times, people worshipped many gods.",
+    "exampleTranslation": "在古代，人们崇拜许多神灵。",
+    "level": 4,
+    "category": "名词",
+    "grade": 14
+  },
+  {
+    "word": "zealous",
+    "phonetic": "/ˈzeləs/",
+    "meaning": "adj. 热情的；狂热的",
+    "example": "She is a zealous advocate for environmental protection.",
+    "exampleTranslation": "她是环境保护的热情倡导者。",
+    "level": 4,
+    "category": "形容词",
+    "grade": 14
+  }
+]

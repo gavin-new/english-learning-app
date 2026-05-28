@@ -1,0 +1,42 @@
+# English Learning App
+
+## 项目信息
+- **项目名称**: EnglishLearningApp
+- **版本**: 1.0.0
+- **创建日期**: 2024年1月
+- **开发者**: AI Assistant
+
+## 功能清单
+
+### 已实现
+- [x] 背单词模块
+- [x] 听力练习模块
+- [x] 阅读理解模块
+- [x] 智能查询（字母/语音/拍照/词根）
+- [x] 艾宾浩斯复习算法
+- [x] 离线数据存储
+- [x] 学习统计
+
+### 待实现
+- [ ] 用户账户系统
+- [ ] 云端数据同步
+- [ ] 语音识别集成
+- [ ] 拍照OCR完善
+- [ ] 学习提醒通知
+- [ ] 社区分享功能
+- [ ] 更多学习内容
+
+## 已知问题
+- 语音识别需要联网API支持
+- 拍照OCR依赖Google ML Kit
+- 部分华为设备可能需要额外适配
+
+## 技术栈
+- Kotlin
+- Jetpack Compose
+- Room Database
+- MVVM Architecture
+- Material Design 3
+
+## 许可证
+MIT License

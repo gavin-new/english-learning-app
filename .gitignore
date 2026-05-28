@@ -1,0 +1,28 @@
+# Windows 操作系统
+gradle.bat
+
+# Mac OS
+.DS_Store
+
+# 日志文件
+*.log
+
+# 本地构建文件
+build/
+app/build/
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Android Studio
+*.apk
+*.aab
+local.properties
+
+# Keystore
+*.keystore

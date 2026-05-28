@@ -1,0 +1,2092 @@
+[
+  {
+    "word": "a",
+    "phonetic": "/ə/",
+    "meaning": "art. 一个；任何一个",
+    "example": "I have a book.",
+    "exampleTranslation": "我有一本书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "an",
+    "phonetic": "/ən/",
+    "meaning": "art. 一个（用于元音开头的词前）",
+    "example": "I have an apple.",
+    "exampleTranslation": "我有一个苹果。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "apple",
+    "phonetic": "/ˈæpl/",
+    "meaning": "n. 苹果",
+    "example": "I like apples.",
+    "exampleTranslation": "我喜欢苹果。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "meaning": "n. 书；书本",
+    "example": "This is a book.",
+    "exampleTranslation": "这是一本书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "meaning": "n. 猫",
+    "example": "The cat is cute.",
+    "exampleTranslation": "这只猫很可爱。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "dog",
+    "phonetic": "/dɒɡ/",
+    "meaning": "n. 狗",
+    "example": "I have a dog.",
+    "exampleTranslation": "我有一只狗。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "egg",
+    "phonetic": "/eɡ/",
+    "meaning": "n. 蛋；鸡蛋",
+    "example": "I eat an egg for breakfast.",
+    "exampleTranslation": "我早餐吃一个鸡蛋。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "meaning": "n. 鱼",
+    "example": "The fish is swimming.",
+    "exampleTranslation": "鱼在游泳。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "good",
+    "phonetic": "/ɡʊd/",
+    "meaning": "adj. 好的",
+    "example": "This is a good book.",
+    "exampleTranslation": "这是一本好书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "hello",
+    "phonetic": "/həˈləʊ/",
+    "meaning": "int. 你好",
+    "example": "Hello, how are you?",
+    "exampleTranslation": "你好，你怎么样？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "I",
+    "phonetic": "/aɪ/",
+    "meaning": "pron. 我",
+    "example": "I am a student.",
+    "exampleTranslation": "我是学生。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "is",
+    "phonetic": "/ɪz/",
+    "meaning": "v. 是（be动词第三人称单数）",
+    "example": "He is my friend.",
+    "exampleTranslation": "他是我的朋友。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "boy",
+    "phonetic": "/bɔɪ/",
+    "meaning": "n. 男孩",
+    "example": "The boy is playing.",
+    "exampleTranslation": "那个男孩在玩耍。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "girl",
+    "phonetic": "/ɡɜːl/",
+    "meaning": "n. 女孩",
+    "example": "The girl is reading.",
+    "exampleTranslation": "那个女孩在读书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "meaning": "n. 手",
+    "example": "Wash your hands.",
+    "exampleTranslation": "洗手。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "ice",
+    "phonetic": "/aɪs/",
+    "meaning": "n. 冰",
+    "example": "The ice is cold.",
+    "exampleTranslation": "冰是冷的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "jump",
+    "phonetic": "/dʒʌmp/",
+    "meaning": "v. 跳；跳跃",
+    "example": "I can jump high.",
+    "exampleTranslation": "我能跳得很高。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "kite",
+    "phonetic": "/kaɪt/",
+    "meaning": "n. 风筝",
+    "example": "I fly a kite.",
+    "exampleTranslation": "我放风筝。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "leg",
+    "phonetic": "/leɡ/",
+    "meaning": "n. 腿",
+    "example": "I have two legs.",
+    "exampleTranslation": "我有两条腿。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "meaning": "n. 牛奶",
+    "example": "I drink milk every day.",
+    "exampleTranslation": "我每天喝牛奶。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "nose",
+    "phonetic": "/nəʊz/",
+    "meaning": "n. 鼻子",
+    "example": "My nose is small.",
+    "exampleTranslation": "我的鼻子很小。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "one",
+    "phonetic": "/wʌn/",
+    "meaning": "num. 一；一个",
+    "example": "I have one pen.",
+    "exampleTranslation": "我有一支钢笔。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "pen",
+    "phonetic": "/pen/",
+    "meaning": "n. 钢笔",
+    "example": "This is my pen.",
+    "exampleTranslation": "这是我的钢笔。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "queen",
+    "phonetic": "/kwiːn/",
+    "meaning": "n. 女王；王后",
+    "example": "The queen is kind.",
+    "exampleTranslation": "女王很仁慈。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "red",
+    "phonetic": "/red/",
+    "meaning": "adj. 红色的 n. 红色",
+    "example": "I like red.",
+    "exampleTranslation": "我喜欢红色。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "meaning": "n. 太阳",
+    "example": "The sun is bright.",
+    "exampleTranslation": "太阳很亮。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "two",
+    "phonetic": "/tuː/",
+    "meaning": "num. 二；两个",
+    "example": "I have two hands.",
+    "exampleTranslation": "我有两只手。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "up",
+    "phonetic": "/ʌp/",
+    "meaning": "adv. 向上",
+    "example": "Stand up, please.",
+    "exampleTranslation": "请站起来。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "van",
+    "phonetic": "/væn/",
+    "meaning": "n. 货车；面包车",
+    "example": "The van is blue.",
+    "exampleTranslation": "货车是蓝色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "water",
+    "phonetic": "/ˈwɔːtər/",
+    "meaning": "n. 水",
+    "example": "I drink water.",
+    "exampleTranslation": "我喝水。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "box",
+    "phonetic": "/bɒks/",
+    "meaning": "n. 盒子；箱子",
+    "example": "The box is big.",
+    "exampleTranslation": "盒子很大。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "yellow",
+    "phonetic": "/ˈjeləʊ/",
+    "meaning": "adj. 黄色的 n. 黄色",
+    "example": "The banana is yellow.",
+    "exampleTranslation": "香蕉是黄色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "zoo",
+    "phonetic": "/zuː/",
+    "meaning": "n. 动物园",
+    "example": "Let's go to the zoo.",
+    "exampleTranslation": "我们去动物园吧。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "dad",
+    "phonetic": "/dæd/",
+    "meaning": "n. 爸爸",
+    "example": "My dad is tall.",
+    "exampleTranslation": "我爸爸很高。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "mom",
+    "phonetic": "/mɒm/",
+    "meaning": "n. 妈妈",
+    "example": "My mom is kind.",
+    "exampleTranslation": "我妈妈很和蔼。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "meaning": "adj. 大的",
+    "example": "The elephant is big.",
+    "exampleTranslation": "大象很大。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "small",
+    "phonetic": "/smɔːl/",
+    "meaning": "adj. 小的",
+    "example": "The mouse is small.",
+    "exampleTranslation": "老鼠很小。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "meaning": "adj. 蓝色的 n. 蓝色",
+    "example": "The sky is blue.",
+    "exampleTranslation": "天空是蓝色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "green",
+    "phonetic": "/ɡriːn/",
+    "meaning": "adj. 绿色的 n. 绿色",
+    "example": "The grass is green.",
+    "exampleTranslation": "草是绿色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "white",
+    "phonetic": "/waɪt/",
+    "meaning": "adj. 白色的 n. 白色",
+    "example": "The snow is white.",
+    "exampleTranslation": "雪是白色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "black",
+    "phonetic": "/blæk/",
+    "meaning": "adj. 黑色的 n. 黑色",
+    "example": "The cat is black.",
+    "exampleTranslation": "猫是黑色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "three",
+    "phonetic": "/θriː/",
+    "meaning": "num. 三；三个",
+    "example": "I have three books.",
+    "exampleTranslation": "我有三本书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "four",
+    "phonetic": "/fɔːr/",
+    "meaning": "num. 四；四个",
+    "example": "There are four seasons.",
+    "exampleTranslation": "有四个季节。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "five",
+    "phonetic": "/faɪv/",
+    "meaning": "num. 五；五个",
+    "example": "I have five fingers.",
+    "exampleTranslation": "我有五个手指。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "six",
+    "phonetic": "/sɪks/",
+    "meaning": "num. 六；六个",
+    "example": "There are six apples.",
+    "exampleTranslation": "有六个苹果。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "seven",
+    "phonetic": "/ˈsevn/",
+    "meaning": "num. 七；七个",
+    "example": "There are seven days in a week.",
+    "exampleTranslation": "一周有七天。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "eight",
+    "phonetic": "/eɪt/",
+    "meaning": "num. 八；八个",
+    "example": "I am eight years old.",
+    "exampleTranslation": "我八岁了。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "nine",
+    "phonetic": "/naɪn/",
+    "meaning": "num. 九；九个",
+    "example": "There are nine cats.",
+    "exampleTranslation": "有九只猫。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "ten",
+    "phonetic": "/ten/",
+    "meaning": "num. 十；十个",
+    "example": "I have ten pencils.",
+    "exampleTranslation": "我有十支铅笔。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "meaning": "n. 书包；袋子",
+    "example": "My bag is red.",
+    "exampleTranslation": "我的书包是红色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "meaning": "n. 蛋糕",
+    "example": "I like cake.",
+    "exampleTranslation": "我喜欢蛋糕。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "desk",
+    "phonetic": "/desk/",
+    "meaning": "n. 书桌",
+    "example": "The book is on the desk.",
+    "exampleTranslation": "书在桌子上。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "meaning": "n. 眼睛",
+    "example": "I have two eyes.",
+    "exampleTranslation": "我有两只眼睛。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "meaning": "n. 脸；面孔",
+    "example": "Wash your face.",
+    "exampleTranslation": "洗脸。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "foot",
+    "phonetic": "/fʊt/",
+    "meaning": "n. 脚；足",
+    "example": "I have two feet.",
+    "exampleTranslation": "我有两只脚。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "head",
+    "phonetic": "/hed/",
+    "meaning": "n. 头；头部",
+    "example": "Touch your head.",
+    "exampleTranslation": "摸摸你的头。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "mouth",
+    "phonetic": "/maʊθ/",
+    "meaning": "n. 嘴；嘴巴",
+    "example": "Open your mouth.",
+    "exampleTranslation": "张开嘴。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "arm",
+    "phonetic": "/ɑːm/",
+    "meaning": "n. 手臂；胳膊",
+    "example": "I have two arms.",
+    "exampleTranslation": "我有两只胳膊。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "ear",
+    "phonetic": "/ɪər/",
+    "meaning": "n. 耳朵",
+    "example": "I have two ears.",
+    "exampleTranslation": "我有两只耳朵。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "hair",
+    "phonetic": "/heər/",
+    "meaning": "n. 头发",
+    "example": "She has long hair.",
+    "exampleTranslation": "她有长头发。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "bed",
+    "phonetic": "/bed/",
+    "meaning": "n. 床",
+    "example": "I sleep in my bed.",
+    "exampleTranslation": "我在床上睡觉。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "door",
+    "phonetic": "/dɔːr/",
+    "meaning": "n. 门",
+    "example": "Open the door.",
+    "exampleTranslation": "打开门。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "chair",
+    "phonetic": "/tʃeər/",
+    "meaning": "n. 椅子",
+    "example": "Sit on the chair.",
+    "exampleTranslation": "坐在椅子上。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "table",
+    "phonetic": "/ˈteɪbl/",
+    "meaning": "n. 桌子",
+    "example": "The food is on the table.",
+    "exampleTranslation": "食物在桌子上。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "ruler",
+    "phonetic": "/ˈruːlər/",
+    "meaning": "n. 尺子",
+    "example": "This is a ruler.",
+    "exampleTranslation": "这是一把尺子。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "pencil",
+    "phonetic": "/ˈpensl/",
+    "meaning": "n. 铅笔",
+    "example": "I write with a pencil.",
+    "exampleTranslation": "我用铅笔写字。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪzər/",
+    "meaning": "n. 橡皮擦",
+    "example": "I use an eraser.",
+    "exampleTranslation": "我用橡皮擦。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "meaning": "n. 学校",
+    "example": "I go to school.",
+    "exampleTranslation": "我去上学。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "teacher",
+    "phonetic": "/ˈtiːtʃər/",
+    "meaning": "n. 老师",
+    "example": "The teacher is nice.",
+    "exampleTranslation": "老师很好。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "student",
+    "phonetic": "/ˈstjuːdnt/",
+    "meaning": "n. 学生",
+    "example": "I am a student.",
+    "exampleTranslation": "我是学生。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "morning",
+    "phonetic": "/ˈmɔːnɪŋ/",
+    "meaning": "n. 早晨；上午",
+    "example": "Good morning!",
+    "exampleTranslation": "早上好！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "/ˌɑːftərˈnuːn/",
+    "meaning": "n. 下午",
+    "example": "Good afternoon!",
+    "exampleTranslation": "下午好！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "meaning": "n. 傍晚；晚上",
+    "example": "Good evening!",
+    "exampleTranslation": "晚上好！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "meaning": "n. 夜晚",
+    "example": "Good night!",
+    "exampleTranslation": "晚安！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "bye",
+    "phonetic": "/baɪ/",
+    "meaning": "int. 再见",
+    "example": "Bye, see you!",
+    "exampleTranslation": "再见，回头见！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "please",
+    "phonetic": "/pliːz/",
+    "meaning": "adv. 请",
+    "example": "Please help me.",
+    "exampleTranslation": "请帮帮我。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "thank",
+    "phonetic": "/θæŋk/",
+    "meaning": "v. 谢谢",
+    "example": "Thank you!",
+    "exampleTranslation": "谢谢你！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "you",
+    "phonetic": "/juː/",
+    "meaning": "pron. 你；你们",
+    "example": "You are my friend.",
+    "exampleTranslation": "你是我的朋友。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "he",
+    "phonetic": "/hiː/",
+    "meaning": "pron. 他",
+    "example": "He is a boy.",
+    "exampleTranslation": "他是个男孩。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "she",
+    "phonetic": "/ʃiː/",
+    "meaning": "pron. 她",
+    "example": "She is a girl.",
+    "exampleTranslation": "她是个女孩。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "it",
+    "phonetic": "/ɪt/",
+    "meaning": "pron. 它",
+    "example": "It is a cat.",
+    "exampleTranslation": "它是一只猫。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "we",
+    "phonetic": "/wiː/",
+    "meaning": "pron. 我们",
+    "example": "We are happy.",
+    "exampleTranslation": "我们很开心。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "they",
+    "phonetic": "/ðeɪ/",
+    "meaning": "pron. 他们",
+    "example": "They are students.",
+    "exampleTranslation": "他们是学生。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "my",
+    "phonetic": "/maɪ/",
+    "meaning": "pron. 我的",
+    "example": "This is my book.",
+    "exampleTranslation": "这是我的书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "your",
+    "phonetic": "/jɔːr/",
+    "meaning": "pron. 你的；你们的",
+    "example": "What is your name?",
+    "exampleTranslation": "你叫什么名字？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "his",
+    "phonetic": "/hɪz/",
+    "meaning": "pron. 他的",
+    "example": "This is his pen.",
+    "exampleTranslation": "这是他的钢笔。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "her",
+    "phonetic": "/hɜːr/",
+    "meaning": "pron. 她的",
+    "example": "This is her bag.",
+    "exampleTranslation": "这是她的书包。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "meaning": "n. 名字",
+    "example": "My name is Tom.",
+    "exampleTranslation": "我叫汤姆。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "what",
+    "phonetic": "/wɒt/",
+    "meaning": "pron. 什么",
+    "example": "What is this?",
+    "exampleTranslation": "这是什么？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "this",
+    "phonetic": "/ðɪs/",
+    "meaning": "pron. 这个",
+    "example": "This is a pen.",
+    "exampleTranslation": "这是一支钢笔。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "that",
+    "phonetic": "/ðæt/",
+    "meaning": "pron. 那个",
+    "example": "That is a book.",
+    "exampleTranslation": "那是一本书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "yes",
+    "phonetic": "/jes/",
+    "meaning": "adv. 是的",
+    "example": "Yes, I do.",
+    "exampleTranslation": "是的，我愿意。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "no",
+    "phonetic": "/nəʊ/",
+    "meaning": "adv. 不；不是",
+    "example": "No, I don't.",
+    "exampleTranslation": "不，我不愿意。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "and",
+    "phonetic": "/ænd/",
+    "meaning": "conj. 和；与",
+    "example": "I have a pen and a book.",
+    "exampleTranslation": "我有一支钢笔和一本书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "am",
+    "phonetic": "/æm/",
+    "meaning": "v. 是（be动词第一人称单数）",
+    "example": "I am happy.",
+    "exampleTranslation": "我很开心。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "are",
+    "phonetic": "/ɑːr/",
+    "meaning": "v. 是（be动词复数）",
+    "example": "You are kind.",
+    "exampleTranslation": "你很善良。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "meaning": "adj. 快乐的；幸福的",
+    "example": "I am happy.",
+    "exampleTranslation": "我很快乐。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "meaning": "adj. 悲伤的；难过的",
+    "example": "Don't be sad.",
+    "exampleTranslation": "不要难过。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "new",
+    "phonetic": "/njuː/",
+    "meaning": "adj. 新的",
+    "example": "I have a new book.",
+    "exampleTranslation": "我有一本新书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "old",
+    "phonetic": "/əʊld/",
+    "meaning": "adj. 旧的；老的",
+    "example": "This is an old book.",
+    "exampleTranslation": "这是一本旧书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "look",
+    "phonetic": "/lʊk/",
+    "meaning": "v. 看",
+    "example": "Look at me.",
+    "exampleTranslation": "看着我。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "see",
+    "phonetic": "/siː/",
+    "meaning": "v. 看见",
+    "example": "I can see a bird.",
+    "exampleTranslation": "我能看见一只鸟。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "can",
+    "phonetic": "/kæn/",
+    "meaning": "v. 能；可以",
+    "example": "I can swim.",
+    "exampleTranslation": "我会游泳。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "come",
+    "phonetic": "/kʌm/",
+    "meaning": "v. 来",
+    "example": "Come here.",
+    "exampleTranslation": "来这里。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "go",
+    "phonetic": "/ɡəʊ/",
+    "meaning": "v. 去",
+    "example": "Let's go.",
+    "exampleTranslation": "我们走吧。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "have",
+    "phonetic": "/hæv/",
+    "meaning": "v. 有",
+    "example": "I have a dog.",
+    "exampleTranslation": "我有一只狗。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "meaning": "v. 喜欢",
+    "example": "I like apples.",
+    "exampleTranslation": "我喜欢苹果。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "meaning": "v. 爱 n. 爱",
+    "example": "I love my family.",
+    "exampleTranslation": "我爱我的家人。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "play",
+    "phonetic": "/pleɪ/",
+    "meaning": "v. 玩",
+    "example": "Let's play.",
+    "exampleTranslation": "我们玩吧。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "run",
+    "phonetic": "/rʌn/",
+    "meaning": "v. 跑",
+    "example": "I can run fast.",
+    "exampleTranslation": "我能跑得很快。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "meaning": "v. 唱歌",
+    "example": "I like to sing.",
+    "exampleTranslation": "我喜欢唱歌。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "dance",
+    "phonetic": "/dɑːns/",
+    "meaning": "v. 跳舞",
+    "example": "I can dance.",
+    "exampleTranslation": "我会跳舞。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "meaning": "v. 吃",
+    "example": "I eat breakfast.",
+    "exampleTranslation": "我吃早餐。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "meaning": "v. 喝",
+    "example": "I drink water.",
+    "exampleTranslation": "我喝水。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "meaning": "n. 橙子 adj. 橙色的",
+    "example": "I like oranges.",
+    "exampleTranslation": "我喜欢橙子。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "banana",
+    "phonetic": "/bəˈnɑːnə/",
+    "meaning": "n. 香蕉",
+    "example": "The banana is yellow.",
+    "exampleTranslation": "香蕉是黄色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "pear",
+    "phonetic": "/peər/",
+    "meaning": "n. 梨",
+    "example": "I eat a pear.",
+    "exampleTranslation": "我吃一个梨。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "bird",
+    "phonetic": "/bɜːd/",
+    "meaning": "n. 鸟",
+    "example": "The bird can fly.",
+    "exampleTranslation": "鸟会飞。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "pig",
+    "phonetic": "/pɪɡ/",
+    "meaning": "n. 猪",
+    "example": "The pig is fat.",
+    "exampleTranslation": "猪很胖。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "duck",
+    "phonetic": "/dʌk/",
+    "meaning": "n. 鸭子",
+    "example": "The duck can swim.",
+    "exampleTranslation": "鸭子会游泳。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "meaning": "n. 兔子",
+    "example": "The rabbit is cute.",
+    "exampleTranslation": "兔子很可爱。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "bear",
+    "phonetic": "/beər/",
+    "meaning": "n. 熊",
+    "example": "The bear is big.",
+    "exampleTranslation": "熊很大。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "monkey",
+    "phonetic": "/ˈmʌŋki/",
+    "meaning": "n. 猴子",
+    "example": "The monkey is funny.",
+    "exampleTranslation": "猴子很有趣。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "tiger",
+    "phonetic": "/ˈtaɪɡər/",
+    "meaning": "n. 老虎",
+    "example": "The tiger is strong.",
+    "exampleTranslation": "老虎很强壮。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "panda",
+    "phonetic": "/ˈpændə/",
+    "meaning": "n. 熊猫",
+    "example": "I love pandas.",
+    "exampleTranslation": "我喜欢熊猫。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "elephant",
+    "phonetic": "/ˈelɪfənt/",
+    "meaning": "n. 大象",
+    "example": "The elephant has a long nose.",
+    "exampleTranslation": "大象有长鼻子。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "lion",
+    "phonetic": "/ˈlaɪən/",
+    "meaning": "n. 狮子",
+    "example": "The lion is the king.",
+    "exampleTranslation": "狮子是国王。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "in",
+    "phonetic": "/ɪn/",
+    "meaning": "prep. 在...里面",
+    "example": "The cat is in the box.",
+    "exampleTranslation": "猫在盒子里。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "on",
+    "phonetic": "/ɒn/",
+    "meaning": "prep. 在...上面",
+    "example": "The book is on the desk.",
+    "exampleTranslation": "书在桌子上。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "under",
+    "phonetic": "/ˈʌndər/",
+    "meaning": "prep. 在...下面",
+    "example": "The cat is under the table.",
+    "exampleTranslation": "猫在桌子下面。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "to",
+    "phonetic": "/tuː/",
+    "meaning": "prep. 到；向",
+    "example": "I go to school.",
+    "exampleTranslation": "我去学校。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "for",
+    "phonetic": "/fɔːr/",
+    "meaning": "prep. 为了；给",
+    "example": "This is for you.",
+    "exampleTranslation": "这是给你的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "me",
+    "phonetic": "/miː/",
+    "meaning": "pron. 我（宾格）",
+    "example": "Help me, please.",
+    "exampleTranslation": "请帮帮我。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "him",
+    "phonetic": "/hɪm/",
+    "meaning": "pron. 他（宾格）",
+    "example": "I can see him.",
+    "exampleTranslation": "我能看见他。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "her",
+    "phonetic": "/hɜːr/",
+    "meaning": "pron. 她（宾格）",
+    "example": "I can see her.",
+    "exampleTranslation": "我能看见她。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "us",
+    "phonetic": "/ʌs/",
+    "meaning": "pron. 我们（宾格）",
+    "example": "Help us.",
+    "exampleTranslation": "帮帮我们。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "them",
+    "phonetic": "/ðem/",
+    "meaning": "pron. 他们（宾格）",
+    "example": "I can see them.",
+    "exampleTranslation": "我能看见他们。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "who",
+    "phonetic": "/huː/",
+    "meaning": "pron. 谁",
+    "example": "Who is he?",
+    "exampleTranslation": "他是谁？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "where",
+    "phonetic": "/weər/",
+    "meaning": "adv. 在哪里",
+    "example": "Where is the cat?",
+    "exampleTranslation": "猫在哪里？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "how",
+    "phonetic": "/haʊ/",
+    "meaning": "adv. 怎样；如何",
+    "example": "How are you?",
+    "exampleTranslation": "你好吗？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "many",
+    "phonetic": "/ˈmeni/",
+    "meaning": "adj. 许多",
+    "example": "How many apples?",
+    "exampleTranslation": "有多少个苹果？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "friend",
+    "phonetic": "/frend/",
+    "meaning": "n. 朋友",
+    "example": "He is my friend.",
+    "exampleTranslation": "他是我的朋友。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "family",
+    "phonetic": "/ˈfæməli/",
+    "meaning": "n. 家庭；家人",
+    "example": "I love my family.",
+    "exampleTranslation": "我爱我的家人。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "father",
+    "phonetic": "/ˈfɑːðər/",
+    "meaning": "n. 父亲；爸爸",
+    "example": "My father is tall.",
+    "exampleTranslation": "我爸爸很高。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "mother",
+    "phonetic": "/ˈmʌðər/",
+    "meaning": "n. 母亲；妈妈",
+    "example": "My mother is kind.",
+    "exampleTranslation": "我妈妈很和蔼。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "brother",
+    "phonetic": "/ˈbrʌðər/",
+    "meaning": "n. 兄弟",
+    "example": "I have a brother.",
+    "exampleTranslation": "我有一个兄弟。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "sister",
+    "phonetic": "/ˈsɪstər/",
+    "meaning": "n. 姐妹",
+    "example": "I have a sister.",
+    "exampleTranslation": "我有一个姐妹。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "grandma",
+    "phonetic": "/ˈɡrænmɑː/",
+    "meaning": "n. 奶奶；外婆",
+    "example": "My grandma is old.",
+    "exampleTranslation": "我奶奶年纪大了。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "grandpa",
+    "phonetic": "/ˈɡrænpɑː/",
+    "meaning": "n. 爷爷；外公",
+    "example": "My grandpa is kind.",
+    "exampleTranslation": "我爷爷很和蔼。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "nice",
+    "phonetic": "/naɪs/",
+    "meaning": "adj. 好的；友好的",
+    "example": "Nice to meet you.",
+    "exampleTranslation": "很高兴见到你。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "meet",
+    "phonetic": "/miːt/",
+    "meaning": "v. 遇见；见面",
+    "example": "Nice to meet you.",
+    "exampleTranslation": "很高兴见到你。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "too",
+    "phonetic": "/tuː/",
+    "meaning": "adv. 也；太",
+    "example": "I like it too.",
+    "exampleTranslation": "我也喜欢它。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "very",
+    "phonetic": "/ˈveri/",
+    "meaning": "adv. 非常",
+    "example": "I am very happy.",
+    "exampleTranslation": "我非常开心。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "tall",
+    "phonetic": "/tɔːl/",
+    "meaning": "adj. 高的",
+    "example": "He is tall.",
+    "exampleTranslation": "他很高。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɔːt/",
+    "meaning": "adj. 矮的；短的",
+    "example": "He is short.",
+    "exampleTranslation": "他很矮。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "meaning": "adj. 胖的",
+    "example": "The pig is fat.",
+    "exampleTranslation": "猪很胖。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "thin",
+    "phonetic": "/θɪn/",
+    "meaning": "adj. 瘦的",
+    "example": "She is thin.",
+    "exampleTranslation": "她很瘦。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "hot",
+    "phonetic": "/hɒt/",
+    "meaning": "adj. 热的",
+    "example": "The soup is hot.",
+    "exampleTranslation": "汤很热。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "cold",
+    "phonetic": "/kəʊld/",
+    "meaning": "adj. 冷的",
+    "example": "The ice is cold.",
+    "exampleTranslation": "冰是冷的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "hungry",
+    "phonetic": "/ˈhʌŋɡri/",
+    "meaning": "adj. 饿的",
+    "example": "I am hungry.",
+    "exampleTranslation": "我饿了。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "/ˈθɜːsti/",
+    "meaning": "adj. 渴的",
+    "example": "I am thirsty.",
+    "exampleTranslation": "我渴了。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "tired",
+    "phonetic": "/ˈtaɪəd/",
+    "meaning": "adj. 累的",
+    "example": "I am tired.",
+    "exampleTranslation": "我累了。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "fly",
+    "phonetic": "/flaɪ/",
+    "meaning": "v. 飞",
+    "example": "Birds can fly.",
+    "exampleTranslation": "鸟会飞。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "meaning": "v. 游泳",
+    "example": "I can swim.",
+    "exampleTranslation": "我会游泳。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "meaning": "v. 画画",
+    "example": "I can draw.",
+    "exampleTranslation": "我会画画。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "read",
+    "phonetic": "/riːd/",
+    "meaning": "v. 阅读",
+    "example": "I can read.",
+    "exampleTranslation": "我会阅读。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "write",
+    "phonetic": "/raɪt/",
+    "meaning": "v. 写",
+    "example": "I can write.",
+    "exampleTranslation": "我会写字。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "open",
+    "phonetic": "/ˈəʊpən/",
+    "meaning": "v. 打开",
+    "example": "Open the door.",
+    "exampleTranslation": "打开门。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "close",
+    "phonetic": "/kləʊz/",
+    "meaning": "v. 关闭",
+    "example": "Close the door.",
+    "exampleTranslation": "关上门。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "sit",
+    "phonetic": "/sɪt/",
+    "meaning": "v. 坐",
+    "example": "Sit down, please.",
+    "exampleTranslation": "请坐下。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "stand",
+    "phonetic": "/stænd/",
+    "meaning": "v. 站立",
+    "example": "Stand up, please.",
+    "exampleTranslation": "请站起来。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "down",
+    "phonetic": "/daʊn/",
+    "meaning": "adv. 向下",
+    "example": "Sit down.",
+    "exampleTranslation": "坐下。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "here",
+    "phonetic": "/hɪər/",
+    "meaning": "adv. 这里",
+    "example": "Come here.",
+    "exampleTranslation": "来这里。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "there",
+    "phonetic": "/ðeər/",
+    "meaning": "adv. 那里",
+    "example": "Go there.",
+    "exampleTranslation": "去那里。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "meaning": "adv. 现在",
+    "example": "Let's go now.",
+    "exampleTranslation": "我们现在走吧。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "today",
+    "phonetic": "/təˈdeɪ/",
+    "meaning": "n. 今天",
+    "example": "Today is Monday.",
+    "exampleTranslation": "今天是星期一。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "let",
+    "phonetic": "/let/",
+    "meaning": "v. 让",
+    "example": "Let's go.",
+    "exampleTranslation": "我们走吧。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "want",
+    "phonetic": "/wɒnt/",
+    "meaning": "v. 想要",
+    "example": "I want an apple.",
+    "exampleTranslation": "我想要一个苹果。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "do",
+    "phonetic": "/duː/",
+    "meaning": "v. 做",
+    "example": "What do you do?",
+    "exampleTranslation": "你是做什么的？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "don't",
+    "phonetic": "/dəʊnt/",
+    "meaning": "v. 不要",
+    "example": "Don't run.",
+    "exampleTranslation": "不要跑。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "not",
+    "phonetic": "/nɒt/",
+    "meaning": "adv. 不",
+    "example": "I am not happy.",
+    "exampleTranslation": "我不开心。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "sorry",
+    "phonetic": "/ˈsɒri/",
+    "meaning": "adj. 抱歉的",
+    "example": "I am sorry.",
+    "exampleTranslation": "对不起。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "OK",
+    "phonetic": "/ˌəʊˈkeɪ/",
+    "meaning": "adj. 好的",
+    "example": "OK, let's go.",
+    "exampleTranslation": "好的，我们走吧。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "great",
+    "phonetic": "/ɡreɪt/",
+    "meaning": "adj. 很好的；伟大的",
+    "example": "That's great!",
+    "exampleTranslation": "太好了！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "welcome",
+    "phonetic": "/ˈwelkəm/",
+    "meaning": "adj. 受欢迎的 int. 欢迎",
+    "example": "You're welcome.",
+    "exampleTranslation": "不客气。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "classroom",
+    "phonetic": "/ˈklɑːsruːm/",
+    "meaning": "n. 教室",
+    "example": "We are in the classroom.",
+    "exampleTranslation": "我们在教室里。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "window",
+    "phonetic": "/ˈwɪndəʊ/",
+    "meaning": "n. 窗户",
+    "example": "Open the window.",
+    "exampleTranslation": "打开窗户。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "floor",
+    "phonetic": "/flɔːr/",
+    "meaning": "n. 地板",
+    "example": "The book is on the floor.",
+    "exampleTranslation": "书在地板上。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "room",
+    "phonetic": "/ruːm/",
+    "meaning": "n. 房间",
+    "example": "This is my room.",
+    "exampleTranslation": "这是我的房间。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "home",
+    "phonetic": "/həʊm/",
+    "meaning": "n. 家",
+    "example": "I go home.",
+    "exampleTranslation": "我回家。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "at",
+    "phonetic": "/æt/",
+    "meaning": "prep. 在",
+    "example": "I am at home.",
+    "exampleTranslation": "我在家。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "color",
+    "phonetic": "/ˈkʌlər/",
+    "meaning": "n. 颜色",
+    "example": "What color is it?",
+    "exampleTranslation": "它是什么颜色的？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "pink",
+    "phonetic": "/pɪŋk/",
+    "meaning": "adj. 粉红色的 n. 粉红色",
+    "example": "I like pink.",
+    "exampleTranslation": "我喜欢粉红色。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "purple",
+    "phonetic": "/ˈpɜːpl/",
+    "meaning": "adj. 紫色的 n. 紫色",
+    "example": "The flower is purple.",
+    "exampleTranslation": "花是紫色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "meaning": "adj. 棕色的 n. 棕色",
+    "example": "The bear is brown.",
+    "exampleTranslation": "熊是棕色的。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "fun",
+    "phonetic": "/fʌn/",
+    "meaning": "n. 乐趣 adj. 有趣的",
+    "example": "It is fun.",
+    "exampleTranslation": "这很有趣。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "funny",
+    "phonetic": "/ˈfʌni/",
+    "meaning": "adj. 有趣的；好笑的",
+    "example": "The monkey is funny.",
+    "exampleTranslation": "猴子很有趣。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "cute",
+    "phonetic": "/kjuːt/",
+    "meaning": "adj. 可爱的",
+    "example": "The cat is cute.",
+    "exampleTranslation": "猫很可爱。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "meaning": "adj. 美丽的",
+    "example": "The flower is beautiful.",
+    "exampleTranslation": "花很美丽。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "help",
+    "phonetic": "/help/",
+    "meaning": "v. 帮助 n. 帮助",
+    "example": "Can you help me?",
+    "exampleTranslation": "你能帮我吗？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "find",
+    "phonetic": "/faɪnd/",
+    "meaning": "v. 找到",
+    "example": "I can find it.",
+    "exampleTranslation": "我能找到它。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "give",
+    "phonetic": "/ɡɪv/",
+    "meaning": "v. 给",
+    "example": "Give me a pen.",
+    "exampleTranslation": "给我一支钢笔。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃəʊ/",
+    "meaning": "v. 展示；给...看",
+    "example": "Show me your book.",
+    "exampleTranslation": "给我看看你的书。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "meaning": "n. 时间",
+    "example": "What time is it?",
+    "exampleTranslation": "几点了？",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "English",
+    "phonetic": "/ˈɪŋɡlɪʃ/",
+    "meaning": "n. 英语 adj. 英语的",
+    "example": "I like English.",
+    "exampleTranslation": "我喜欢英语。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "Chinese",
+    "phonetic": "/ˌtʃaɪˈniːz/",
+    "meaning": "n. 中文；中国人 adj. 中国的",
+    "example": "I am Chinese.",
+    "exampleTranslation": "我是中国人。",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "year",
+    "phonetic": "/jɪər/",
+    "meaning": "n. 年",
+    "example": "Happy New Year!",
+    "exampleTranslation": "新年快乐！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "meaning": "adj. 快乐的",
+    "example": "Happy birthday!",
+    "exampleTranslation": "生日快乐！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  },
+  {
+    "word": "birthday",
+    "phonetic": "/ˈbɜːθdeɪ/",
+    "meaning": "n. 生日",
+    "example": "Happy birthday!",
+    "exampleTranslation": "生日快乐！",
+    "level": 1,
+    "category": "小学一年级",
+    "grade": 1
+  }
+]

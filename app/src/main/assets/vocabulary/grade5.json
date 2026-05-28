@@ -1,0 +1,2172 @@
+[
+  {
+    "word": "subject",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "meaning": "n. 学科；主题",
+    "example": "My favorite subject is math.",
+    "exampleTranslation": "我最喜欢的学科是数学。",
+    "level": 2,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "meaning": "n. 科学",
+    "example": "Science is very interesting.",
+    "exampleTranslation": "科学非常有趣。",
+    "level": 2,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "history",
+    "phonetic": "/ˈhɪstri/",
+    "meaning": "n. 历史",
+    "example": "We have history class on Tuesday.",
+    "exampleTranslation": "我们星期二有历史课。",
+    "level": 2,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "geography",
+    "phonetic": "/dʒiˈɒɡrəfi/",
+    "meaning": "n. 地理",
+    "example": "Geography teaches us about the world.",
+    "exampleTranslation": "地理教我们了解世界。",
+    "level": 2,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "art",
+    "phonetic": "/ɑːt/",
+    "meaning": "n. 美术；艺术",
+    "example": "I like art class very much.",
+    "exampleTranslation": "我非常喜欢美术课。",
+    "level": 1,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "meaning": "n. 音乐",
+    "example": "She plays music every day.",
+    "exampleTranslation": "她每天都播放音乐。",
+    "level": 1,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "PE",
+    "phonetic": "/piː iː/",
+    "meaning": "n. 体育课",
+    "example": "We have PE on Friday.",
+    "exampleTranslation": "我们星期五有体育课。",
+    "level": 1,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "math",
+    "phonetic": "/mæθ/",
+    "meaning": "n. 数学",
+    "example": "Math is my favorite subject.",
+    "exampleTranslation": "数学是我最喜欢的学科。",
+    "level": 1,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "English",
+    "phonetic": "/ˈɪŋɡlɪʃ/",
+    "meaning": "n. 英语",
+    "example": "We learn English at school.",
+    "exampleTranslation": "我们在学校学英语。",
+    "level": 1,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "Chinese",
+    "phonetic": "/tʃaɪˈniːz/",
+    "meaning": "n. 语文；中文",
+    "example": "I can read Chinese books.",
+    "exampleTranslation": "我能读中文书。",
+    "level": 1,
+    "category": "学科",
+    "grade": 5
+  },
+  {
+    "word": "hobby",
+    "phonetic": "/ˈhɒbi/",
+    "meaning": "n. 爱好",
+    "example": "What is your hobby?",
+    "exampleTranslation": "你的爱好是什么？",
+    "level": 2,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "collect",
+    "phonetic": "/kəˈlekt/",
+    "meaning": "v. 收集",
+    "example": "I like to collect stamps.",
+    "exampleTranslation": "我喜欢收集邮票。",
+    "level": 2,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "stamp",
+    "phonetic": "/stæmp/",
+    "meaning": "n. 邮票",
+    "example": "He has many beautiful stamps.",
+    "exampleTranslation": "他有许多漂亮的邮票。",
+    "level": 2,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "coin",
+    "phonetic": "/kɔɪn/",
+    "meaning": "n. 硬币",
+    "example": "My father collects old coins.",
+    "exampleTranslation": "我爸爸收集旧硬币。",
+    "level": 2,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "painting",
+    "phonetic": "/ˈpeɪntɪŋ/",
+    "meaning": "n. 绘画；油画",
+    "example": "She is good at painting.",
+    "exampleTranslation": "她擅长绘画。",
+    "level": 2,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "dance",
+    "phonetic": "/dɑːns/",
+    "meaning": "v. 跳舞 n. 舞蹈",
+    "example": "The children like to dance.",
+    "exampleTranslation": "孩子们喜欢跳舞。",
+    "level": 1,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "meaning": "v. 唱；唱歌",
+    "example": "Can you sing this song?",
+    "exampleTranslation": "你会唱这首歌吗？",
+    "level": 1,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "meaning": "v. 画；绘画",
+    "example": "I like to draw pictures.",
+    "exampleTranslation": "我喜欢画画。",
+    "level": 1,
+    "category": "爱好",
+    "grade": 5
+  },
+  {
+    "word": "festival",
+    "phonetic": "/ˈfestɪvl/",
+    "meaning": "n. 节日",
+    "example": "Christmas is a famous festival.",
+    "exampleTranslation": "圣诞节是一个著名的节日。",
+    "level": 2,
+    "category": "节日",
+    "grade": 5
+  },
+  {
+    "word": "Christmas",
+    "phonetic": "/ˈkrɪsməs/",
+    "meaning": "n. 圣诞节",
+    "example": "We get presents at Christmas.",
+    "exampleTranslation": "我们在圣诞节收到礼物。",
+    "level": 2,
+    "category": "节日",
+    "grade": 5
+  },
+  {
+    "word": "Halloween",
+    "phonetic": "/ˌhæləˈwiːn/",
+    "meaning": "n. 万圣节",
+    "example": "Children wear costumes at Halloween.",
+    "exampleTranslation": "孩子们在万圣节穿特殊服装。",
+    "level": 2,
+    "category": "节日",
+    "grade": 5
+  },
+  {
+    "word": "Thanksgiving",
+    "phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+    "meaning": "n. 感恩节",
+    "example": "We eat turkey on Thanksgiving.",
+    "exampleTranslation": "我们在感恩节吃火鸡。",
+    "level": 2,
+    "category": "节日",
+    "grade": 5
+  },
+  {
+    "word": "Spring Festival",
+    "phonetic": "/sprɪŋ ˈfestɪvl/",
+    "meaning": "n. 春节",
+    "example": "We have a big dinner on Spring Festival.",
+    "exampleTranslation": "春节我们吃大餐。",
+    "level": 2,
+    "category": "节日",
+    "grade": 5
+  },
+  {
+    "word": "Mid-Autumn Festival",
+    "phonetic": "/mɪd ˈɔːtəm ˈfestɪvl/",
+    "meaning": "n. 中秋节",
+    "example": "We eat mooncakes on Mid-Autumn Festival.",
+    "exampleTranslation": "中秋节我们吃月饼。",
+    "level": 2,
+    "category": "节日",
+    "grade": 5
+  },
+  {
+    "word": "Dragon Boat Festival",
+    "phonetic": "/ˈdræɡən baʊt ˈfestɪvl/",
+    "meaning": "n. 端午节",
+    "example": "We eat zongzi on Dragon Boat Festival.",
+    "exampleTranslation": "端午节我们吃粽子。",
+    "level": 2,
+    "category": "节日",
+    "grade": 5
+  },
+  {
+    "word": "environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "meaning": "n. 环境",
+    "example": "We must protect the environment.",
+    "exampleTranslation": "我们必须保护环境。",
+    "level": 2,
+    "category": "环保",
+    "grade": 5
+  },
+  {
+    "word": "protect",
+    "phonetic": "/prəˈtekt/",
+    "meaning": "v. 保护",
+    "example": "We should protect wild animals.",
+    "exampleTranslation": "我们应该保护野生动物。",
+    "level": 2,
+    "category": "环保",
+    "grade": 5
+  },
+  {
+    "word": "pollution",
+    "phonetic": "/pəˈluːʃn/",
+    "meaning": "n. 污染",
+    "example": "Air pollution is a big problem.",
+    "exampleTranslation": "空气污染是一个大问题。",
+    "level": 2,
+    "category": "环保",
+    "grade": 5
+  },
+  {
+    "word": "recycle",
+    "phonetic": "/riːˈsaɪkl/",
+    "meaning": "v. 回收利用",
+    "example": "We should recycle paper and plastic.",
+    "exampleTranslation": "我们应该回收纸和塑料。",
+    "level": 2,
+    "category": "环保",
+    "grade": 5
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plɑːnt/",
+    "meaning": "v. 种植 n. 植物",
+    "example": "Let's plant more trees.",
+    "exampleTranslation": "让我们种更多的树。",
+    "level": 1,
+    "category": "环保",
+    "grade": 5
+  },
+  {
+    "word": "tree",
+    "phonetic": "/triː/",
+    "meaning": "n. 树",
+    "example": "There are many trees in the park.",
+    "exampleTranslation": "公园里有许多树。",
+    "level": 1,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "flower",
+    "phonetic": "/ˈflaʊər/",
+    "meaning": "n. 花",
+    "example": "The flowers are beautiful.",
+    "exampleTranslation": "这些花很漂亮。",
+    "level": 1,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "grass",
+    "phonetic": "/ɡrɑːs/",
+    "meaning": "n. 草；草地",
+    "example": "The grass is very green.",
+    "exampleTranslation": "草非常绿。",
+    "level": 1,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "river",
+    "phonetic": "/ˈrɪvər/",
+    "meaning": "n. 河流",
+    "example": "The river is very long.",
+    "exampleTranslation": "这条河很长。",
+    "level": 1,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "meaning": "n. 湖",
+    "example": "There is a lake near our school.",
+    "exampleTranslation": "我们学校附近有一个湖。",
+    "level": 1,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "mountain",
+    "phonetic": "/ˈmaʊntɪn/",
+    "meaning": "n. 山",
+    "example": "That mountain is very high.",
+    "exampleTranslation": "那座山很高。",
+    "level": 1,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "ocean",
+    "phonetic": "/ˈəʊʃn/",
+    "meaning": "n. 海洋",
+    "example": "The ocean is very big.",
+    "exampleTranslation": "海洋非常大。",
+    "level": 2,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "meaning": "n. 海滩",
+    "example": "We played on the beach.",
+    "exampleTranslation": "我们在海滩上玩耍。",
+    "level": 2,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "forest",
+    "phonetic": "/ˈfɒrɪst/",
+    "meaning": "n. 森林",
+    "example": "Many animals live in the forest.",
+    "exampleTranslation": "许多动物生活在森林里。",
+    "level": 2,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "island",
+    "phonetic": "/ˈaɪlənd/",
+    "meaning": "n. 岛屿",
+    "example": "That is a beautiful island.",
+    "exampleTranslation": "那是一个美丽的岛屿。",
+    "level": 2,
+    "category": "自然",
+    "grade": 5
+  },
+  {
+    "word": "neighbor",
+    "phonetic": "/ˈneɪbər/",
+    "meaning": "n. 邻居",
+    "example": "My neighbor is very kind.",
+    "exampleTranslation": "我的邻居很友好。",
+    "level": 2,
+    "category": "社区",
+    "grade": 5
+  },
+  {
+    "word": "community",
+    "phonetic": "/kəˈmjuːnəti/",
+    "meaning": "n. 社区",
+    "example": "We should help our community.",
+    "exampleTranslation": "我们应该帮助我们的社区。",
+    "level": 2,
+    "category": "社区",
+    "grade": 5
+  },
+  {
+    "word": "hospital",
+    "phonetic": "/ˈhɒspɪtl/",
+    "meaning": "n. 医院",
+    "example": "The hospital is near the park.",
+    "exampleTranslation": "医院在公园附近。",
+    "level": 1,
+    "category": "社区",
+    "grade": 5
+  },
+  {
+    "word": "museum",
+    "phonetic": "/mjuˈziːəm/",
+    "meaning": "n. 博物馆",
+    "example": "We visited the history museum.",
+    "exampleTranslation": "我们参观了历史博物馆。",
+    "level": 2,
+    "category": "社区",
+    "grade": 5
+  },
+  {
+    "word": "library",
+    "phonetic": "/ˈlaɪbrəri/",
+    "meaning": "n. 图书馆",
+    "example": "I often go to the library.",
+    "exampleTranslation": "我经常去图书馆。",
+    "level": 1,
+    "category": "社区",
+    "grade": 5
+  },
+  {
+    "word": "post office",
+    "phonetic": "/pəʊst ˈɒfɪs/",
+    "meaning": "n. 邮局",
+    "example": "I need to go to the post office.",
+    "exampleTranslation": "我需要去邮局。",
+    "level": 1,
+    "category": "社区",
+    "grade": 5
+  },
+  {
+    "word": "police",
+    "phonetic": "/pəˈliːs/",
+    "meaning": "n. 警察",
+    "example": "The police helped us.",
+    "exampleTranslation": "警察帮助了我们。",
+    "level": 1,
+    "category": "社区",
+    "grade": 5
+  },
+  {
+    "word": "firefighter",
+    "phonetic": "/ˈfaɪəfaɪtər/",
+    "meaning": "n. 消防员",
+    "example": "Firefighters are very brave.",
+    "exampleTranslation": "消防员非常勇敢。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "nurse",
+    "phonetic": "/nɜːs/",
+    "meaning": "n. 护士",
+    "example": "The nurse is very kind.",
+    "exampleTranslation": "护士很和善。",
+    "level": 1,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "engineer",
+    "phonetic": "/ˌendʒɪˈnɪər/",
+    "meaning": "n. 工程师",
+    "example": "My father is an engineer.",
+    "exampleTranslation": "我爸爸是工程师。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "meaning": "n. 科学家",
+    "example": "The scientist made a new discovery.",
+    "exampleTranslation": "这位科学家有了新发现。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "writer",
+    "phonetic": "/ˈraɪtər/",
+    "meaning": "n. 作家",
+    "example": "She wants to be a writer.",
+    "exampleTranslation": "她想成为作家。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "artist",
+    "phonetic": "/ˈɑːtɪst/",
+    "meaning": "n. 艺术家",
+    "example": "The artist painted a beautiful picture.",
+    "exampleTranslation": "艺术家画了一幅美丽的画。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "chef",
+    "phonetic": "/ʃef/",
+    "meaning": "n. 厨师",
+    "example": "The chef cooks delicious food.",
+    "exampleTranslation": "厨师做美味的食物。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "farmer",
+    "phonetic": "/ˈfɑːmər/",
+    "meaning": "n. 农民",
+    "example": "The farmer works in the field.",
+    "exampleTranslation": "农民在田里工作。",
+    "level": 1,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "fisherman",
+    "phonetic": "/ˈfɪʃərmən/",
+    "meaning": "n. 渔民",
+    "example": "The fisherman catches fish.",
+    "exampleTranslation": "渔民捕鱼。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "sailor",
+    "phonetic": "/ˈseɪlər/",
+    "meaning": "n. 水手",
+    "example": "The sailor works on a ship.",
+    "exampleTranslation": "水手在船上工作。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "meaning": "n. 飞行员",
+    "example": "The pilot flies the plane.",
+    "exampleTranslation": "飞行员驾驶飞机。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "astronaut",
+    "phonetic": "/ˈæstrənɔːt/",
+    "meaning": "n. 宇航员",
+    "example": "An astronaut works in space.",
+    "exampleTranslation": "宇航员在太空工作。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "president",
+    "phonetic": "/ˈprezɪdənt/",
+    "meaning": "n. 总统；校长",
+    "example": "The president gave a speech.",
+    "exampleTranslation": "总统发表了演讲。",
+    "level": 2,
+    "category": "职业",
+    "grade": 5
+  },
+  {
+    "word": "government",
+    "phonetic": "/ˈɡʌvənmənt/",
+    "meaning": "n. 政府",
+    "example": "The government makes rules.",
+    "exampleTranslation": "政府制定规则。",
+    "level": 2,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "meaning": "n. 国家",
+    "example": "China is a beautiful country.",
+    "exampleTranslation": "中国是一个美丽的国家。",
+    "level": 1,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "capital",
+    "phonetic": "/ˈkæpɪtl/",
+    "meaning": "n. 首都；资本",
+    "example": "Beijing is the capital of China.",
+    "exampleTranslation": "北京是中国的首都。",
+    "level": 2,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "citizen",
+    "phonetic": "/ˈsɪtɪzn/",
+    "meaning": "n. 公民",
+    "example": "Every citizen has rights.",
+    "exampleTranslation": "每个公民都有权利。",
+    "level": 2,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "culture",
+    "phonetic": "/ˈkʌltʃər/",
+    "meaning": "n. 文化",
+    "example": "Chinese culture is very rich.",
+    "exampleTranslation": "中国文化非常丰富。",
+    "level": 2,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "tradition",
+    "phonetic": "/trəˈdɪʃn/",
+    "meaning": "n. 传统",
+    "example": "We should keep our traditions.",
+    "exampleTranslation": "我们应该保持我们的传统。",
+    "level": 2,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "custom",
+    "phonetic": "/ˈkʌstəm/",
+    "meaning": "n. 风俗；习惯",
+    "example": "Different countries have different customs.",
+    "exampleTranslation": "不同的国家有不同的风俗。",
+    "level": 2,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "meaning": "n. 语言",
+    "example": "English is an important language.",
+    "exampleTranslation": "英语是一门重要的语言。",
+    "level": 1,
+    "category": "社会",
+    "grade": 5
+  },
+  {
+    "word": "travel",
+    "phonetic": "/ˈtrævl/",
+    "meaning": "v. 旅行",
+    "example": "I like to travel around the world.",
+    "exampleTranslation": "我喜欢环游世界。",
+    "level": 1,
+    "category": "旅行",
+    "grade": 5
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "meaning": "n. 旅行；旅程",
+    "example": "We had a great trip.",
+    "exampleTranslation": "我们有一次很棒的旅行。",
+    "level": 1,
+    "category": "旅行",
+    "grade": 5
+  },
+  {
+    "word": "tour",
+    "phonetic": "/tʊər/",
+    "meaning": "n. 旅游；观光",
+    "example": "We went on a tour of the city.",
+    "exampleTranslation": "我们去城市观光了。",
+    "level": 2,
+    "category": "旅行",
+    "grade": 5
+  },
+  {
+    "word": "hotel",
+    "phonetic": "/həʊˈtel/",
+    "meaning": "n. 旅馆；酒店",
+    "example": "We stayed at a nice hotel.",
+    "exampleTranslation": "我们住在一个不错的酒店。",
+    "level": 1,
+    "category": "旅行",
+    "grade": 5
+  },
+  {
+    "word": "passport",
+    "phonetic": "/ˈpɑːspɔːt/",
+    "meaning": "n. 护照",
+    "example": "Don't forget your passport.",
+    "exampleTranslation": "别忘了你的护照。",
+    "level": 2,
+    "category": "旅行",
+    "grade": 5
+  },
+  {
+    "word": "suitcase",
+    "phonetic": "/ˈsuːtkeɪs/",
+    "meaning": "n. 手提箱",
+    "example": "I packed my suitcase.",
+    "exampleTranslation": "我收拾好了我的手提箱。",
+    "level": 2,
+    "category": "旅行",
+    "grade": 5
+  },
+  {
+    "word": "plane",
+    "phonetic": "/pleɪn/",
+    "meaning": "n. 飞机",
+    "example": "We flew by plane.",
+    "exampleTranslation": "我们坐飞机。",
+    "level": 1,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "train",
+    "phonetic": "/treɪn/",
+    "meaning": "n. 火车 v. 训练",
+    "example": "We took the train to Beijing.",
+    "exampleTranslation": "我们坐火车去北京。",
+    "level": 1,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "meaning": "n. 公共汽车",
+    "example": "I take the bus to school.",
+    "exampleTranslation": "我坐公共汽车去学校。",
+    "level": 1,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "meaning": "n. 地铁",
+    "example": "The subway is very fast.",
+    "exampleTranslation": "地铁很快。",
+    "level": 1,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "taxi",
+    "phonetic": "/ˈtæksi/",
+    "meaning": "n. 出租车",
+    "example": "Let's take a taxi.",
+    "exampleTranslation": "我们坐出租车吧。",
+    "level": 1,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "ship",
+    "phonetic": "/ʃɪp/",
+    "meaning": "n. 轮船",
+    "example": "The ship is very big.",
+    "exampleTranslation": "这艘轮船很大。",
+    "level": 1,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "meaning": "n. 自行车",
+    "example": "I ride my bicycle to school.",
+    "exampleTranslation": "我骑自行车去学校。",
+    "level": 1,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "motorcycle",
+    "phonetic": "/ˈməʊtəsaɪkl/",
+    "meaning": "n. 摩托车",
+    "example": "He rides a motorcycle.",
+    "exampleTranslation": "他骑摩托车。",
+    "level": 2,
+    "category": "交通工具",
+    "grade": 5
+  },
+  {
+    "word": "umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "meaning": "n. 雨伞",
+    "example": "Take your umbrella.",
+    "exampleTranslation": "带上你的雨伞。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "camera",
+    "phonetic": "/ˈkæmərə/",
+    "meaning": "n. 相机",
+    "example": "I took a photo with my camera.",
+    "exampleTranslation": "我用相机拍了照片。",
+    "level": 2,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "meaning": "n. 计算机；电脑",
+    "example": "I use the computer every day.",
+    "exampleTranslation": "我每天使用电脑。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "keyboard",
+    "phonetic": "/ˈkiːbɔːd/",
+    "meaning": "n. 键盘",
+    "example": "This keyboard is new.",
+    "exampleTranslation": "这个键盘是新的。",
+    "level": 2,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "meaning": "n. 鼠标",
+    "example": "Move the mouse.",
+    "exampleTranslation": "移动鼠标。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "screen",
+    "phonetic": "/skriːn/",
+    "meaning": "n. 屏幕",
+    "example": "The screen is big.",
+    "exampleTranslation": "屏幕很大。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "phone",
+    "phonetic": "/fəʊn/",
+    "meaning": "n. 电话",
+    "example": "Call me on my phone.",
+    "exampleTranslation": "打电话给我。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "mobile phone",
+    "phonetic": "/ˈməʊbaɪl fəʊn/",
+    "meaning": "n. 手机",
+    "example": "Everyone has a mobile phone.",
+    "exampleTranslation": "每个人都有手机。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "watch",
+    "phonetic": "/wɒtʃ/",
+    "meaning": "v. 观看 n. 手表",
+    "example": "I watch TV every night.",
+    "exampleTranslation": "我每天晚上看电视。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "glasses",
+    "phonetic": "/ˈɡlɑːsɪz/",
+    "meaning": "n. 眼镜",
+    "example": "I need to wear glasses.",
+    "exampleTranslation": "我需要戴眼镜。",
+    "level": 1,
+    "category": "日常用品",
+    "grade": 5
+  },
+  {
+    "word": "present",
+    "phonetic": "/ˈpreznt/",
+    "meaning": "n. 礼物 adj. 出席的",
+    "example": "I got a birthday present.",
+    "exampleTranslation": "我收到了生日礼物。",
+    "level": 1,
+    "category": "礼物",
+    "grade": 5
+  },
+  {
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "meaning": "n. 礼物",
+    "example": "This is a gift for you.",
+    "exampleTranslation": "这是给你的礼物。",
+    "level": 1,
+    "category": "礼物",
+    "grade": 5
+  },
+  {
+    "word": "birthday",
+    "phonetic": "/ˈbɜːθdeɪ/",
+    "meaning": "n. 生日",
+    "example": "Happy birthday to you!",
+    "exampleTranslation": "祝你生日快乐！",
+    "level": 1,
+    "category": "生日",
+    "grade": 5
+  },
+  {
+    "word": "party",
+    "phonetic": "/ˈpɑːti/",
+    "meaning": "n. 聚会；派对",
+    "example": "We had a party yesterday.",
+    "exampleTranslation": "昨天我们举办了一个聚会。",
+    "level": 1,
+    "category": "聚会",
+    "grade": 5
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "/ˈselɪbreɪt/",
+    "meaning": "v. 庆祝",
+    "example": "Let's celebrate!",
+    "exampleTranslation": "让我们庆祝吧！",
+    "level": 2,
+    "category": "活动",
+    "grade": 5
+  },
+  {
+    "word": "congratulation",
+    "phonetic": "/kənˌɡrætʃuˈleɪʃn/",
+    "meaning": "n. 祝贺",
+    "example": "Congratulations!",
+    "exampleTranslation": "恭喜！",
+    "level": 2,
+    "category": "活动",
+    "grade": 5
+  },
+  {
+    "word": "wish",
+    "phonetic": "/wɪʃ/",
+    "meaning": "v. 祝愿；希望",
+    "example": "I wish you happiness.",
+    "exampleTranslation": "我祝你幸福。",
+    "level": 1,
+    "category": "活动",
+    "grade": 5
+  },
+  {
+    "word": "hope",
+    "phonetic": "/həʊp/",
+    "meaning": "v. 希望",
+    "example": "I hope you are happy.",
+    "exampleTranslation": "我希望你快乐。",
+    "level": 1,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "dream",
+    "phonetic": "/driːm/",
+    "meaning": "n. 梦想；梦",
+    "example": "I have a dream.",
+    "exampleTranslation": "我有一个梦想。",
+    "level": 1,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "future",
+    "phonetic": "/ˈfjuːtʃər/",
+    "meaning": "n. 未来",
+    "example": "I want to be a teacher in the future.",
+    "exampleTranslation": "将来我想当老师。",
+    "level": 2,
+    "category": "时间",
+    "grade": 5
+  },
+  {
+    "word": "past",
+    "phonetic": "/pɑːst/",
+    "meaning": "n. 过去 adj. 过去的",
+    "example": "The past is past.",
+    "exampleTranslation": "过去的就过去了。",
+    "level": 2,
+    "category": "时间",
+    "grade": 5
+  },
+  {
+    "word": "century",
+    "phonetic": "/ˈsentʃəri/",
+    "meaning": "n. 世纪",
+    "example": "We are in the 21st century.",
+    "exampleTranslation": "我们在21世纪。",
+    "level": 2,
+    "category": "时间",
+    "grade": 5
+  },
+  {
+    "word": "moment",
+    "phonetic": "/ˈməʊmənt/",
+    "meaning": "n. 片刻；瞬间",
+    "example": "Wait a moment.",
+    "exampleTranslation": "等一会儿。",
+    "level": 2,
+    "category": "时间",
+    "grade": 5
+  },
+  {
+    "word": "immediately",
+    "phonetic": "/ɪˈmiːdiətli/",
+    "meaning": "adv. 立即；马上",
+    "example": "Come here immediately.",
+    "exampleTranslation": "马上来这里。",
+    "level": 2,
+    "category": "时间",
+    "grade": 5
+  },
+  {
+    "word": "usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "meaning": "adv. 通常",
+    "example": "I usually get up at 7.",
+    "exampleTranslation": "我通常7点起床。",
+    "level": 1,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "meaning": "adv. 有时",
+    "example": "Sometimes I walk to school.",
+    "exampleTranslation": "有时我走路去学校。",
+    "level": 1,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "often",
+    "phonetic": "/ˈɒfn/",
+    "meaning": "adv. 经常",
+    "example": "I often read books.",
+    "exampleTranslation": "我经常读书。",
+    "level": 1,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "meaning": "adv. 总是",
+    "example": "He always arrives early.",
+    "exampleTranslation": "他总是早到。",
+    "level": 1,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "never",
+    "phonetic": "/ˈnevər/",
+    "meaning": "adv. 从不；从未",
+    "example": "I never give up.",
+    "exampleTranslation": "我从不放弃。",
+    "level": 1,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "ever",
+    "phonetic": "/ˈevər/",
+    "meaning": "adv. 曾经",
+    "example": "Have you ever been to Beijing?",
+    "exampleTranslation": "你去过北京吗？",
+    "level": 2,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "already",
+    "phonetic": "/ɔːlˈredi/",
+    "meaning": "adv. 已经",
+    "example": "I have already finished.",
+    "exampleTranslation": "我已经完成了。",
+    "level": 2,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "yet",
+    "phonetic": "/jet/",
+    "meaning": "adv. 还；已经",
+    "example": "Have you finished yet?",
+    "exampleTranslation": "你完成了吗？",
+    "level": 2,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "meaning": "adv. 仍然",
+    "example": "She is still sleeping.",
+    "exampleTranslation": "她还在睡觉。",
+    "level": 2,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "again",
+    "phonetic": "/əˈɡen/",
+    "meaning": "adv. 再一次",
+    "example": "Please try again.",
+    "exampleTranslation": "请再试一次。",
+    "level": 1,
+    "category": "频度",
+    "grade": 5
+  },
+  {
+    "word": "really",
+    "phonetic": "/ˈriːəli/",
+    "meaning": "adv. 真正地",
+    "example": "I really like this book.",
+    "exampleTranslation": "我真的喜欢这本书。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "very",
+    "phonetic": "/ˈveri/",
+    "meaning": "adv. 非常",
+    "example": "This is very good.",
+    "exampleTranslation": "这非常好。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "quite",
+    "phonetic": "/kwaɪt/",
+    "meaning": "adv. 相当；颇",
+    "example": "It's quite cold today.",
+    "exampleTranslation": "今天相当冷。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "rather",
+    "phonetic": "/ˈrɑːðər/",
+    "meaning": "adv. 相当；宁愿",
+    "example": "It's rather hot.",
+    "exampleTranslation": "相当热。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "extremely",
+    "phonetic": "/ɪkˈstriːmli/",
+    "meaning": "adv. 极其；非常",
+    "example": "It's extremely cold.",
+    "exampleTranslation": "非常冷。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "especially",
+    "phonetic": "/ɪˈspeʃəli/",
+    "meaning": "adv. 尤其；特别",
+    "example": "I like summer, especially July.",
+    "exampleTranslation": "我喜欢夏天，尤其是七月。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "especially",
+    "phonetic": "/ɪˈspeʃəli/",
+    "meaning": "adv. 尤其；特别",
+    "example": "I like fruits, especially apples.",
+    "exampleTranslation": "我喜欢水果，尤其是苹果。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "meaning": "adv. 实际上",
+    "example": "Actually, I don't agree.",
+    "exampleTranslation": "实际上，我不同意。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "probably",
+    "phonetic": "/ˈprɒbəbli/",
+    "meaning": "adv. 可能；大概",
+    "example": "He will probably come.",
+    "exampleTranslation": "他可能会来。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "maybe",
+    "phonetic": "/ˈmeɪbi/",
+    "meaning": "adv. 也许；大概",
+    "example": "Maybe it will rain today.",
+    "exampleTranslation": "今天也许会下雨。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "/pəˈhæps/",
+    "meaning": "adv. 也许；可能",
+    "example": "Perhaps we can go together.",
+    "exampleTranslation": "也许我们可以一起去。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "certainly",
+    "phonetic": "/ˈsɜːtənli/",
+    "meaning": "adv. 当然；肯定",
+    "example": "Certainly, I will help you.",
+    "exampleTranslation": "当然，我会帮助你。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "definitely",
+    "phonetic": "/ˈdefɪnətli/",
+    "meaning": "adv. 确定地；肯定地",
+    "example": "I will definitely come.",
+    "exampleTranslation": "我一定会来。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "together",
+    "phonetic": "/təˈɡeðər/",
+    "meaning": "adv. 一起",
+    "example": "Let's study together.",
+    "exampleTranslation": "让我们一起学习吧。",
+    "level": 1,
+    "category": "关系",
+    "grade": 5
+  },
+  {
+    "word": "alone",
+    "phonetic": "/əˈləʊn/",
+    "meaning": "adv. 独自地",
+    "example": "She lives alone.",
+    "exampleTranslation": "她独自生活。",
+    "level": 2,
+    "category": "关系",
+    "grade": 5
+  },
+  {
+    "word": "outside",
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "meaning": "adv. 在外面",
+    "example": "Let's play outside.",
+    "exampleTranslation": "我们在外面玩吧。",
+    "level": 1,
+    "category": "位置",
+    "grade": 5
+  },
+  {
+    "word": "inside",
+    "phonetic": "/ˌɪnˈsaɪd/",
+    "meaning": "adv. 在里面",
+    "example": "Come inside.",
+    "exampleTranslation": "进来。",
+    "level": 1,
+    "category": "位置",
+    "grade": 5
+  },
+  {
+    "word": "between",
+    "phonetic": "/bɪˈtwiːn/",
+    "meaning": "prep. 在...之间",
+    "example": "Sit between us.",
+    "exampleTranslation": "坐在我们之间。",
+    "level": 1,
+    "category": "位置",
+    "grade": 5
+  },
+  {
+    "word": "among",
+    "phonetic": "/əˈmʌŋ/",
+    "meaning": "prep. 在...之中",
+    "example": "He is among friends.",
+    "exampleTranslation": "他在朋友之中。",
+    "level": 2,
+    "category": "位置",
+    "grade": 5
+  },
+  {
+    "word": "near",
+    "phonetic": "/nɪər/",
+    "meaning": "prep. 在...附近",
+    "example": "The school is near the park.",
+    "exampleTranslation": "学校在公园附近。",
+    "level": 1,
+    "category": "位置",
+    "grade": 5
+  },
+  {
+    "word": "far",
+    "phonetic": "/fɑːr/",
+    "meaning": "adj. 远的",
+    "example": "The station is far from here.",
+    "exampleTranslation": "车站在离这儿很远的地方。",
+    "level": 1,
+    "category": "位置",
+    "grade": 5
+  },
+  {
+    "word": "close",
+    "phonetic": "/kləʊz/",
+    "meaning": "adj. 近的；关闭的",
+    "example": "The shop is close to school.",
+    "exampleTranslation": "商店离学校很近。",
+    "level": 1,
+    "category": "位置",
+    "grade": 5
+  },
+  {
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "meaning": "adj. 不同的",
+    "example": "We have different ideas.",
+    "exampleTranslation": "我们有不同的想法。",
+    "level": 1,
+    "category": "比较",
+    "grade": 5
+  },
+  {
+    "word": "same",
+    "phonetic": "/seɪm/",
+    "meaning": "adj. 相同的",
+    "example": "We have the same book.",
+    "exampleTranslation": "我们有相同的书。",
+    "level": 1,
+    "category": "比较",
+    "grade": 5
+  },
+  {
+    "word": "similar",
+    "phonetic": "/ˈsɪmɪlər/",
+    "meaning": "adj. 相似的",
+    "example": "Our opinions are similar.",
+    "exampleTranslation": "我们的观点相似。",
+    "level": 2,
+    "category": "比较",
+    "grade": 5
+  },
+  {
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "meaning": "adj. 困难的",
+    "example": "This question is difficult.",
+    "exampleTranslation": "这个问题很难。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "easy",
+    "phonetic": "/ˈiːzi/",
+    "meaning": "adj. 容易的",
+    "example": "This is easy.",
+    "exampleTranslation": "这很容易。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "important",
+    "phonetic": "/ɪmˈpɔːtənt/",
+    "meaning": "adj. 重要的",
+    "example": "Health is important.",
+    "exampleTranslation": "健康很重要。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "necessary",
+    "phonetic": "/ˈnesəsəri/",
+    "meaning": "adj. 必要的",
+    "example": "It is necessary to learn English.",
+    "exampleTranslation": "学英语是必要的。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "possible",
+    "phonetic": "/ˈpɒsəbl/",
+    "meaning": "adj. 可能的",
+    "example": "Everything is possible.",
+    "exampleTranslation": "一切皆有可能。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "impossible",
+    "phonetic": "/ɪmˈpɒsəbl/",
+    "meaning": "adj. 不可能的",
+    "example": "Nothing is impossible.",
+    "exampleTranslation": "没有什么不可能。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "special",
+    "phonetic": "/ˈspeʃl/",
+    "meaning": "adj. 特别的",
+    "example": "Today is a special day.",
+    "exampleTranslation": "今天是特别的一天。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "usual",
+    "phonetic": "/ˈjuːʒuəl/",
+    "meaning": "adj. 通常的",
+    "example": "This is my usual breakfast.",
+    "exampleTranslation": "这是我通常的早餐。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "unusual",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "meaning": "adj. 不寻常的",
+    "example": "This is unusual.",
+    "exampleTranslation": "这很不寻常。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "popular",
+    "phonetic": "/ˈpɒpjələr/",
+    "meaning": "adj. 受欢迎的",
+    "example": "This song is very popular.",
+    "exampleTranslation": "这首歌很受欢迎。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "famous",
+    "phonetic": "/ˈfeɪməs/",
+    "meaning": "adj. 著名的",
+    "example": "Beijing is a famous city.",
+    "exampleTranslation": "北京是一个著名的城市。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "strange",
+    "phonetic": "/streɪndʒ/",
+    "meaning": "adj. 奇怪的",
+    "example": "This is strange.",
+    "exampleTranslation": "这很奇怪。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "boring",
+    "phonetic": "/ˈbɔːrɪŋ/",
+    "meaning": "adj. 无聊的",
+    "example": "This class is boring.",
+    "exampleTranslation": "这堂课很无聊。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "interesting",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "meaning": "adj. 有趣的",
+    "example": "This book is interesting.",
+    "exampleTranslation": "这本书很有趣。",
+    "level": 1,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "exciting",
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "meaning": "adj. 令人兴奋的",
+    "example": "This is an exciting game.",
+    "exampleTranslation": "这是一场激动人心的比赛。",
+    "level": 2,
+    "category": "程度",
+    "grade": 5
+  },
+  {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "meaning": "adj. 快乐的",
+    "example": "I am very happy today.",
+    "exampleTranslation": "我今天很开心。",
+    "level": 1,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "meaning": "adj. 悲伤的",
+    "example": "She looks sad.",
+    "exampleTranslation": "她看起来很悲伤。",
+    "level": 1,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "meaning": "adj. 生气的",
+    "example": "Don't be angry.",
+    "exampleTranslation": "别生气。",
+    "level": 1,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "meaning": "adj. 害怕的",
+    "example": "I am afraid of dogs.",
+    "exampleTranslation": "我害怕狗。",
+    "level": 1,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "tired",
+    "phonetic": "/ˈtaɪərd/",
+    "meaning": "adj. 疲劳的",
+    "example": "I am very tired today.",
+    "exampleTranslation": "我今天很累。",
+    "level": 1,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "excited",
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "meaning": "adj. 兴奋的",
+    "example": "I am excited about the trip.",
+    "exampleTranslation": "我对这次旅行很兴奋。",
+    "level": 2,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "proud",
+    "phonetic": "/praʊd/",
+    "meaning": "adj. 自豪的",
+    "example": "I am proud of you.",
+    "exampleTranslation": "我为你感到骄傲。",
+    "level": 2,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "worried",
+    "phonetic": "/ˈwʌrid/",
+    "meaning": "adj. 担心的",
+    "example": "Don't be worried.",
+    "exampleTranslation": "别担心。",
+    "level": 2,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "surprised",
+    "phonetic": "/sərˈpraɪzd/",
+    "meaning": "adj. 惊讶的",
+    "example": "I am surprised.",
+    "exampleTranslation": "我很惊讶。",
+    "level": 2,
+    "category": "情感",
+    "grade": 5
+  },
+  {
+    "word": "friendly",
+    "phonetic": "/ˈfrendli/",
+    "meaning": "adj. 友好的",
+    "example": "She is very friendly.",
+    "exampleTranslation": "她很友好。",
+    "level": 1,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "meaning": "adj. 善良的；种类 n. 善良",
+    "example": "She is very kind.",
+    "exampleTranslation": "她很善良。",
+    "level": 1,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "clever",
+    "phonetic": "/ˈklevər/",
+    "meaning": "adj. 聪明的",
+    "example": "He is very clever.",
+    "exampleTranslation": "他很聪明。",
+    "level": 1,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "polite",
+    "phonetic": "/pəˈlaɪt/",
+    "meaning": "adj. 有礼貌的",
+    "example": "Be polite to others.",
+    "exampleTranslation": "对别人要有礼貌。",
+    "level": 2,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "careful",
+    "phonetic": "/ˈkeəfl/",
+    "meaning": "adj. 仔细的；小心的",
+    "example": "Be careful!",
+    "exampleTranslation": "小心！",
+    "level": 1,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "meaning": "adj. 勇敢的",
+    "example": "Firefighters are very brave.",
+    "exampleTranslation": "消防员非常勇敢。",
+    "level": 2,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "lazy",
+    "phonetic": "/ˈleɪzi/",
+    "meaning": "adj. 懒惰的",
+    "example": "Don't be lazy.",
+    "exampleTranslation": "别懒惰。",
+    "level": 2,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "meaning": "adj. 害羞的",
+    "example": "She is very shy.",
+    "exampleTranslation": "她很害羞。",
+    "level": 1,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "outgoing",
+    "phonetic": "/ˌaʊtˈɡəʊɪŋ/",
+    "meaning": "adj. 外向的",
+    "example": "My sister is outgoing.",
+    "exampleTranslation": "我姐姐很外向。",
+    "level": 2,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "honest",
+    "phonetic": "/ˈɒnɪst/",
+    "meaning": "adj. 诚实的",
+    "example": "Be honest.",
+    "exampleTranslation": "要诚实。",
+    "level": 2,
+    "category": "性格",
+    "grade": 5
+  },
+  {
+    "word": "strong",
+    "phonetic": "/strɒŋ/",
+    "meaning": "adj. 强壮的；强烈的",
+    "example": "He is very strong.",
+    "exampleTranslation": "他很强壮。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "weak",
+    "phonetic": "/wiːk/",
+    "meaning": "adj. 虚弱的",
+    "example": "I am feeling weak today.",
+    "exampleTranslation": "我今天感觉很虚弱。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "healthy",
+    "phonetic": "/ˈhelθi/",
+    "meaning": "adj. 健康的",
+    "example": "Eat more vegetables to be healthy.",
+    "exampleTranslation": "多吃蔬菜保持健康。",
+    "level": 2,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "heavy",
+    "phonetic": "/ˈhevi/",
+    "meaning": "adj. 重的",
+    "example": "This box is heavy.",
+    "exampleTranslation": "这个箱子很重。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "light",
+    "phonetic": "/laɪt/",
+    "meaning": "adj. 轻的；灯",
+    "example": "This bag is light.",
+    "exampleTranslation": "这个包很轻。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑːk/",
+    "meaning": "adj. 黑暗的",
+    "example": "The room is dark.",
+    "exampleTranslation": "房间很暗。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "bright",
+    "phonetic": "/braɪt/",
+    "meaning": "adj. 明亮的；聪明的",
+    "example": "The sun is bright.",
+    "exampleTranslation": "太阳很明亮。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "meaning": "adj. 干净的",
+    "example": "Keep the room clean.",
+    "exampleTranslation": "保持房间干净。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "dirty",
+    "phonetic": "/ˈdɜːti/",
+    "meaning": "adj. 脏的",
+    "example": "Your hands are dirty.",
+    "exampleTranslation": "你的手很脏。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "new",
+    "phonetic": "/njuː/",
+    "meaning": "adj. 新的",
+    "example": "I have a new bike.",
+    "exampleTranslation": "我有一辆新自行车。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "old",
+    "phonetic": "/əʊld/",
+    "meaning": "adj. 旧的；年老的",
+    "example": "This is an old house.",
+    "exampleTranslation": "这是一座老房子。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "meaning": "adj. 年轻的",
+    "example": "She is very young.",
+    "exampleTranslation": "她很年轻。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɔːt/",
+    "meaning": "adj. 短的；矮的",
+    "example": "He is short.",
+    "exampleTranslation": "他很矮。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "long",
+    "phonetic": "/lɒŋ/",
+    "meaning": "adj. 长的",
+    "example": "The river is very long.",
+    "exampleTranslation": "这条河很长。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "wide",
+    "phonetic": "/waɪd/",
+    "meaning": "adj. 宽的",
+    "example": "The road is wide.",
+    "exampleTranslation": "这条路很宽。",
+    "level": 2,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "narrow",
+    "phonetic": "/ˈnærəʊ/",
+    "meaning": "adj. 狭窄的",
+    "example": "This is a narrow street.",
+    "exampleTranslation": "这是一条窄街。",
+    "level": 2,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "thick",
+    "phonetic": "/θɪk/",
+    "meaning": "adj. 厚的；粗的",
+    "example": "This book is thick.",
+    "exampleTranslation": "这本书很厚。",
+    "level": 2,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "thin",
+    "phonetic": "/θɪn/",
+    "meaning": "adj. 薄的；瘦的",
+    "example": "She is thin.",
+    "exampleTranslation": "她很瘦。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "empty",
+    "phonetic": "/ˈempti/",
+    "meaning": "adj. 空的",
+    "example": "The cup is empty.",
+    "exampleTranslation": "杯子是空的。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "full",
+    "phonetic": "/fʊl/",
+    "meaning": "adj. 满的；吃饱的",
+    "example": "I am full.",
+    "exampleTranslation": "我吃饱了。",
+    "level": 1,
+    "category": "外观",
+    "grade": 5
+  },
+  {
+    "word": "open",
+    "phonetic": "/ˈəʊpən/",
+    "meaning": "adj. 开着的 v. 打开",
+    "example": "The door is open.",
+    "exampleTranslation": "门是开着的。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "closed",
+    "phonetic": "/kləʊzd/",
+    "meaning": "adj. 关闭的",
+    "example": "The shop is closed.",
+    "exampleTranslation": "商店关门了。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "meaning": "adj. 正确的；对的",
+    "example": "You are right.",
+    "exampleTranslation": "你是对的。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "wrong",
+    "phonetic": "/rɒŋ/",
+    "meaning": "adj. 错误的",
+    "example": "This answer is wrong.",
+    "exampleTranslation": "这个答案是错的。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "meaning": "adj. 忙碌的",
+    "example": "I am busy today.",
+    "exampleTranslation": "我今天很忙。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "free",
+    "phonetic": "/friː/",
+    "meaning": "adj. 自由的；空闲的",
+    "example": "Are you free tomorrow?",
+    "exampleTranslation": "你明天有空吗？",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "rich",
+    "phonetic": "/rɪtʃ/",
+    "meaning": "adj. 富有的",
+    "example": "He is very rich.",
+    "exampleTranslation": "他很有钱。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "poor",
+    "phonetic": "/pʊər/",
+    "meaning": "adj. 贫穷的",
+    "example": "The poor need help.",
+    "exampleTranslation": "穷人需要帮助。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "safe",
+    "phonetic": "/seɪf/",
+    "meaning": "adj. 安全的",
+    "example": "This is a safe place.",
+    "exampleTranslation": "这是一个安全的地方。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "meaning": "adj. 危险的",
+    "example": "This is dangerous.",
+    "exampleTranslation": "这是危险的。",
+    "level": 2,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "quick",
+    "phonetic": "/kwɪk/",
+    "meaning": "adj. 快的",
+    "example": "Be quick!",
+    "exampleTranslation": "快点！",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "slow",
+    "phonetic": "/sləʊ/",
+    "meaning": "adj. 慢的",
+    "example": "This is a slow train.",
+    "exampleTranslation": "这是一列慢车。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "loud",
+    "phonetic": "/laʊd/",
+    "meaning": "adj. 大声的",
+    "example": "Don't speak so loud.",
+    "exampleTranslation": "别那么大声说话。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "meaning": "adj. 安静的",
+    "example": "Please be quiet.",
+    "exampleTranslation": "请安静。",
+    "level": 1,
+    "category": "状态",
+    "grade": 5
+  },
+  {
+    "word": "sweet",
+    "phonetic": "/swiːt/",
+    "meaning": "adj. 甜的",
+    "example": "This cake is sweet.",
+    "exampleTranslation": "这个蛋糕很甜。",
+    "level": 1,
+    "category": "味道",
+    "grade": 5
+  },
+  {
+    "word": "sour",
+    "phonetic": "/ˈsaʊər/",
+    "meaning": "adj. 酸的",
+    "example": "Lemons are sour.",
+    "exampleTranslation": "柠檬是酸的。",
+    "level": 2,
+    "category": "味道",
+    "grade": 5
+  },
+  {
+    "word": "bitter",
+    "phonetic": "/ˈbɪtər/",
+    "meaning": "adj. 苦的",
+    "example": "Coffee is bitter.",
+    "exampleTranslation": "咖啡是苦的。",
+    "level": 2,
+    "category": "味道",
+    "grade": 5
+  },
+  {
+    "word": "salty",
+    "phonetic": "/ˈsɔːlti/",
+    "meaning": "adj. 咸的",
+    "example": "This soup is too salty.",
+    "exampleTranslation": "这个汤太咸了。",
+    "level": 2,
+    "category": "味道",
+    "grade": 5
+  },
+  {
+    "word": "spicy",
+    "phonetic": "/ˈspaɪsi/",
+    "meaning": "adj. 辣的",
+    "example": "Sichuan food is spicy.",
+    "exampleTranslation": "川菜是辣的。",
+    "level": 2,
+    "category": "味道",
+    "grade": 5
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "meaning": "adj. 美味的",
+    "example": "This food is delicious.",
+    "exampleTranslation": "这个食物很美味。",
+    "level": 2,
+    "category": "味道",
+    "grade": 5
+  },
+  {
+    "word": "terrible",
+    "phonetic": "/ˈterəbl/",
+    "meaning": "adj. 可怕的；糟糕的",
+    "example": "The weather is terrible.",
+    "exampleTranslation": "天气很糟糕。",
+    "level": 2,
+    "category": "味道",
+    "grade": 5
+  },
+  {
+    "word": "fresh",
+    "phonetic": "/freʃ/",
+    "meaning": "adj. 新鲜的",
+    "example": "Fresh fruit is good for you.",
+    "exampleTranslation": "新鲜水果对你有好处。",
+    "level": 1,
+    "category": "味道",
+    "grade": 5
+  }
+]
