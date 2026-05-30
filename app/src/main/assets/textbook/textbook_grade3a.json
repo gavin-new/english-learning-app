@@ -1,0 +1,478 @@
+{
+  "semester": "三年级上册",
+  "grade": 3,
+  "term": "a",
+  "category": "沪教版三年级上册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Hello!",
+      "words": [
+        {
+          "word": "hello",
+          "phonetic": "/həˈləʊ/",
+          "meaning": "int. 你好",
+          "example": "Hello, I'm Peter.",
+          "exampleTranslation": "你好，我是彼得。"
+        },
+        {
+          "word": "hi",
+          "phonetic": "/haɪ/",
+          "meaning": "int. 嗨",
+          "example": "Hi, Alice!",
+          "exampleTranslation": "嗨，爱丽丝！"
+        },
+        {
+          "word": "I",
+          "phonetic": "/aɪ/",
+          "meaning": "pron. 我",
+          "example": "I am a boy.",
+          "exampleTranslation": "我是一个男孩。"
+        },
+        {
+          "word": "am",
+          "phonetic": "/æm/",
+          "meaning": "v. 是",
+          "example": "I am seven.",
+          "exampleTranslation": "我七岁。"
+        },
+        {
+          "word": "you",
+          "phonetic": "/juː/",
+          "meaning": "pron. 你；你们",
+          "example": "How are you?",
+          "exampleTranslation": "你好吗？"
+        },
+        {
+          "word": "morning",
+          "phonetic": "/ˈmɔːnɪŋ/",
+          "meaning": "n. 早晨",
+          "example": "Good morning!",
+          "exampleTranslation": "早上好！"
+        },
+        {
+          "word": "good",
+          "phonetic": "/ɡʊd/",
+          "meaning": "adj. 好的",
+          "example": "Good morning, Miss Fang.",
+          "exampleTranslation": "早上好，方老师。"
+        },
+        {
+          "word": "Miss",
+          "phonetic": "/mɪs/",
+          "meaning": "n. 小姐；老师",
+          "example": "Miss Fang is our teacher.",
+          "exampleTranslation": "方老师是我们的老师。"
+        },
+        {
+          "word": "Mr",
+          "phonetic": "/ˈmɪstə/",
+          "meaning": "n. 先生",
+          "example": "Mr Wang is tall.",
+          "exampleTranslation": "王先生很高。"
+        },
+        {
+          "word": "thank",
+          "phonetic": "/θæŋk/",
+          "meaning": "v. 感谢",
+          "example": "Thank you.",
+          "exampleTranslation": "谢谢。"
+        },
+        {
+          "word": "fine",
+          "phonetic": "/faɪn/",
+          "meaning": "adj. 好的",
+          "example": "I'm fine, thank you.",
+          "exampleTranslation": "我很好，谢谢。"
+        },
+        {
+          "word": "goodbye",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "meaning": "int. 再见",
+          "example": "Goodbye, Kitty.",
+          "exampleTranslation": "再见，凯蒂。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "My friends",
+      "words": [
+        {
+          "word": "friend",
+          "phonetic": "/frend/",
+          "meaning": "n. 朋友",
+          "example": "He is my friend.",
+          "exampleTranslation": "他是我的朋友。"
+        },
+        {
+          "word": "he",
+          "phonetic": "/hiː/",
+          "meaning": "pron. 他",
+          "example": "He is tall.",
+          "exampleTranslation": "他很高。"
+        },
+        {
+          "word": "she",
+          "phonetic": "/ʃiː/",
+          "meaning": "pron. 她",
+          "example": "She is thin.",
+          "exampleTranslation": "她很瘦。"
+        },
+        {
+          "word": "is",
+          "phonetic": "/ɪz/",
+          "meaning": "v. 是",
+          "example": "She is my friend.",
+          "exampleTranslation": "她是我的朋友。"
+        },
+        {
+          "word": "tall",
+          "phonetic": "/tɔːl/",
+          "meaning": "adj. 高的",
+          "example": "He is tall and thin.",
+          "exampleTranslation": "他又高又瘦。"
+        },
+        {
+          "word": "short",
+          "phonetic": "/ʃɔːt/",
+          "meaning": "adj. 矮的",
+          "example": "My sister is short.",
+          "exampleTranslation": "我妹妹很矮。"
+        },
+        {
+          "word": "fat",
+          "phonetic": "/fæt/",
+          "meaning": "adj. 胖的",
+          "example": "The cat is fat.",
+          "exampleTranslation": "那只猫很胖。"
+        },
+        {
+          "word": "thin",
+          "phonetic": "/θɪn/",
+          "meaning": "adj. 瘦的",
+          "example": "She is thin.",
+          "exampleTranslation": "她很瘦。"
+        },
+        {
+          "word": "big",
+          "phonetic": "/bɪɡ/",
+          "meaning": "adj. 大的",
+          "example": "He has big eyes.",
+          "exampleTranslation": "他有一双大眼睛。"
+        },
+        {
+          "word": "small",
+          "phonetic": "/smɔːl/",
+          "meaning": "adj. 小的",
+          "example": "The dog is small.",
+          "exampleTranslation": "那只狗很小。"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "In the classroom",
+      "words": [
+        {
+          "word": "classroom",
+          "phonetic": "/ˈklɑːsruːm/",
+          "meaning": "n. 教室",
+          "example": "This is our classroom.",
+          "exampleTranslation": "这是我们的教室。"
+        },
+        {
+          "word": "door",
+          "phonetic": "/dɔː/",
+          "meaning": "n. 门",
+          "example": "Open the door, please.",
+          "exampleTranslation": "请开门。"
+        },
+        {
+          "word": "window",
+          "phonetic": "/ˈwɪndəʊ/",
+          "meaning": "n. 窗户",
+          "example": "Close the window.",
+          "exampleTranslation": "关窗。"
+        },
+        {
+          "word": "blackboard",
+          "phonetic": "/ˈblækbɔːd/",
+          "meaning": "n. 黑板",
+          "example": "Look at the blackboard.",
+          "exampleTranslation": "看黑板。"
+        },
+        {
+          "word": "desk",
+          "phonetic": "/desk/",
+          "meaning": "n. 课桌",
+          "example": "Put your book on the desk.",
+          "exampleTranslation": "把你的书放在课桌上。"
+        },
+        {
+          "word": "chair",
+          "phonetic": "/tʃeə/",
+          "meaning": "n. 椅子",
+          "example": "Sit on your chair.",
+          "exampleTranslation": "坐在你的椅子上。"
+        },
+        {
+          "word": "open",
+          "phonetic": "/ˈəʊpən/",
+          "meaning": "v. 打开",
+          "example": "Open your book.",
+          "exampleTranslation": "打开你的书。"
+        },
+        {
+          "word": "close",
+          "phonetic": "/kləʊz/",
+          "meaning": "v. 关上",
+          "example": "Close the door, please.",
+          "exampleTranslation": "请关门。"
+        },
+        {
+          "word": "look",
+          "phonetic": "/lʊk/",
+          "meaning": "v. 看",
+          "example": "Look at me.",
+          "exampleTranslation": "看着我。"
+        },
+        {
+          "word": "clean",
+          "phonetic": "/kliːn/",
+          "meaning": "v. 打扫",
+          "example": "Clean the blackboard.",
+          "exampleTranslation": "擦黑板。"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "My body",
+      "words": [
+        {
+          "word": "body",
+          "phonetic": "/ˈbɒdi/",
+          "meaning": "n. 身体",
+          "example": "This is my body.",
+          "exampleTranslation": "这是我的身体。"
+        },
+        {
+          "word": "head",
+          "phonetic": "/hed/",
+          "meaning": "n. 头",
+          "example": "Touch your head.",
+          "exampleTranslation": "摸摸你的头。"
+        },
+        {
+          "word": "eye",
+          "phonetic": "/aɪ/",
+          "meaning": "n. 眼睛",
+          "example": "I have two eyes.",
+          "exampleTranslation": "我有两只眼睛。"
+        },
+        {
+          "word": "ear",
+          "phonetic": "/ɪə/",
+          "meaning": "n. 耳朵",
+          "example": "Rabbits have long ears.",
+          "exampleTranslation": "兔子有长耳朵。"
+        },
+        {
+          "word": "nose",
+          "phonetic": "/nəʊz/",
+          "meaning": "n. 鼻子",
+          "example": "Touch your nose.",
+          "exampleTranslation": "摸摸你的鼻子。"
+        },
+        {
+          "word": "mouth",
+          "phonetic": "/maʊθ/",
+          "meaning": "n. 嘴巴",
+          "example": "Open your mouth.",
+          "exampleTranslation": "张开你的嘴。"
+        },
+        {
+          "word": "hand",
+          "phonetic": "/hænd/",
+          "meaning": "n. 手",
+          "example": "Raise your hand.",
+          "exampleTranslation": "举起你的手。"
+        },
+        {
+          "word": "arm",
+          "phonetic": "/ɑːm/",
+          "meaning": "n. 手臂",
+          "example": "Wave your arms.",
+          "exampleTranslation": "挥动你的手臂。"
+        },
+        {
+          "word": "leg",
+          "phonetic": "/leɡ/",
+          "meaning": "n. 腿",
+          "example": "I can run with my legs.",
+          "exampleTranslation": "我用腿跑步。"
+        },
+        {
+          "word": "foot",
+          "phonetic": "/fʊt/",
+          "meaning": "n. 脚",
+          "example": "Stamp your foot.",
+          "exampleTranslation": "跺跺你的脚。"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "My family",
+      "words": [
+        {
+          "word": "family",
+          "phonetic": "/ˈfæməli/",
+          "meaning": "n. 家庭",
+          "example": "This is my family.",
+          "exampleTranslation": "这是我的家庭。"
+        },
+        {
+          "word": "father",
+          "phonetic": "/ˈfɑːðə/",
+          "meaning": "n. 父亲",
+          "example": "My father is tall.",
+          "exampleTranslation": "我父亲很高。"
+        },
+        {
+          "word": "mother",
+          "phonetic": "/ˈmʌðə/",
+          "meaning": "n. 母亲",
+          "example": "My mother is beautiful.",
+          "exampleTranslation": "我母亲很漂亮。"
+        },
+        {
+          "word": "brother",
+          "phonetic": "/ˈbrʌðə/",
+          "meaning": "n. 兄弟",
+          "example": "I have a brother.",
+          "exampleTranslation": "我有一个哥哥。"
+        },
+        {
+          "word": "sister",
+          "phonetic": "/ˈsɪstə/",
+          "meaning": "n. 姐妹",
+          "example": "My sister is five.",
+          "exampleTranslation": "我妹妹五岁。"
+        },
+        {
+          "word": "grandfather",
+          "phonetic": "/ˈɡrænfɑːðə/",
+          "meaning": "n. 祖父",
+          "example": "My grandfather is kind.",
+          "exampleTranslation": "我爷爷很慈祥。"
+        },
+        {
+          "word": "grandmother",
+          "phonetic": "/ˈɡrænmʌðə/",
+          "meaning": "n. 祖母",
+          "example": "My grandmother loves me.",
+          "exampleTranslation": "我奶奶爱我。"
+        },
+        {
+          "word": "who",
+          "phonetic": "/huː/",
+          "meaning": "pron. 谁",
+          "example": "Who is she?",
+          "exampleTranslation": "她是谁？"
+        },
+        {
+          "word": "me",
+          "phonetic": "/miː/",
+          "meaning": "pron. 我",
+          "example": "This is me.",
+          "exampleTranslation": "这是我。"
+        },
+        {
+          "word": "beautiful",
+          "phonetic": "/ˈbjuːtɪfʊl/",
+          "meaning": "adj. 美丽的",
+          "example": "She is beautiful.",
+          "exampleTranslation": "她很美丽。"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Fruits",
+      "words": [
+        {
+          "word": "fruit",
+          "phonetic": "/fruːt/",
+          "meaning": "n. 水果",
+          "example": "I like fruit.",
+          "exampleTranslation": "我喜欢水果。"
+        },
+        {
+          "word": "apple",
+          "phonetic": "/ˈæpəl/",
+          "meaning": "n. 苹果",
+          "example": "This is an apple.",
+          "exampleTranslation": "这是一个苹果。"
+        },
+        {
+          "word": "banana",
+          "phonetic": "/bəˈnɑːnə/",
+          "meaning": "n. 香蕉",
+          "example": "I like bananas.",
+          "exampleTranslation": "我喜欢香蕉。"
+        },
+        {
+          "word": "orange",
+          "phonetic": "/ˈɒrɪndʒ/",
+          "meaning": "n. 橙子",
+          "example": "The orange is sweet.",
+          "exampleTranslation": "这个橙子很甜。"
+        },
+        {
+          "word": "pear",
+          "phonetic": "/peə/",
+          "meaning": "n. 梨",
+          "example": "Give me a pear.",
+          "exampleTranslation": "给我一个梨。"
+        },
+        {
+          "word": "grape",
+          "phonetic": "/ɡreɪp/",
+          "meaning": "n. 葡萄",
+          "example": "I like grapes.",
+          "exampleTranslation": "我喜欢葡萄。"
+        },
+        {
+          "word": "peach",
+          "phonetic": "/piːtʃ/",
+          "meaning": "n. 桃子",
+          "example": "The peach is big.",
+          "exampleTranslation": "这个桃子很大。"
+        },
+        {
+          "word": "like",
+          "phonetic": "/laɪk/",
+          "meaning": "v. 喜欢",
+          "example": "I like apples.",
+          "exampleTranslation": "我喜欢苹果。"
+        },
+        {
+          "word": "sweet",
+          "phonetic": "/swiːt/",
+          "meaning": "adj. 甜的",
+          "example": "The apple is sweet.",
+          "exampleTranslation": "这个苹果很甜。"
+        },
+        {
+          "word": "yummy",
+          "phonetic": "/ˈjʌmi/",
+          "meaning": "adj. 好吃的",
+          "example": "How yummy!",
+          "exampleTranslation": "真好吃！"
+        }
+      ]
+    }
+  ]
+}

@@ -30,6 +30,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- 后台单词播放服务 -->
+        <service
+            android:name=".audio.WordAudioService"
+            android:exported="false"
+            android:foregroundServiceType="mediaPlayback" />
         
     </application>
 

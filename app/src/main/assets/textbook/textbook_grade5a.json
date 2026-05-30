@@ -1,0 +1,464 @@
+{
+  "semester": "五年级上册",
+  "grade": 5,
+  "term": "a",
+  "category": "沪教版五年级上册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "My future",
+      "words": [
+        {
+          "word": "future",
+          "phonetic": "/ˈfjuːtʃə/",
+          "meaning": "n. 未来",
+          "example": "What do you want to be in the future?",
+          "exampleTranslation": "你将来想做什么？"
+        },
+        {
+          "word": "want",
+          "phonetic": "/wɒnt/",
+          "meaning": "v. 想要",
+          "example": "I want to be a teacher.",
+          "exampleTranslation": "我想成为一名教师。"
+        },
+        {
+          "word": "pilot",
+          "phonetic": "/ˈpaɪlət/",
+          "meaning": "n. 飞行员",
+          "example": "He wants to be a pilot.",
+          "exampleTranslation": "他想成为一名飞行员。"
+        },
+        {
+          "word": "doctor",
+          "phonetic": "/ˈdɒktə/",
+          "meaning": "n. 医生",
+          "example": "My mother is a doctor.",
+          "exampleTranslation": "我妈妈是医生。"
+        },
+        {
+          "word": "nurse",
+          "phonetic": "/nɜːs/",
+          "meaning": "n. 护士",
+          "example": "She is a nurse.",
+          "exampleTranslation": "她是一名护士。"
+        },
+        {
+          "word": "cook",
+          "phonetic": "/kʊk/",
+          "meaning": "n. 厨师",
+          "example": "My father is a cook.",
+          "exampleTranslation": "我爸爸是厨师。"
+        },
+        {
+          "word": "driver",
+          "phonetic": "/ˈdraɪvə/",
+          "meaning": "n. 司机",
+          "example": "He is a bus driver.",
+          "exampleTranslation": "他是一名公交车司机。"
+        },
+        {
+          "word": "fireman",
+          "phonetic": "/ˈfaɪəmən/",
+          "meaning": "n. 消防员",
+          "example": "The fireman is brave.",
+          "exampleTranslation": "消防员很勇敢。"
+        },
+        {
+          "word": "policeman",
+          "phonetic": "/pəˈliːsmən/",
+          "meaning": "n. 警察",
+          "example": "Ask the policeman.",
+          "exampleTranslation": "问那个警察。"
+        },
+        {
+          "word": "dream",
+          "phonetic": "/driːm/",
+          "meaning": "n. 梦想",
+          "example": "My dream is to fly.",
+          "exampleTranslation": "我的梦想是飞翔。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Going to school",
+      "words": [
+        {
+          "word": "walk",
+          "phonetic": "/wɔːk/",
+          "meaning": "v. 走路",
+          "example": "I walk to school.",
+          "exampleTranslation": "我走路去上学。"
+        },
+        {
+          "word": "bus",
+          "phonetic": "/bʌs/",
+          "meaning": "n. 公共汽车",
+          "example": "I go by bus.",
+          "exampleTranslation": "我乘公共汽车去。"
+        },
+        {
+          "word": "underground",
+          "phonetic": "/ˈʌndəɡraʊnd/",
+          "meaning": "n. 地铁",
+          "example": "Take the underground.",
+          "exampleTranslation": "乘地铁。"
+        },
+        {
+          "word": "taxi",
+          "phonetic": "/ˈtæksi/",
+          "meaning": "n. 出租车",
+          "example": "Take a taxi.",
+          "exampleTranslation": "打车。"
+        },
+        {
+          "word": "bicycle",
+          "phonetic": "/ˈbaɪsɪkəl/",
+          "meaning": "n. 自行车",
+          "example": "Ride a bicycle.",
+          "exampleTranslation": "骑自行车。"
+        },
+        {
+          "word": "near",
+          "phonetic": "/nɪə/",
+          "meaning": "adj. 近的",
+          "example": "My school is near.",
+          "exampleTranslation": "我的学校很近。"
+        },
+        {
+          "word": "far",
+          "phonetic": "/fɑː/",
+          "meaning": "adj. 远的",
+          "example": "It's far from here.",
+          "exampleTranslation": "离这里很远。"
+        },
+        {
+          "word": "by",
+          "phonetic": "/baɪ/",
+          "meaning": "prep. 乘坐",
+          "example": "I go by bus.",
+          "exampleTranslation": "我乘公共汽车去。"
+        },
+        {
+          "word": "leave",
+          "phonetic": "/liːv/",
+          "meaning": "v. 离开",
+          "example": "I leave home at seven.",
+          "exampleTranslation": "我七点离开家。"
+        },
+        {
+          "word": "arrive",
+          "phonetic": "/əˈraɪv/",
+          "meaning": "v. 到达",
+          "example": "I arrive at school at eight.",
+          "exampleTranslation": "我八点到校。"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Birthday",
+      "words": [
+        {
+          "word": "birthday",
+          "phonetic": "/ˈbɜːθdeɪ/",
+          "meaning": "n. 生日",
+          "example": "Happy birthday!",
+          "exampleTranslation": "生日快乐！"
+        },
+        {
+          "word": "party",
+          "phonetic": "/ˈpɑːti/",
+          "meaning": "n. 聚会",
+          "example": "Come to my birthday party.",
+          "exampleTranslation": "来参加我的生日聚会。"
+        },
+        {
+          "word": "present",
+          "phonetic": "/ˈprezənt/",
+          "meaning": "n. 礼物",
+          "example": "Thank you for the present.",
+          "exampleTranslation": "谢谢你的礼物。"
+        },
+        {
+          "word": "card",
+          "phonetic": "/kɑːd/",
+          "meaning": "n. 卡片",
+          "example": "I made a card for you.",
+          "exampleTranslation": "我给你做了一张卡片。"
+        },
+        {
+          "word": "cake",
+          "phonetic": "/keɪk/",
+          "meaning": "n. 蛋糕",
+          "example": "Let's eat the cake.",
+          "exampleTranslation": "我们吃蛋糕吧。"
+        },
+        {
+          "word": "candle",
+          "phonetic": "/ˈkændəl/",
+          "meaning": "n. 蜡烛",
+          "example": "Blow out the candles.",
+          "exampleTranslation": "吹灭蜡烛。"
+        },
+        {
+          "word": "balloon",
+          "phonetic": "/bəˈluːn/",
+          "meaning": "n. 气球",
+          "example": "The balloons are colourful.",
+          "exampleTranslation": "气球五颜六色。"
+        },
+        {
+          "word": "gift",
+          "phonetic": "/ɡɪft/",
+          "meaning": "n. 礼物",
+          "example": "This is a gift for you.",
+          "exampleTranslation": "这是给你的礼物。"
+        },
+        {
+          "word": "wish",
+          "phonetic": "/wɪʃ/",
+          "meaning": "n. 愿望",
+          "example": "Make a wish.",
+          "exampleTranslation": "许个愿。"
+        },
+        {
+          "word": "surprise",
+          "phonetic": "/səˈpraɪz/",
+          "meaning": "n. 惊喜",
+          "example": "What a surprise!",
+          "exampleTranslation": "真是惊喜！"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Water",
+      "words": [
+        {
+          "word": "water",
+          "phonetic": "/ˈwɔːtə/",
+          "meaning": "n. 水",
+          "example": "Water is important.",
+          "exampleTranslation": "水很重要。"
+        },
+        {
+          "word": "river",
+          "phonetic": "/ˈrɪvə/",
+          "meaning": "n. 河流",
+          "example": "The river is long.",
+          "exampleTranslation": "这条河很长。"
+        },
+        {
+          "word": "lake",
+          "phonetic": "/leɪk/",
+          "meaning": "n. 湖",
+          "example": "The lake is beautiful.",
+          "exampleTranslation": "湖很美。"
+        },
+        {
+          "word": "sea",
+          "phonetic": "/siː/",
+          "meaning": "n. 海",
+          "example": "I like the sea.",
+          "exampleTranslation": "我喜欢大海。"
+        },
+        {
+          "word": "rain",
+          "phonetic": "/reɪn/",
+          "meaning": "n. 雨",
+          "example": "It rained yesterday.",
+          "exampleTranslation": "昨天下雨了。"
+        },
+        {
+          "word": "cloud",
+          "phonetic": "/klaʊd/",
+          "meaning": "n. 云",
+          "example": "The clouds are white.",
+          "exampleTranslation": "云是白色的。"
+        },
+        {
+          "word": "snow",
+          "phonetic": "/snəʊ/",
+          "meaning": "n. 雪",
+          "example": "It snows in winter.",
+          "exampleTranslation": "冬天下雪。"
+        },
+        {
+          "word": "vapour",
+          "phonetic": "/ˈveɪpə/",
+          "meaning": "n. 水蒸气",
+          "example": "Water becomes vapour.",
+          "exampleTranslation": "水变成水蒸气。"
+        },
+        {
+          "word": "ice",
+          "phonetic": "/aɪs/",
+          "meaning": "n. 冰",
+          "example": "The ice is cold.",
+          "exampleTranslation": "冰很冷。"
+        },
+        {
+          "word": "important",
+          "phonetic": "/ɪmˈpɔːtənt/",
+          "meaning": "adj. 重要的",
+          "example": "Water is very important.",
+          "exampleTranslation": "水非常重要。"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Wind",
+      "words": [
+        {
+          "word": "wind",
+          "phonetic": "/wɪnd/",
+          "meaning": "n. 风",
+          "example": "The wind is blowing.",
+          "exampleTranslation": "风在吹。"
+        },
+        {
+          "word": "blow",
+          "phonetic": "/bləʊ/",
+          "meaning": "v. 吹",
+          "example": "The wind blows gently.",
+          "exampleTranslation": "风轻轻地吹。"
+        },
+        {
+          "word": "gently",
+          "phonetic": "/ˈdʒentli/",
+          "meaning": "adv. 轻轻地",
+          "example": "The wind blows gently.",
+          "exampleTranslation": "风轻轻地吹。"
+        },
+        {
+          "word": "strongly",
+          "phonetic": "/ˈstrɒŋli/",
+          "meaning": "adv. 强烈地",
+          "example": "The wind blows strongly.",
+          "exampleTranslation": "风猛烈地吹。"
+        },
+        {
+          "word": "happily",
+          "phonetic": "/ˈhæpɪli/",
+          "meaning": "adv. 快乐地",
+          "example": "Children play happily.",
+          "exampleTranslation": "孩子们快乐地玩耍。"
+        },
+        {
+          "word": "slowly",
+          "phonetic": "/ˈsləʊli/",
+          "meaning": "adv. 慢慢地",
+          "example": "Walk slowly.",
+          "exampleTranslation": "慢慢走。"
+        },
+        {
+          "word": "quickly",
+          "phonetic": "/ˈkwɪkli/",
+          "meaning": "adv. 快速地",
+          "example": "Run quickly!",
+          "exampleTranslation": "快跑！"
+        },
+        {
+          "word": "paper",
+          "phonetic": "/ˈpeɪpə/",
+          "meaning": "n. 纸",
+          "example": "The paper is flying.",
+          "exampleTranslation": "纸在飞。"
+        },
+        {
+          "word": "windmill",
+          "phonetic": "/ˈwɪndmɪl/",
+          "meaning": "n. 风车",
+          "example": "The windmill is turning.",
+          "exampleTranslation": "风车在转。"
+        },
+        {
+          "word": "move",
+          "phonetic": "/muːv/",
+          "meaning": "v. 移动",
+          "example": "The leaves are moving.",
+          "exampleTranslation": "树叶在动。"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "In the forest",
+      "words": [
+        {
+          "word": "forest",
+          "phonetic": "/ˈfɒrɪst/",
+          "meaning": "n. 森林",
+          "example": "Walk in the forest.",
+          "exampleTranslation": "在森林里散步。"
+        },
+        {
+          "word": "tree",
+          "phonetic": "/triː/",
+          "meaning": "n. 树",
+          "example": "The tree is tall.",
+          "exampleTranslation": "那棵树很高。"
+        },
+        {
+          "word": "leaf",
+          "phonetic": "/liːf/",
+          "meaning": "n. 树叶",
+          "example": "The leaves turn yellow.",
+          "exampleTranslation": "树叶变黄了。"
+        },
+        {
+          "word": "branch",
+          "phonetic": "/brɑːntʃ/",
+          "meaning": "n. 树枝",
+          "example": "A bird sits on the branch.",
+          "exampleTranslation": "一只鸟停在树枝上。"
+        },
+        {
+          "word": "nest",
+          "phonetic": "/nest/",
+          "meaning": "n. 鸟巢",
+          "example": "Birds live in nests.",
+          "exampleTranslation": "鸟住在巢里。"
+        },
+        {
+          "word": "ant",
+          "phonetic": "/ænt/",
+          "meaning": "n. 蚂蚁",
+          "example": "The ant is small.",
+          "exampleTranslation": "蚂蚁很小。"
+        },
+        {
+          "word": "bee",
+          "phonetic": "/biː/",
+          "meaning": "n. 蜜蜂",
+          "example": "Bees make honey.",
+          "exampleTranslation": "蜜蜂酿蜜。"
+        },
+        {
+          "word": "butterfly",
+          "phonetic": "/ˈbʌtəflaɪ/",
+          "meaning": "n. 蝴蝶",
+          "example": "The butterfly is beautiful.",
+          "exampleTranslation": "蝴蝶很美丽。"
+        },
+        {
+          "word": "snake",
+          "phonetic": "/sneɪk/",
+          "meaning": "n. 蛇",
+          "example": "The snake is long.",
+          "exampleTranslation": "蛇很长。"
+        },
+        {
+          "word": "squirrel",
+          "phonetic": "/ˈskwɪrəl/",
+          "meaning": "n. 松鼠",
+          "example": "The squirrel likes nuts.",
+          "exampleTranslation": "松鼠喜欢坚果。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "semester": "五年级下册",
+  "grade": 5,
+  "term": "b",
+  "category": "沪教版五年级下册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Tidy up!",
+      "words": [
+        {
+          "word": "tidy",
+          "phonetic": "/ˈtaɪdi/",
+          "meaning": "v. 整理",
+          "example": "Tidy up your room.",
+          "exampleTranslation": "整理你的房间。"
+        },
+        {
+          "word": "mess",
+          "phonetic": "/mes/",
+          "meaning": "n. 混乱",
+          "example": "What a mess!",
+          "exampleTranslation": "真乱啊！"
+        },
+        {
+          "word": "notebook",
+          "phonetic": "/ˈnəʊtbʊk/",
+          "meaning": "n. 笔记本",
+          "example": "Where is my notebook?",
+          "exampleTranslation": "我的笔记本在哪？"
+        },
+        {
+          "word": "crayon",
+          "phonetic": "/ˈkreɪɒn/",
+          "meaning": "n. 蜡笔",
+          "example": "I have many crayons.",
+          "exampleTranslation": "我有很多蜡笔。"
+        },
+        {
+          "word": "umbrella",
+          "phonetic": "/ʌmˈbrelə/",
+          "meaning": "n. 雨伞",
+          "example": "Take your umbrella.",
+          "exampleTranslation": "带上你的雨伞。"
+        },
+        {
+          "word": "cap",
+          "phonetic": "/kæp/",
+          "meaning": "n. 帽子",
+          "example": "Where is my cap?",
+          "exampleTranslation": "我的帽子在哪？"
+        },
+        {
+          "word": "sock",
+          "phonetic": "/sɒk/",
+          "meaning": "n. 袜子",
+          "example": "Put on your socks.",
+          "exampleTranslation": "穿上袜子。"
+        },
+        {
+          "word": "yours",
+          "phonetic": "/jɔːz/",
+          "meaning": "pron. 你的",
+          "example": "Is this yours?",
+          "exampleTranslation": "这是你的吗？"
+        },
+        {
+          "word": "theirs",
+          "phonetic": "/ðeəz/",
+          "meaning": "pron. 他们的",
+          "example": "These books are theirs.",
+          "exampleTranslation": "这些书是他们的。"
+        },
+        {
+          "word": "mine",
+          "phonetic": "/maɪn/",
+          "meaning": "pron. 我的",
+          "example": "This bag is mine.",
+          "exampleTranslation": "这个包是我的。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Our new home",
+      "words": [
+        {
+          "word": "move",
+          "phonetic": "/muːv/",
+          "meaning": "v. 搬家",
+          "example": "We are moving to a new home.",
+          "exampleTranslation": "我们要搬新家了。"
+        },
+        {
+          "word": "room",
+          "phonetic": "/ruːm/",
+          "meaning": "n. 房间",
+          "example": "How many rooms?",
+          "exampleTranslation": "有几个房间？"
+        },
+        {
+          "word": "study",
+          "phonetic": "/ˈstʌdi/",
+          "meaning": "n. 书房",
+          "example": "Dad likes the study.",
+          "exampleTranslation": "爸爸喜欢书房。"
+        },
+        {
+          "word": "balcony",
+          "phonetic": "/ˈbælkəni/",
+          "meaning": "n. 阳台",
+          "example": "I can see from the balcony.",
+          "exampleTranslation": "我从阳台能看到。"
+        },
+        {
+          "word": "garage",
+          "phonetic": "/ˈɡærɑːʒ/",
+          "meaning": "n. 车库",
+          "example": "The car is in the garage.",
+          "exampleTranslation": "车在车库里。"
+        },
+        {
+          "word": "upstairs",
+          "phonetic": "/ˌʌpˈsteəz/",
+          "meaning": "adv. 楼上",
+          "example": "The bedroom is upstairs.",
+          "exampleTranslation": "卧室在楼上。"
+        },
+        {
+          "word": "downstairs",
+          "phonetic": "/ˌdaʊnˈsteəz/",
+          "meaning": "adv. 楼下",
+          "example": "The kitchen is downstairs.",
+          "exampleTranslation": "厨房在楼下。"
+        },
+        {
+          "word": "furniture",
+          "phonetic": "/ˈfɜːnɪtʃə/",
+          "meaning": "n. 家具",
+          "example": "We need new furniture.",
+          "exampleTranslation": "我们需要新家具。"
+        },
+        {
+          "word": "each",
+          "phonetic": "/iːtʃ/",
+          "meaning": "pron. 每个",
+          "example": "Each room is different.",
+          "exampleTranslation": "每个房间都不同。"
+        },
+        {
+          "word": "own",
+          "phonetic": "/əʊn/",
+          "meaning": "adj. 自己的",
+          "example": "I have my own room.",
+          "exampleTranslation": "我有自己的房间。"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "In the future",
+      "words": [
+        {
+          "word": "will",
+          "phonetic": "/wɪl/",
+          "meaning": "modal v. 将要",
+          "example": "I will be a doctor.",
+          "exampleTranslation": "我将成为一名医生。"
+        },
+        {
+          "word": "live",
+          "phonetic": "/lɪv/",
+          "meaning": "v. 居住",
+          "example": "I will live in Shanghai.",
+          "exampleTranslation": "我将住在上海。"
+        },
+        {
+          "word": "machine",
+          "phonetic": "/məˈʃiːn/",
+          "meaning": "n. 机器",
+          "example": "Machines will help us.",
+          "exampleTranslation": "机器将帮助我们。"
+        },
+        {
+          "word": "robot",
+          "phonetic": "/ˈrəʊbɒt/",
+          "meaning": "n. 机器人",
+          "example": "Robots can cook.",
+          "exampleTranslation": "机器人会做饭。"
+        },
+        {
+          "word": "exercise",
+          "phonetic": "/ˈeksəsaɪz/",
+          "meaning": "n. 锻炼",
+          "example": "Do more exercise.",
+          "exampleTranslation": "多做运动。"
+        },
+        {
+          "word": "healthy",
+          "phonetic": "/ˈhelθi/",
+          "meaning": "adj. 健康的",
+          "example": "Be healthy and happy.",
+          "exampleTranslation": "健康快乐。"
+        },
+        {
+          "word": "early",
+          "phonetic": "/ˈɜːli/",
+          "meaning": "adv. 早",
+          "example": "Get up early.",
+          "exampleTranslation": "早起。"
+        },
+        {
+          "word": "hard",
+          "phonetic": "/hɑːd/",
+          "meaning": "adv. 努力地",
+          "example": "Study hard.",
+          "exampleTranslation": "努力学习。"
+        },
+        {
+          "word": "magic",
+          "phonetic": "/ˈmædʒɪk/",
+          "meaning": "adj. 有魔力的",
+          "example": "A magic machine.",
+          "exampleTranslation": "有魔力的机器。"
+        },
+        {
+          "word": "hope",
+          "phonetic": "/həʊp/",
+          "meaning": "v. 希望",
+          "example": "I hope so.",
+          "exampleTranslation": "我希望如此。"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Reading is fun",
+      "words": [
+        {
+          "word": "reading",
+          "phonetic": "/ˈriːdɪŋ/",
+          "meaning": "n. 阅读",
+          "example": "Reading is fun.",
+          "exampleTranslation": "阅读很有趣。"
+        },
+        {
+          "word": "story",
+          "phonetic": "/ˈstɔːri/",
+          "meaning": "n. 故事",
+          "example": "Tell me a story.",
+          "exampleTranslation": "给我讲个故事。"
+        },
+        {
+          "word": "dictionary",
+          "phonetic": "/ˈdɪkʃənri/",
+          "meaning": "n. 词典",
+          "example": "Look it up in the dictionary.",
+          "exampleTranslation": "在词典里查一下。"
+        },
+        {
+          "word": "newspaper",
+          "phonetic": "/ˈnjuːzpeɪpə/",
+          "meaning": "n. 报纸",
+          "example": "Dad reads the newspaper.",
+          "exampleTranslation": "爸爸看报纸。"
+        },
+        {
+          "word": "magazine",
+          "phonetic": "/ˌmæɡəˈziːn/",
+          "meaning": "n. 杂志",
+          "example": "She likes magazines.",
+          "exampleTranslation": "她喜欢杂志。"
+        },
+        {
+          "word": "comic",
+          "phonetic": "/ˈkɒmɪk/",
+          "meaning": "n. 漫画",
+          "example": "I like comic books.",
+          "exampleTranslation": "我喜欢漫画书。"
+        },
+        {
+          "word": "knowledge",
+          "phonetic": "/ˈnɒlɪdʒ/",
+          "meaning": "n. 知识",
+          "example": "Reading gives knowledge.",
+          "exampleTranslation": "阅读带来知识。"
+        },
+        {
+          "word": "bookshop",
+          "phonetic": "/ˈbʊkʃɒp/",
+          "meaning": "n. 书店",
+          "example": "Go to the bookshop.",
+          "exampleTranslation": "去书店。"
+        },
+        {
+          "word": "poster",
+          "phonetic": "/ˈpəʊstə/",
+          "meaning": "n. 海报",
+          "example": "Look at the poster.",
+          "exampleTranslation": "看那张海报。"
+        },
+        {
+          "word": "favourite",
+          "phonetic": "/ˈfeɪvərɪt/",
+          "meaning": "adj. 最喜欢的",
+          "example": "My favourite book.",
+          "exampleTranslation": "我最喜欢的书。"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "At the weekend",
+      "words": [
+        {
+          "word": "plan",
+          "phonetic": "/plæn/",
+          "meaning": "n. 计划",
+          "example": "What's your plan?",
+          "exampleTranslation": "你的计划是什么？"
+        },
+        {
+          "word": "see",
+          "phonetic": "/siː/",
+          "meaning": "v. 看",
+          "example": "I will see a film.",
+          "exampleTranslation": "我要去看电影。"
+        },
+        {
+          "word": "film",
+          "phonetic": "/fɪlm/",
+          "meaning": "n. 电影",
+          "example": "Let's see a film.",
+          "exampleTranslation": "我们去看电影吧。"
+        },
+        {
+          "word": "row",
+          "phonetic": "/rəʊ/",
+          "meaning": "v. 划船",
+          "example": "Row a boat.",
+          "exampleTranslation": "划船。"
+        },
+        {
+          "word": "boat",
+          "phonetic": "/bəʊt/",
+          "meaning": "n. 船",
+          "example": "The boat is on the lake.",
+          "exampleTranslation": "船在湖上。"
+        },
+        {
+          "word": "mountain",
+          "phonetic": "/ˈmaʊntɪn/",
+          "meaning": "n. 山",
+          "example": "Climb the mountain.",
+          "exampleTranslation": "爬山。"
+        },
+        {
+          "word": "hotel",
+          "phonetic": "/həʊˈtel/",
+          "meaning": "n. 酒店",
+          "example": "Stay in a hotel.",
+          "exampleTranslation": "住酒店。"
+        },
+        {
+          "word": "island",
+          "phonetic": "/ˈaɪlənd/",
+          "meaning": "n. 岛屿",
+          "example": "Hainan is an island.",
+          "exampleTranslation": "海南是一个岛。"
+        },
+        {
+          "word": "clear",
+          "phonetic": "/klɪə/",
+          "meaning": "adj. 清澈的",
+          "example": "The water is clear.",
+          "exampleTranslation": "水很清澈。"
+        },
+        {
+          "word": "seafood",
+          "phonetic": "/ˈsiːfuːd/",
+          "meaning": "n. 海鲜",
+          "example": "I like seafood.",
+          "exampleTranslation": "我喜欢海鲜。"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Holidays",
+      "words": [
+        {
+          "word": "holiday",
+          "phonetic": "/ˈhɒlədeɪ/",
+          "meaning": "n. 假期",
+          "example": "Summer holiday is coming.",
+          "exampleTranslation": "暑假快到了。"
+        },
+        {
+          "word": "travel",
+          "phonetic": "/ˈtrævəl/",
+          "meaning": "v. 旅行",
+          "example": "I want to travel.",
+          "exampleTranslation": "我想去旅行。"
+        },
+        {
+          "word": "visit",
+          "phonetic": "/ˈvɪzɪt/",
+          "meaning": "v. 参观",
+          "example": "Visit the Great Wall.",
+          "exampleTranslation": "参观长城。"
+        },
+        {
+          "word": "stay",
+          "phonetic": "/steɪ/",
+          "meaning": "v. 待",
+          "example": "Stay at home.",
+          "exampleTranslation": "待在家。"
+        },
+        {
+          "word": "south",
+          "phonetic": "/saʊθ/",
+          "meaning": "n. 南方",
+          "example": "Go to the south.",
+          "exampleTranslation": "去南方。"
+        },
+        {
+          "word": "north",
+          "phonetic": "/nɔːθ/",
+          "meaning": "n. 北方",
+          "example": "Beijing is in the north.",
+          "exampleTranslation": "北京在北方。"
+        },
+        {
+          "word": "east",
+          "phonetic": "/iːst/",
+          "meaning": "n. 东方",
+          "example": "The sun rises in the east.",
+          "exampleTranslation": "太阳从东方升起。"
+        },
+        {
+          "word": "west",
+          "phonetic": "/west/",
+          "meaning": "n. 西方",
+          "example": "The sun sets in the west.",
+          "exampleTranslation": "太阳在西方落下。"
+        },
+        {
+          "word": "place",
+          "phonetic": "/pleɪs/",
+          "meaning": "n. 地方",
+          "example": "It's a nice place.",
+          "exampleTranslation": "这是个好地方。"
+        },
+        {
+          "word": "wonderful",
+          "phonetic": "/ˈwʌndəfʊl/",
+          "meaning": "adj. 精彩的",
+          "example": "Have a wonderful time!",
+          "exampleTranslation": "祝你玩得开心！"
+        }
+      ]
+    }
+  ]
+}

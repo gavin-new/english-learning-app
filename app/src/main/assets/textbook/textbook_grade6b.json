@@ -1,0 +1,464 @@
+{
+  "semester": "六年级下册",
+  "grade": 6,
+  "term": "b",
+  "category": "沪教版六年级下册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Changes in our lives",
+      "words": [
+        {
+          "word": "change",
+          "phonetic": "/tʃeɪndʒ/",
+          "meaning": "n. 变化",
+          "example": "Big changes in life.",
+          "exampleTranslation": "生活中的大变化。"
+        },
+        {
+          "word": "life",
+          "phonetic": "/laɪf/",
+          "meaning": "n. 生活",
+          "example": "Our lives are different.",
+          "exampleTranslation": "我们的生活不同了。"
+        },
+        {
+          "word": "writer",
+          "phonetic": "/ˈraɪtə/",
+          "meaning": "n. 作家",
+          "example": "She wants to be a writer.",
+          "exampleTranslation": "她想成为作家。"
+        },
+        {
+          "word": "photographer",
+          "phonetic": "/fəˈtɒɡrəfə/",
+          "meaning": "n. 摄影师",
+          "example": "He is a photographer.",
+          "exampleTranslation": "他是一名摄影师。"
+        },
+        {
+          "word": "street cleaner",
+          "phonetic": "/striːt ˈkliːnə/",
+          "meaning": "n. 环卫工人",
+          "example": "Thank the street cleaners.",
+          "exampleTranslation": "感谢环卫工人。"
+        },
+        {
+          "word": "machine",
+          "phonetic": "/məˈʃiːn/",
+          "meaning": "n. 机器",
+          "example": "Machines help us.",
+          "exampleTranslation": "机器帮助我们。"
+        },
+        {
+          "word": "digital",
+          "phonetic": "/ˈdɪdʒɪtəl/",
+          "meaning": "adj. 数字的",
+          "example": "Digital camera.",
+          "exampleTranslation": "数码相机。"
+        },
+        {
+          "word": "wish",
+          "phonetic": "/wɪʃ/",
+          "meaning": "n. 愿望",
+          "example": "Make a wish.",
+          "exampleTranslation": "许个愿。"
+        },
+        {
+          "word": "poor",
+          "phonetic": "/pɔː/",
+          "meaning": "adj. 贫穷的",
+          "example": "Help the poor.",
+          "exampleTranslation": "帮助穷人。"
+        },
+        {
+          "word": "rich",
+          "phonetic": "/rɪtʃ/",
+          "meaning": "adj. 富有的",
+          "example": "Be rich in knowledge.",
+          "exampleTranslation": "知识丰富。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Arts and crafts",
+      "words": [
+        {
+          "word": "art",
+          "phonetic": "/ɑːt/",
+          "meaning": "n. 艺术",
+          "example": "I like art.",
+          "exampleTranslation": "我喜欢艺术。"
+        },
+        {
+          "word": "craft",
+          "phonetic": "/krɑːft/",
+          "meaning": "n. 手工艺",
+          "example": "Chinese paper craft.",
+          "exampleTranslation": "中国剪纸。"
+        },
+        {
+          "word": "brush",
+          "phonetic": "/brʌʃ/",
+          "meaning": "n. 画笔",
+          "example": "Use a brush to paint.",
+          "exampleTranslation": "用画笔画画。"
+        },
+        {
+          "word": "paint",
+          "phonetic": "/peɪnt/",
+          "meaning": "n. 颜料",
+          "example": "I need some paint.",
+          "exampleTranslation": "我需要一些颜料。"
+        },
+        {
+          "word": "glue",
+          "phonetic": "/ɡluː/",
+          "meaning": "n. 胶水",
+          "example": "Use glue to stick.",
+          "exampleTranslation": "用胶水粘。"
+        },
+        {
+          "word": "scissors",
+          "phonetic": "/ˈsɪzəz/",
+          "meaning": "n. 剪刀",
+          "example": "Be careful with scissors.",
+          "exampleTranslation": "小心用剪刀。"
+        },
+        {
+          "word": "tape",
+          "phonetic": "/teɪp/",
+          "meaning": "n. 胶带",
+          "example": "I need some tape.",
+          "exampleTranslation": "我需要一些胶带。"
+        },
+        {
+          "word": "model",
+          "phonetic": "/ˈmɒdəl/",
+          "meaning": "n. 模型",
+          "example": "Make a model plane.",
+          "exampleTranslation": "做一个飞机模型。"
+        },
+        {
+          "word": "crown",
+          "phonetic": "/kraʊn/",
+          "meaning": "n. 皇冠",
+          "example": "Make a paper crown.",
+          "exampleTranslation": "做一个纸皇冠。"
+        },
+        {
+          "word": "mask",
+          "phonetic": "/mɑːsk/",
+          "meaning": "n. 面具",
+          "example": "Make a mask.",
+          "exampleTranslation": "做一个面具。"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Helping others",
+      "words": [
+        {
+          "word": "help",
+          "phonetic": "/help/",
+          "meaning": "v. 帮助",
+          "example": "I like helping others.",
+          "exampleTranslation": "我喜欢帮助别人。"
+        },
+        {
+          "word": "others",
+          "phonetic": "/ˈʌðəz/",
+          "meaning": "pron. 其他人",
+          "example": "Think of others.",
+          "exampleTranslation": "为别人着想。"
+        },
+        {
+          "word": "volunteer",
+          "phonetic": "/ˌvɒlənˈtɪə/",
+          "meaning": "n. 志愿者",
+          "example": "I want to be a volunteer.",
+          "exampleTranslation": "我想成为志愿者。"
+        },
+        {
+          "word": "kind",
+          "phonetic": "/kaɪnd/",
+          "meaning": "adj. 善良的",
+          "example": "Be kind to others.",
+          "exampleTranslation": "善待他人。"
+        },
+        {
+          "word": "share",
+          "phonetic": "/ʃeə/",
+          "meaning": "v. 分享",
+          "example": "Share with friends.",
+          "exampleTranslation": "和朋友分享。"
+        },
+        {
+          "word": "carry",
+          "phonetic": "/ˈkæri/",
+          "meaning": "v. 搬运",
+          "example": "Let me carry it for you.",
+          "exampleTranslation": "让我帮你搬。"
+        },
+        {
+          "word": "lost",
+          "phonetic": "/lɒst/",
+          "meaning": "adj. 迷路的",
+          "example": "The boy is lost.",
+          "exampleTranslation": "那个男孩迷路了。"
+        },
+        {
+          "word": "bell",
+          "phonetic": "/bel/",
+          "meaning": "n. 铃",
+          "example": "Ring the bell.",
+          "exampleTranslation": "按铃。"
+        },
+        {
+          "word": "neck",
+          "phonetic": "/nek/",
+          "meaning": "n. 脖子",
+          "example": "A bell around the neck.",
+          "exampleTranslation": "脖子上挂的铃。"
+        },
+        {
+          "word": "praise",
+          "phonetic": "/preɪz/",
+          "meaning": "n. 赞扬",
+          "example": "He got praise.",
+          "exampleTranslation": "他得到了表扬。"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "PE lessons",
+      "words": [
+        {
+          "word": "lesson",
+          "phonetic": "/ˈlesən/",
+          "meaning": "n. 课",
+          "example": "We have PE lessons.",
+          "exampleTranslation": "我们有体育课。"
+        },
+        {
+          "word": "sport",
+          "phonetic": "/spɔːt/",
+          "meaning": "n. 运动",
+          "example": "I like sports.",
+          "exampleTranslation": "我喜欢运动。"
+        },
+        {
+          "word": "race",
+          "phonetic": "/reɪs/",
+          "meaning": "n. 赛跑",
+          "example": "Let's have a race.",
+          "exampleTranslation": "我们赛跑吧。"
+        },
+        {
+          "word": "swimming",
+          "phonetic": "/ˈswɪmɪŋ/",
+          "meaning": "n. 游泳",
+          "example": "Swimming is good exercise.",
+          "exampleTranslation": "游泳是很好的锻炼。"
+        },
+        {
+          "word": "basketball",
+          "phonetic": "/ˈbɑːskɪtbɔːl/",
+          "meaning": "n. 篮球",
+          "example": "Play basketball.",
+          "exampleTranslation": "打篮球。"
+        },
+        {
+          "word": "football",
+          "phonetic": "/ˈfʊtbɔːl/",
+          "meaning": "n. 足球",
+          "example": "I love football.",
+          "exampleTranslation": "我喜欢足球。"
+        },
+        {
+          "word": "table tennis",
+          "phonetic": "/ˈteɪbəl ˌtenɪs/",
+          "meaning": "n. 乒乓球",
+          "example": "Table tennis is fun.",
+          "exampleTranslation": "乒乓球很有趣。"
+        },
+        {
+          "word": "badminton",
+          "phonetic": "/ˈbædmɪntən/",
+          "meaning": "n. 羽毛球",
+          "example": "Let's play badminton.",
+          "exampleTranslation": "我们打羽毛球吧。"
+        },
+        {
+          "word": "long jump",
+          "phonetic": "/lɒŋ dʒʌmp/",
+          "meaning": "n. 跳远",
+          "example": "I am good at long jump.",
+          "exampleTranslation": "我擅长跳远。"
+        },
+        {
+          "word": "high jump",
+          "phonetic": "/haɪ dʒʌmp/",
+          "meaning": "n. 跳高",
+          "example": "He won the high jump.",
+          "exampleTranslation": "他赢了跳高。"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Festivals",
+      "words": [
+        {
+          "word": "festival",
+          "phonetic": "/ˈfestɪvəl/",
+          "meaning": "n. 节日",
+          "example": "Spring Festival is coming.",
+          "exampleTranslation": "春节快到了。"
+        },
+        {
+          "word": "Spring Festival",
+          "phonetic": "/sprɪŋ ˈfestɪvəl/",
+          "meaning": "n. 春节",
+          "example": "Happy Spring Festival!",
+          "exampleTranslation": "春节快乐！"
+        },
+        {
+          "word": "dragon",
+          "phonetic": "/ˈdræɡən/",
+          "meaning": "n. 龙",
+          "example": "Dragon Boat Festival.",
+          "exampleTranslation": "端午节。"
+        },
+        {
+          "word": "Mid-Autumn",
+          "phonetic": "/mɪd ˈɔːtəm/",
+          "meaning": "n. 中秋",
+          "example": "Mid-Autumn Festival.",
+          "exampleTranslation": "中秋节。"
+        },
+        {
+          "word": "mooncake",
+          "phonetic": "/ˈmuːnkeɪk/",
+          "meaning": "n. 月饼",
+          "example": "Eat mooncakes.",
+          "exampleTranslation": "吃月饼。"
+        },
+        {
+          "word": "dumpling",
+          "phonetic": "/ˈdʌmplɪŋ/",
+          "meaning": "n. 饺子",
+          "example": "Make dumplings.",
+          "exampleTranslation": "包饺子。"
+        },
+        {
+          "word": "firework",
+          "phonetic": "/ˈfaɪəwɜːk/",
+          "meaning": "n. 烟花",
+          "example": "Watch fireworks.",
+          "exampleTranslation": "看烟花。"
+        },
+        {
+          "word": "lantern",
+          "phonetic": "/ˈlæntən/",
+          "meaning": "n. 灯笼",
+          "example": "Red lanterns.",
+          "exampleTranslation": "红灯笼。"
+        },
+        {
+          "word": "Christmas",
+          "phonetic": "/ˈkrɪsməs/",
+          "meaning": "n. 圣诞节",
+          "example": "Merry Christmas!",
+          "exampleTranslation": "圣诞快乐！"
+        },
+        {
+          "word": "celebrate",
+          "phonetic": "/ˈselɪbreɪt/",
+          "meaning": "v. 庆祝",
+          "example": "How do you celebrate?",
+          "exampleTranslation": "你怎么庆祝？"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Graduation",
+      "words": [
+        {
+          "word": "graduate",
+          "phonetic": "/ˈɡrædʒueɪt/",
+          "meaning": "v. 毕业",
+          "example": "We will graduate soon.",
+          "exampleTranslation": "我们快要毕业了。"
+        },
+        {
+          "word": "primary school",
+          "phonetic": "/ˈpraɪməri skuːl/",
+          "meaning": "n. 小学",
+          "example": "Goodbye, primary school.",
+          "exampleTranslation": "再见了，小学。"
+        },
+        {
+          "word": "middle school",
+          "phonetic": "/ˈmɪdəl skuːl/",
+          "meaning": "n. 中学",
+          "example": "Going to middle school.",
+          "exampleTranslation": "即将上中学。"
+        },
+        {
+          "word": "classmate",
+          "phonetic": "/ˈklɑːsmeɪt/",
+          "meaning": "n. 同学",
+          "example": "Goodbye, classmates.",
+          "exampleTranslation": "再见了，同学们。"
+        },
+        {
+          "word": "memory",
+          "phonetic": "/ˈmeməri/",
+          "meaning": "n. 记忆",
+          "example": "Sweet memories.",
+          "exampleTranslation": "美好的回忆。"
+        },
+        {
+          "word": "miss",
+          "phonetic": "/mɪs/",
+          "meaning": "v. 想念",
+          "example": "I will miss you.",
+          "exampleTranslation": "我会想念你的。"
+        },
+        {
+          "word": "future",
+          "phonetic": "/ˈfjuːtʃə/",
+          "meaning": "n. 未来",
+          "example": "Good luck in the future.",
+          "exampleTranslation": "祝你未来好运。"
+        },
+        {
+          "word": "friendship",
+          "phonetic": "/ˈfrendʃɪp/",
+          "meaning": "n. 友谊",
+          "example": "Our friendship will last.",
+          "exampleTranslation": "我们的友谊长存。"
+        },
+        {
+          "word": "goodbye",
+          "phonetic": "/ˌɡʊdˈbaɪ/",
+          "meaning": "int. 再见",
+          "example": "Goodbye and good luck!",
+          "exampleTranslation": "再见，祝好运！"
+        },
+        {
+          "word": "forever",
+          "phonetic": "/fərˈevə/",
+          "meaning": "adv. 永远",
+          "example": "Friends forever.",
+          "exampleTranslation": "永远的朋友。"
+        }
+      ]
+    }
+  ]
+}

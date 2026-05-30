@@ -1,0 +1,478 @@
+{
+  "semester": "四年级上册",
+  "grade": 4,
+  "term": "a",
+  "category": "沪教版四年级上册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Meeting new people",
+      "words": [
+        {
+          "word": "meet",
+          "phonetic": "/miːt/",
+          "meaning": "v. 遇见",
+          "example": "Nice to meet you.",
+          "exampleTranslation": "很高兴见到你。"
+        },
+        {
+          "word": "new",
+          "phonetic": "/njuː/",
+          "meaning": "adj. 新的",
+          "example": "He is my new friend.",
+          "exampleTranslation": "他是我的新朋友。"
+        },
+        {
+          "word": "classmate",
+          "phonetic": "/ˈklɑːsmeɪt/",
+          "meaning": "n. 同班同学",
+          "example": "She is my classmate.",
+          "exampleTranslation": "她是我的同班同学。"
+        },
+        {
+          "word": "name",
+          "phonetic": "/neɪm/",
+          "meaning": "n. 名字",
+          "example": "My name is Tom.",
+          "exampleTranslation": "我的名字是汤姆。"
+        },
+        {
+          "word": "his",
+          "phonetic": "/hɪz/",
+          "meaning": "pron. 他的",
+          "example": "His bag is blue.",
+          "exampleTranslation": "他的包是蓝色的。"
+        },
+        {
+          "word": "her",
+          "phonetic": "/hə/",
+          "meaning": "pron. 她的",
+          "example": "Her hair is long.",
+          "exampleTranslation": "她的头发很长。"
+        },
+        {
+          "word": "student",
+          "phonetic": "/ˈstjuːdənt/",
+          "meaning": "n. 学生",
+          "example": "I am a student.",
+          "exampleTranslation": "我是一个学生。"
+        },
+        {
+          "word": "teacher",
+          "phonetic": "/ˈtiːtʃə/",
+          "meaning": "n. 教师",
+          "example": "She is my English teacher.",
+          "exampleTranslation": "她是我的英语老师。"
+        },
+        {
+          "word": "boy",
+          "phonetic": "/bɔɪ/",
+          "meaning": "n. 男孩",
+          "example": "The boy is clever.",
+          "exampleTranslation": "那个男孩很聪明。"
+        },
+        {
+          "word": "girl",
+          "phonetic": "/ɡɜːl/",
+          "meaning": "n. 女孩",
+          "example": "The girl is pretty.",
+          "exampleTranslation": "那个女孩很漂亮。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Can you swim?",
+      "words": [
+        {
+          "word": "can",
+          "phonetic": "/kæn/",
+          "meaning": "modal v. 能",
+          "example": "I can swim.",
+          "exampleTranslation": "我会游泳。"
+        },
+        {
+          "word": "cannot",
+          "phonetic": "/ˈkænɒt/",
+          "meaning": "modal v. 不能",
+          "example": "I cannot fly.",
+          "exampleTranslation": "我不会飞。"
+        },
+        {
+          "word": "swim",
+          "phonetic": "/swɪm/",
+          "meaning": "v. 游泳",
+          "example": "Let's swim.",
+          "exampleTranslation": "我们去游泳吧。"
+        },
+        {
+          "word": "run",
+          "phonetic": "/rʌn/",
+          "meaning": "v. 跑",
+          "example": "I can run fast.",
+          "exampleTranslation": "我跑得很快。"
+        },
+        {
+          "word": "jump",
+          "phonetic": "/dʒʌmp/",
+          "meaning": "v. 跳",
+          "example": "The rabbit can jump.",
+          "exampleTranslation": "兔子会跳。"
+        },
+        {
+          "word": "fly",
+          "phonetic": "/flaɪ/",
+          "meaning": "v. 飞",
+          "example": "Birds can fly.",
+          "exampleTranslation": "鸟会飞。"
+        },
+        {
+          "word": "draw",
+          "phonetic": "/drɔː/",
+          "meaning": "v. 画画",
+          "example": "I can draw a cat.",
+          "exampleTranslation": "我会画猫。"
+        },
+        {
+          "word": "write",
+          "phonetic": "/raɪt/",
+          "meaning": "v. 写",
+          "example": "I can write my name.",
+          "exampleTranslation": "我会写我的名字。"
+        },
+        {
+          "word": "sing",
+          "phonetic": "/sɪŋ/",
+          "meaning": "v. 唱歌",
+          "example": "She can sing well.",
+          "exampleTranslation": "她唱得很好。"
+        },
+        {
+          "word": "dance",
+          "phonetic": "/dɑːns/",
+          "meaning": "v. 跳舞",
+          "example": "Can you dance?",
+          "exampleTranslation": "你会跳舞吗？"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "In the school",
+      "words": [
+        {
+          "word": "school",
+          "phonetic": "/skuːl/",
+          "meaning": "n. 学校",
+          "example": "I go to school.",
+          "exampleTranslation": "我去上学。"
+        },
+        {
+          "word": "library",
+          "phonetic": "/ˈlaɪbrəri/",
+          "meaning": "n. 图书馆",
+          "example": "Read in the library.",
+          "exampleTranslation": "在图书馆阅读。"
+        },
+        {
+          "word": "playground",
+          "phonetic": "/ˈpleɪɡraʊnd/",
+          "meaning": "n. 操场",
+          "example": "Play on the playground.",
+          "exampleTranslation": "在操场上玩。"
+        },
+        {
+          "word": "office",
+          "phonetic": "/ˈɒfɪs/",
+          "meaning": "n. 办公室",
+          "example": "Go to the office.",
+          "exampleTranslation": "去办公室。"
+        },
+        {
+          "word": "toilet",
+          "phonetic": "/ˈtɔɪlət/",
+          "meaning": "n. 厕所",
+          "example": "Where is the toilet?",
+          "exampleTranslation": "厕所在哪里？"
+        },
+        {
+          "word": "garden",
+          "phonetic": "/ˈɡɑːdən/",
+          "meaning": "n. 花园",
+          "example": "The flowers are in the garden.",
+          "exampleTranslation": "花在花园里。"
+        },
+        {
+          "word": "hall",
+          "phonetic": "/hɔːl/",
+          "meaning": "n. 大厅",
+          "example": "Meet in the hall.",
+          "exampleTranslation": "在大厅集合。"
+        },
+        {
+          "word": "building",
+          "phonetic": "/ˈbɪldɪŋ/",
+          "meaning": "n. 建筑",
+          "example": "The school building is tall.",
+          "exampleTranslation": "教学楼很高。"
+        },
+        {
+          "word": "floor",
+          "phonetic": "/flɔː/",
+          "meaning": "n. 楼层",
+          "example": "On the second floor.",
+          "exampleTranslation": "在二楼。"
+        },
+        {
+          "word": "where",
+          "phonetic": "/weə/",
+          "meaning": "adv. 在哪里",
+          "example": "Where is it?",
+          "exampleTranslation": "它在哪里？"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "My home",
+      "words": [
+        {
+          "word": "home",
+          "phonetic": "/həʊm/",
+          "meaning": "n. 家",
+          "example": "Welcome to my home.",
+          "exampleTranslation": "欢迎来我家。"
+        },
+        {
+          "word": "bedroom",
+          "phonetic": "/ˈbedruːm/",
+          "meaning": "n. 卧室",
+          "example": "This is my bedroom.",
+          "exampleTranslation": "这是我的卧室。"
+        },
+        {
+          "word": "living room",
+          "phonetic": "/ˈlɪvɪŋ ruːm/",
+          "meaning": "n. 客厅",
+          "example": "We watch TV in the living room.",
+          "exampleTranslation": "我们在客厅看电视。"
+        },
+        {
+          "word": "kitchen",
+          "phonetic": "/ˈkɪtʃɪn/",
+          "meaning": "n. 厨房",
+          "example": "Mum is in the kitchen.",
+          "exampleTranslation": "妈妈在厨房。"
+        },
+        {
+          "word": "bathroom",
+          "phonetic": "/ˈbɑːθruːm/",
+          "meaning": "n. 浴室",
+          "example": "Take a shower in the bathroom.",
+          "exampleTranslation": "在浴室洗澡。"
+        },
+        {
+          "word": "study",
+          "phonetic": "/ˈstʌdi/",
+          "meaning": "n. 书房",
+          "example": "Dad is in the study.",
+          "exampleTranslation": "爸爸在书房。"
+        },
+        {
+          "word": "bed",
+          "phonetic": "/bed/",
+          "meaning": "n. 床",
+          "example": "Go to bed.",
+          "exampleTranslation": "上床睡觉。"
+        },
+        {
+          "word": "sofa",
+          "phonetic": "/ˈsəʊfə/",
+          "meaning": "n. 沙发",
+          "example": "Sit on the sofa.",
+          "exampleTranslation": "坐在沙发上。"
+        },
+        {
+          "word": "table",
+          "phonetic": "/ˈteɪbəl/",
+          "meaning": "n. 桌子",
+          "example": "Put it on the table.",
+          "exampleTranslation": "把它放在桌子上。"
+        },
+        {
+          "word": "fridge",
+          "phonetic": "/frɪdʒ/",
+          "meaning": "n. 冰箱",
+          "example": "The milk is in the fridge.",
+          "exampleTranslation": "牛奶在冰箱里。"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Clothes",
+      "words": [
+        {
+          "word": "clothes",
+          "phonetic": "/kləʊðz/",
+          "meaning": "n. 衣服",
+          "example": "I have new clothes.",
+          "exampleTranslation": "我有新衣服。"
+        },
+        {
+          "word": "shirt",
+          "phonetic": "/ʃɜːt/",
+          "meaning": "n. 衬衫",
+          "example": "He wears a white shirt.",
+          "exampleTranslation": "他穿了一件白衬衫。"
+        },
+        {
+          "word": "dress",
+          "phonetic": "/dres/",
+          "meaning": "n. 连衣裙",
+          "example": "She has a pink dress.",
+          "exampleTranslation": "她有一条粉色连衣裙。"
+        },
+        {
+          "word": "coat",
+          "phonetic": "/kəʊt/",
+          "meaning": "n. 外套",
+          "example": "Wear your coat.",
+          "exampleTranslation": "穿上你的外套。"
+        },
+        {
+          "word": "jacket",
+          "phonetic": "/ˈdʒækɪt/",
+          "meaning": "n. 夹克",
+          "example": "I like this jacket.",
+          "exampleTranslation": "我喜欢这件夹克。"
+        },
+        {
+          "word": "sweater",
+          "phonetic": "/ˈswetə/",
+          "meaning": "n. 毛衣",
+          "example": "The sweater is warm.",
+          "exampleTranslation": "毛衣很暖和。"
+        },
+        {
+          "word": "trousers",
+          "phonetic": "/ˈtraʊzəz/",
+          "meaning": "n. 裤子",
+          "example": "These trousers are blue.",
+          "exampleTranslation": "这条裤子是蓝色的。"
+        },
+        {
+          "word": "shorts",
+          "phonetic": "/ʃɔːts/",
+          "meaning": "n. 短裤",
+          "example": "Wear shorts in summer.",
+          "exampleTranslation": "夏天穿短裤。"
+        },
+        {
+          "word": "hat",
+          "phonetic": "/hæt/",
+          "meaning": "n. 帽子",
+          "example": "Put on your hat.",
+          "exampleTranslation": "戴上你的帽子。"
+        },
+        {
+          "word": "shoe",
+          "phonetic": "/ʃuː/",
+          "meaning": "n. 鞋子",
+          "example": "I need new shoes.",
+          "exampleTranslation": "我需要新鞋子。"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Weather and seasons",
+      "words": [
+        {
+          "word": "weather",
+          "phonetic": "/ˈweðə/",
+          "meaning": "n. 天气",
+          "example": "How is the weather?",
+          "exampleTranslation": "天气怎么样？"
+        },
+        {
+          "word": "sunny",
+          "phonetic": "/ˈsʌni/",
+          "meaning": "adj. 晴朗的",
+          "example": "It's sunny today.",
+          "exampleTranslation": "今天天气晴朗。"
+        },
+        {
+          "word": "rainy",
+          "phonetic": "/ˈreɪni/",
+          "meaning": "adj. 下雨的",
+          "example": "It's rainy outside.",
+          "exampleTranslation": "外面下雨了。"
+        },
+        {
+          "word": "cloudy",
+          "phonetic": "/ˈklaʊdi/",
+          "meaning": "adj. 多云的",
+          "example": "It's cloudy today.",
+          "exampleTranslation": "今天多云。"
+        },
+        {
+          "word": "windy",
+          "phonetic": "/ˈwɪndi/",
+          "meaning": "adj. 有风的",
+          "example": "It's very windy.",
+          "exampleTranslation": "风很大。"
+        },
+        {
+          "word": "spring",
+          "phonetic": "/sprɪŋ/",
+          "meaning": "n. 春天",
+          "example": "I like spring.",
+          "exampleTranslation": "我喜欢春天。"
+        },
+        {
+          "word": "summer",
+          "phonetic": "/ˈsʌmə/",
+          "meaning": "n. 夏天",
+          "example": "Summer is hot.",
+          "exampleTranslation": "夏天很热。"
+        },
+        {
+          "word": "autumn",
+          "phonetic": "/ˈɔːtəm/",
+          "meaning": "n. 秋天",
+          "example": "Autumn is cool.",
+          "exampleTranslation": "秋天很凉爽。"
+        },
+        {
+          "word": "winter",
+          "phonetic": "/ˈwɪntə/",
+          "meaning": "n. 冬天",
+          "example": "Winter is cold.",
+          "exampleTranslation": "冬天很冷。"
+        },
+        {
+          "word": "warm",
+          "phonetic": "/wɔːm/",
+          "meaning": "adj. 温暖的",
+          "example": "Spring is warm.",
+          "exampleTranslation": "春天很温暖。"
+        },
+        {
+          "word": "cool",
+          "phonetic": "/kuːl/",
+          "meaning": "adj. 凉爽的",
+          "example": "Autumn is cool.",
+          "exampleTranslation": "秋天很凉爽。"
+        },
+        {
+          "word": "cold",
+          "phonetic": "/kəʊld/",
+          "meaning": "adj. 寒冷的",
+          "example": "Winter is cold.",
+          "exampleTranslation": "冬天很冷。"
+        }
+      ]
+    }
+  ]
+}

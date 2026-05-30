@@ -1,0 +1,464 @@
+{
+  "semester": "四年级下册",
+  "grade": 4,
+  "term": "b",
+  "category": "沪教版四年级下册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Touch and feel",
+      "words": [
+        {
+          "word": "touch",
+          "phonetic": "/tʌtʃ/",
+          "meaning": "v. 触摸",
+          "example": "Touch and feel.",
+          "exampleTranslation": "摸一摸感受一下。"
+        },
+        {
+          "word": "feel",
+          "phonetic": "/fiːl/",
+          "meaning": "v. 感觉",
+          "example": "How does it feel?",
+          "exampleTranslation": "它摸起来怎么样？"
+        },
+        {
+          "word": "soft",
+          "phonetic": "/sɒft/",
+          "meaning": "adj. 柔软的",
+          "example": "The pillow is soft.",
+          "exampleTranslation": "枕头很软。"
+        },
+        {
+          "word": "hard",
+          "phonetic": "/hɑːd/",
+          "meaning": "adj. 坚硬的",
+          "example": "The stone is hard.",
+          "exampleTranslation": "石头很硬。"
+        },
+        {
+          "word": "rough",
+          "phonetic": "/rʌf/",
+          "meaning": "adj. 粗糙的",
+          "example": "The paper is rough.",
+          "exampleTranslation": "这张纸很粗糙。"
+        },
+        {
+          "word": "smooth",
+          "phonetic": "/smuːð/",
+          "meaning": "adj. 光滑的",
+          "example": "The glass is smooth.",
+          "exampleTranslation": "玻璃很光滑。"
+        },
+        {
+          "word": "thick",
+          "phonetic": "/θɪk/",
+          "meaning": "adj. 厚的",
+          "example": "This book is thick.",
+          "exampleTranslation": "这本书很厚。"
+        },
+        {
+          "word": "thin",
+          "phonetic": "/θɪn/",
+          "meaning": "adj. 薄的",
+          "example": "The paper is thin.",
+          "exampleTranslation": "这张纸很薄。"
+        },
+        {
+          "word": "blind",
+          "phonetic": "/blaɪnd/",
+          "meaning": "adj. 看不见的",
+          "example": "The man is blind.",
+          "exampleTranslation": "那个男人失明了。"
+        },
+        {
+          "word": "hear",
+          "phonetic": "/hɪə/",
+          "meaning": "v. 听见",
+          "example": "I can hear you.",
+          "exampleTranslation": "我能听见你。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Smell and taste",
+      "words": [
+        {
+          "word": "smell",
+          "phonetic": "/smel/",
+          "meaning": "v. 闻",
+          "example": "Smell the flower.",
+          "exampleTranslation": "闻闻这朵花。"
+        },
+        {
+          "word": "strawberry",
+          "phonetic": "/ˈstrɔːbəri/",
+          "meaning": "n. 草莓",
+          "example": "I like strawberries.",
+          "exampleTranslation": "我喜欢草莓。"
+        },
+        {
+          "word": "watermelon",
+          "phonetic": "/ˈwɔːtəmelən/",
+          "meaning": "n. 西瓜",
+          "example": "The watermelon is big.",
+          "exampleTranslation": "西瓜很大。"
+        },
+        {
+          "word": "grape",
+          "phonetic": "/ɡreɪp/",
+          "meaning": "n. 葡萄",
+          "example": "These grapes are sweet.",
+          "exampleTranslation": "这些葡萄很甜。"
+        },
+        {
+          "word": "fox",
+          "phonetic": "/fɒks/",
+          "meaning": "n. 狐狸",
+          "example": "The fox is clever.",
+          "exampleTranslation": "狐狸很聪明。"
+        },
+        {
+          "word": "round",
+          "phonetic": "/raʊnd/",
+          "meaning": "adj. 圆的",
+          "example": "The ball is round.",
+          "exampleTranslation": "球是圆的。"
+        },
+        {
+          "word": "purple",
+          "phonetic": "/ˈpɜːpəl/",
+          "meaning": "adj. 紫色的",
+          "example": "The grapes are purple.",
+          "exampleTranslation": "葡萄是紫色的。"
+        },
+        {
+          "word": "wait",
+          "phonetic": "/weɪt/",
+          "meaning": "v. 等待",
+          "example": "Wait a minute.",
+          "exampleTranslation": "等一会儿。"
+        },
+        {
+          "word": "those",
+          "phonetic": "/ðəʊz/",
+          "meaning": "pron. 那些",
+          "example": "Those are nice.",
+          "exampleTranslation": "那些很好。"
+        },
+        {
+          "word": "these",
+          "phonetic": "/ðiːz/",
+          "meaning": "pron. 这些",
+          "example": "These are oranges.",
+          "exampleTranslation": "这些是橙子。"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Days of the week",
+      "words": [
+        {
+          "word": "Monday",
+          "phonetic": "/ˈmʌndeɪ/",
+          "meaning": "n. 星期一",
+          "example": "Today is Monday.",
+          "exampleTranslation": "今天是星期一。"
+        },
+        {
+          "word": "Tuesday",
+          "phonetic": "/ˈtjuːzdeɪ/",
+          "meaning": "n. 星期二",
+          "example": "We have PE on Tuesday.",
+          "exampleTranslation": "我们星期二有体育课。"
+        },
+        {
+          "word": "Wednesday",
+          "phonetic": "/ˈwenzdeɪ/",
+          "meaning": "n. 星期三",
+          "example": "Wednesday is busy.",
+          "exampleTranslation": "星期三很忙。"
+        },
+        {
+          "word": "Thursday",
+          "phonetic": "/ˈθɜːzdeɪ/",
+          "meaning": "n. 星期四",
+          "example": "I like Thursday.",
+          "exampleTranslation": "我喜欢星期四。"
+        },
+        {
+          "word": "Friday",
+          "phonetic": "/ˈfraɪdeɪ/",
+          "meaning": "n. 星期五",
+          "example": "Friday is fun.",
+          "exampleTranslation": "星期五很有趣。"
+        },
+        {
+          "word": "Saturday",
+          "phonetic": "/ˈsætədeɪ/",
+          "meaning": "n. 星期六",
+          "example": "We play on Saturday.",
+          "exampleTranslation": "我们星期六玩。"
+        },
+        {
+          "word": "Sunday",
+          "phonetic": "/ˈsʌndeɪ/",
+          "meaning": "n. 星期日",
+          "example": "I rest on Sunday.",
+          "exampleTranslation": "我星期天休息。"
+        },
+        {
+          "word": "week",
+          "phonetic": "/wiːk/",
+          "meaning": "n. 星期",
+          "example": "Seven days a week.",
+          "exampleTranslation": "一周七天。"
+        },
+        {
+          "word": "today",
+          "phonetic": "/təˈdeɪ/",
+          "meaning": "n. 今天",
+          "example": "What day is today?",
+          "exampleTranslation": "今天星期几？"
+        },
+        {
+          "word": "tomorrow",
+          "phonetic": "/təˈmɒrəʊ/",
+          "meaning": "n. 明天",
+          "example": "See you tomorrow.",
+          "exampleTranslation": "明天见。"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Time",
+      "words": [
+        {
+          "word": "time",
+          "phonetic": "/taɪm/",
+          "meaning": "n. 时间",
+          "example": "What time is it?",
+          "exampleTranslation": "几点了？"
+        },
+        {
+          "word": "clock",
+          "phonetic": "/klɒk/",
+          "meaning": "n. 时钟",
+          "example": "Look at the clock.",
+          "exampleTranslation": "看钟。"
+        },
+        {
+          "word": "o'clock",
+          "phonetic": "/əˈklɒk/",
+          "meaning": "adv. …点钟",
+          "example": "It's seven o'clock.",
+          "exampleTranslation": "七点了。"
+        },
+        {
+          "word": "half",
+          "phonetic": "/hɑːf/",
+          "meaning": "n. 一半",
+          "example": "Half past three.",
+          "exampleTranslation": "三点半。"
+        },
+        {
+          "word": "quarter",
+          "phonetic": "/ˈkwɔːtə/",
+          "meaning": "n. 一刻钟",
+          "example": "A quarter to five.",
+          "exampleTranslation": "差一刻五点。"
+        },
+        {
+          "word": "get up",
+          "phonetic": "/ɡet ʌp/",
+          "meaning": "起床",
+          "example": "I get up at six.",
+          "exampleTranslation": "我六点起床。"
+        },
+        {
+          "word": "breakfast",
+          "phonetic": "/ˈbrekfəst/",
+          "meaning": "n. 早餐",
+          "example": "Have breakfast at seven.",
+          "exampleTranslation": "七点吃早餐。"
+        },
+        {
+          "word": "lunch",
+          "phonetic": "/lʌntʃ/",
+          "meaning": "n. 午餐",
+          "example": "Lunch time!",
+          "exampleTranslation": "午餐时间！"
+        },
+        {
+          "word": "dinner",
+          "phonetic": "/ˈdɪnə/",
+          "meaning": "n. 晚餐",
+          "example": "We have dinner at six.",
+          "exampleTranslation": "我们六点吃晚餐。"
+        },
+        {
+          "word": "start",
+          "phonetic": "/stɑːt/",
+          "meaning": "v. 开始",
+          "example": "Class starts at eight.",
+          "exampleTranslation": "八点开始上课。"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "At the weekend",
+      "words": [
+        {
+          "word": "weekend",
+          "phonetic": "/ˌwiːkˈend/",
+          "meaning": "n. 周末",
+          "example": "Happy weekend!",
+          "exampleTranslation": "周末快乐！"
+        },
+        {
+          "word": "park",
+          "phonetic": "/pɑːk/",
+          "meaning": "n. 公园",
+          "example": "Go to the park.",
+          "exampleTranslation": "去公园。"
+        },
+        {
+          "word": "cinema",
+          "phonetic": "/ˈsɪnəmə/",
+          "meaning": "n. 电影院",
+          "example": "Let's go to the cinema.",
+          "exampleTranslation": "我们去看电影吧。"
+        },
+        {
+          "word": "museum",
+          "phonetic": "/mjuˈziːəm/",
+          "meaning": "n. 博物馆",
+          "example": "Visit the museum.",
+          "exampleTranslation": "参观博物馆。"
+        },
+        {
+          "word": "zoo",
+          "phonetic": "/zuː/",
+          "meaning": "n. 动物园",
+          "example": "I like the zoo.",
+          "exampleTranslation": "我喜欢动物园。"
+        },
+        {
+          "word": "supermarket",
+          "phonetic": "/ˈsuːpəmɑːkɪt/",
+          "meaning": "n. 超市",
+          "example": "Go to the supermarket.",
+          "exampleTranslation": "去超市。"
+        },
+        {
+          "word": "beach",
+          "phonetic": "/biːtʃ/",
+          "meaning": "n. 海滩",
+          "example": "Let's go to the beach.",
+          "exampleTranslation": "我们去海滩吧。"
+        },
+        {
+          "word": "swimming pool",
+          "phonetic": "/ˈswɪmɪŋ puːl/",
+          "meaning": "n. 游泳池",
+          "example": "Swim in the swimming pool.",
+          "exampleTranslation": "在游泳池游泳。"
+        },
+        {
+          "word": "usually",
+          "phonetic": "/ˈjuːʒuəli/",
+          "meaning": "adv. 通常",
+          "example": "I usually read on Sunday.",
+          "exampleTranslation": "我周日通常阅读。"
+        },
+        {
+          "word": "often",
+          "phonetic": "/ˈɒfən/",
+          "meaning": "adv. 经常",
+          "example": "We often play football.",
+          "exampleTranslation": "我们经常踢足球。"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Hobbies",
+      "words": [
+        {
+          "word": "hobby",
+          "phonetic": "/ˈhɒbi/",
+          "meaning": "n. 爱好",
+          "example": "My hobby is reading.",
+          "exampleTranslation": "我的爱好是阅读。"
+        },
+        {
+          "word": "read",
+          "phonetic": "/riːd/",
+          "meaning": "v. 阅读",
+          "example": "I like to read.",
+          "exampleTranslation": "我喜欢阅读。"
+        },
+        {
+          "word": "paint",
+          "phonetic": "/peɪnt/",
+          "meaning": "v. 画画",
+          "example": "She likes to paint.",
+          "exampleTranslation": "她喜欢画画。"
+        },
+        {
+          "word": "cook",
+          "phonetic": "/kʊk/",
+          "meaning": "v. 做饭",
+          "example": "I can cook.",
+          "exampleTranslation": "我会做饭。"
+        },
+        {
+          "word": "collect",
+          "phonetic": "/kəˈlekt/",
+          "meaning": "v. 收集",
+          "example": "I collect stamps.",
+          "exampleTranslation": "我收集邮票。"
+        },
+        {
+          "word": "stamp",
+          "phonetic": "/stæmp/",
+          "meaning": "n. 邮票",
+          "example": "This stamp is old.",
+          "exampleTranslation": "这张邮票很旧。"
+        },
+        {
+          "word": "chess",
+          "phonetic": "/tʃes/",
+          "meaning": "n. 国际象棋",
+          "example": "Let's play chess.",
+          "exampleTranslation": "我们下棋吧。"
+        },
+        {
+          "word": "piano",
+          "phonetic": "/piˈænəʊ/",
+          "meaning": "n. 钢琴",
+          "example": "I play the piano.",
+          "exampleTranslation": "我弹钢琴。"
+        },
+        {
+          "word": "guitar",
+          "phonetic": "/ɡɪˈtɑː/",
+          "meaning": "n. 吉他",
+          "example": "He plays the guitar.",
+          "exampleTranslation": "他弹吉他。"
+        },
+        {
+          "word": "violin",
+          "phonetic": "/ˌvaɪəˈlɪn/",
+          "meaning": "n. 小提琴",
+          "example": "She plays the violin.",
+          "exampleTranslation": "她拉小提琴。"
+        }
+      ]
+    }
+  ]
+}

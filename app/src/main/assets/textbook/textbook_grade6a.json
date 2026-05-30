@@ -1,0 +1,464 @@
+{
+  "semester": "六年级上册",
+  "grade": 6,
+  "term": "a",
+  "category": "沪教版六年级上册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Growing up",
+      "words": [
+        {
+          "word": "grow",
+          "phonetic": "/ɡrəʊ/",
+          "meaning": "v. 成长",
+          "example": "I am growing up.",
+          "exampleTranslation": "我在长大。"
+        },
+        {
+          "word": "month",
+          "phonetic": "/mʌnθ/",
+          "meaning": "n. 月",
+          "example": "Twelve months a year.",
+          "exampleTranslation": "一年十二个月。"
+        },
+        {
+          "word": "cute",
+          "phonetic": "/kjuːt/",
+          "meaning": "adj. 可爱的",
+          "example": "The baby is cute.",
+          "exampleTranslation": "宝宝很可爱。"
+        },
+        {
+          "word": "handsome",
+          "phonetic": "/ˈhænsəm/",
+          "meaning": "adj. 英俊的",
+          "example": "He is handsome.",
+          "exampleTranslation": "他很英俊。"
+        },
+        {
+          "word": "pretty",
+          "phonetic": "/ˈprɪti/",
+          "meaning": "adj. 漂亮的",
+          "example": "She is pretty.",
+          "exampleTranslation": "她很漂亮。"
+        },
+        {
+          "word": "famous",
+          "phonetic": "/ˈfeɪməs/",
+          "meaning": "adj. 著名的",
+          "example": "She became famous.",
+          "exampleTranslation": "她出名了。"
+        },
+        {
+          "word": "born",
+          "phonetic": "/bɔːn/",
+          "meaning": "v. 出生",
+          "example": "I was born in 2010.",
+          "exampleTranslation": "我出生于2010年。"
+        },
+        {
+          "word": "ago",
+          "phonetic": "/əˈɡəʊ/",
+          "meaning": "adv. 以前",
+          "example": "Long time ago.",
+          "exampleTranslation": "很久以前。"
+        },
+        {
+          "word": "still",
+          "phonetic": "/stɪl/",
+          "meaning": "adv. 仍然",
+          "example": "I still remember.",
+          "exampleTranslation": "我仍然记得。"
+        },
+        {
+          "word": "turtle",
+          "phonetic": "/ˈtɜːtəl/",
+          "meaning": "n. 乌龟",
+          "example": "The turtle lives long.",
+          "exampleTranslation": "乌龟寿命长。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "My summer holiday",
+      "words": [
+        {
+          "word": "summer",
+          "phonetic": "/ˈsʌmə/",
+          "meaning": "n. 夏天",
+          "example": "Summer is fun.",
+          "exampleTranslation": "夏天很有趣。"
+        },
+        {
+          "word": "holiday",
+          "phonetic": "/ˈhɒlədeɪ/",
+          "meaning": "n. 假期",
+          "example": "My summer holiday.",
+          "exampleTranslation": "我的暑假。"
+        },
+        {
+          "word": "during",
+          "phonetic": "/ˈdjʊərɪŋ/",
+          "meaning": "prep. 在…期间",
+          "example": "During the holiday.",
+          "exampleTranslation": "在假期期间。"
+        },
+        {
+          "word": "spend",
+          "phonetic": "/spend/",
+          "meaning": "v. 度过",
+          "example": "I spent my holiday in Beijing.",
+          "exampleTranslation": "我在北京度过假期。"
+        },
+        {
+          "word": "everyone",
+          "phonetic": "/ˈevriwʌn/",
+          "meaning": "pron. 每个人",
+          "example": "Everyone had fun.",
+          "exampleTranslation": "每个人都很开心。"
+        },
+        {
+          "word": "countryside",
+          "phonetic": "/ˈkʌntrisaɪd/",
+          "meaning": "n. 乡村",
+          "example": "I went to the countryside.",
+          "exampleTranslation": "我去了乡村。"
+        },
+        {
+          "word": "pick",
+          "phonetic": "/pɪk/",
+          "meaning": "v. 采摘",
+          "example": "Pick apples.",
+          "exampleTranslation": "摘苹果。"
+        },
+        {
+          "word": "picnic",
+          "phonetic": "/ˈpɪknɪk/",
+          "meaning": "n. 野餐",
+          "example": "Have a picnic.",
+          "exampleTranslation": "去野餐。"
+        },
+        {
+          "word": "photograph",
+          "phonetic": "/ˈfəʊtəɡrɑːf/",
+          "meaning": "n. 照片",
+          "example": "Take a photograph.",
+          "exampleTranslation": "拍一张照片。"
+        },
+        {
+          "word": "enjoy",
+          "phonetic": "/ɪnˈdʒɔɪ/",
+          "meaning": "v. 享受",
+          "example": "Enjoy your holiday!",
+          "exampleTranslation": "享受你的假期！"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Healthy or unhealthy",
+      "words": [
+        {
+          "word": "healthy",
+          "phonetic": "/ˈhelθi/",
+          "meaning": "adj. 健康的",
+          "example": "Eat healthy food.",
+          "exampleTranslation": "吃健康的食物。"
+        },
+        {
+          "word": "unhealthy",
+          "phonetic": "/ʌnˈhelθi/",
+          "meaning": "adj. 不健康的",
+          "example": "Fast food is unhealthy.",
+          "exampleTranslation": "快餐不健康。"
+        },
+        {
+          "word": "vegetable",
+          "phonetic": "/ˈvedʒtəbəl/",
+          "meaning": "n. 蔬菜",
+          "example": "Eat more vegetables.",
+          "exampleTranslation": "多吃蔬菜。"
+        },
+        {
+          "word": "hamburger",
+          "phonetic": "/ˈhæmbɜːɡə/",
+          "meaning": "n. 汉堡包",
+          "example": "I like hamburgers.",
+          "exampleTranslation": "我喜欢汉堡。"
+        },
+        {
+          "word": "cola",
+          "phonetic": "/ˈkəʊlə/",
+          "meaning": "n. 可乐",
+          "example": "Don't drink too much cola.",
+          "exampleTranslation": "不要喝太多可乐。"
+        },
+        {
+          "word": "fruit",
+          "phonetic": "/fruːt/",
+          "meaning": "n. 水果",
+          "example": "Fruit is good for you.",
+          "exampleTranslation": "水果对你有益。"
+        },
+        {
+          "word": "enough",
+          "phonetic": "/ɪˈnʌf/",
+          "meaning": "adj. 足够的",
+          "example": "Get enough sleep.",
+          "exampleTranslation": "保证足够的睡眠。"
+        },
+        {
+          "word": "energy",
+          "phonetic": "/ˈenədʒi/",
+          "meaning": "n. 能量",
+          "example": "Food gives us energy.",
+          "exampleTranslation": "食物给我们能量。"
+        },
+        {
+          "word": "breakfast",
+          "phonetic": "/ˈbrekfəst/",
+          "meaning": "n. 早餐",
+          "example": "Don't skip breakfast.",
+          "exampleTranslation": "不要不吃早餐。"
+        },
+        {
+          "word": "excuse",
+          "phonetic": "/ɪkˈskjuːz/",
+          "meaning": "n. 借口",
+          "example": "No excuse!",
+          "exampleTranslation": "没有借口！"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Animals in danger",
+      "words": [
+        {
+          "word": "danger",
+          "phonetic": "/ˈdeɪndʒə/",
+          "meaning": "n. 危险",
+          "example": "Animals in danger.",
+          "exampleTranslation": "濒危动物。"
+        },
+        {
+          "word": "wild",
+          "phonetic": "/waɪld/",
+          "meaning": "adj. 野生的",
+          "example": "Wild animals need protection.",
+          "exampleTranslation": "野生动物需要保护。"
+        },
+        {
+          "word": "panda",
+          "phonetic": "/ˈpændə/",
+          "meaning": "n. 熊猫",
+          "example": "Pandas live in China.",
+          "exampleTranslation": "熊猫生活在中国。"
+        },
+        {
+          "word": "tiger",
+          "phonetic": "/ˈtaɪɡə/",
+          "meaning": "n. 老虎",
+          "example": "Siberian tigers are rare.",
+          "exampleTranslation": "东北虎很稀少。"
+        },
+        {
+          "word": "whale",
+          "phonetic": "/weɪl/",
+          "meaning": "n. 鲸鱼",
+          "example": "The blue whale is huge.",
+          "exampleTranslation": "蓝鲸非常大。"
+        },
+        {
+          "word": "bear",
+          "phonetic": "/beə/",
+          "meaning": "n. 熊",
+          "example": "Polar bears are in danger.",
+          "exampleTranslation": "北极熊濒危。"
+        },
+        {
+          "word": "save",
+          "phonetic": "/seɪv/",
+          "meaning": "v. 拯救",
+          "example": "Save the animals.",
+          "exampleTranslation": "拯救动物。"
+        },
+        {
+          "word": "protect",
+          "phonetic": "/prəˈtekt/",
+          "meaning": "v. 保护",
+          "example": "Protect our earth.",
+          "exampleTranslation": "保护我们的地球。"
+        },
+        {
+          "word": "hunt",
+          "phonetic": "/hʌnt/",
+          "meaning": "v. 猎杀",
+          "example": "Don't hunt wild animals.",
+          "exampleTranslation": "不要猎杀野生动物。"
+        },
+        {
+          "word": "forest",
+          "phonetic": "/ˈfɒrɪst/",
+          "meaning": "n. 森林",
+          "example": "Forests are animals' homes.",
+          "exampleTranslation": "森林是动物的家。"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Great cities of the world",
+      "words": [
+        {
+          "word": "city",
+          "phonetic": "/ˈsɪti/",
+          "meaning": "n. 城市",
+          "example": "Shanghai is a big city.",
+          "exampleTranslation": "上海是一个大城市。"
+        },
+        {
+          "word": "capital",
+          "phonetic": "/ˈkæpɪtəl/",
+          "meaning": "n. 首都",
+          "example": "Beijing is the capital.",
+          "exampleTranslation": "北京是首都。"
+        },
+        {
+          "word": "palace",
+          "phonetic": "/ˈpælɪs/",
+          "meaning": "n. 宫殿",
+          "example": "The Summer Palace.",
+          "exampleTranslation": "颐和园。"
+        },
+        {
+          "word": "tower",
+          "phonetic": "/ˈtaʊə/",
+          "meaning": "n. 塔",
+          "example": "The Oriental Pearl Tower.",
+          "exampleTranslation": "东方明珠塔。"
+        },
+        {
+          "word": "bridge",
+          "phonetic": "/brɪdʒ/",
+          "meaning": "n. 桥",
+          "example": "The London Bridge.",
+          "exampleTranslation": "伦敦桥。"
+        },
+        {
+          "word": "museum",
+          "phonetic": "/mjuˈziːəm/",
+          "meaning": "n. 博物馆",
+          "example": "Visit the museum.",
+          "exampleTranslation": "参观博物馆。"
+        },
+        {
+          "word": "square",
+          "phonetic": "/skweə/",
+          "meaning": "n. 广场",
+          "example": "Tian'anmen Square.",
+          "exampleTranslation": "天安门广场。"
+        },
+        {
+          "word": "Paris",
+          "phonetic": "/ˈpærɪs/",
+          "meaning": "n. 巴黎",
+          "example": "Paris is romantic.",
+          "exampleTranslation": "巴黎很浪漫。"
+        },
+        {
+          "word": "Tokyo",
+          "phonetic": "/ˈtəʊkiəʊ/",
+          "meaning": "n. 东京",
+          "example": "Tokyo is modern.",
+          "exampleTranslation": "东京很现代。"
+        },
+        {
+          "word": "London",
+          "phonetic": "/ˈlʌndən/",
+          "meaning": "n. 伦敦",
+          "example": "London has Big Ben.",
+          "exampleTranslation": "伦敦有大本钟。"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Technology",
+      "words": [
+        {
+          "word": "technology",
+          "phonetic": "/tekˈnɒlədʒi/",
+          "meaning": "n. 科技",
+          "example": "Technology changes life.",
+          "exampleTranslation": "科技改变生活。"
+        },
+        {
+          "word": "computer",
+          "phonetic": "/kəmˈpjuːtə/",
+          "meaning": "n. 电脑",
+          "example": "I use a computer.",
+          "exampleTranslation": "我用电脑。"
+        },
+        {
+          "word": "Internet",
+          "phonetic": "/ˈɪntənet/",
+          "meaning": "n. 互联网",
+          "example": "Search on the Internet.",
+          "exampleTranslation": "在网上搜索。"
+        },
+        {
+          "word": "online",
+          "phonetic": "/ˌɒnˈlaɪn/",
+          "meaning": "adj. 在线的",
+          "example": "Shop online.",
+          "exampleTranslation": "网上购物。"
+        },
+        {
+          "word": "mobile phone",
+          "phonetic": "/ˈməʊbaɪl fəʊn/",
+          "meaning": "n. 手机",
+          "example": "I have a mobile phone.",
+          "exampleTranslation": "我有一个手机。"
+        },
+        {
+          "word": "screen",
+          "phonetic": "/skriːn/",
+          "meaning": "n. 屏幕",
+          "example": "Look at the screen.",
+          "exampleTranslation": "看屏幕。"
+        },
+        {
+          "word": "keyboard",
+          "phonetic": "/ˈkiːbɔːd/",
+          "meaning": "n. 键盘",
+          "example": "Type on the keyboard.",
+          "exampleTranslation": "在键盘上打字。"
+        },
+        {
+          "word": "send",
+          "phonetic": "/send/",
+          "meaning": "v. 发送",
+          "example": "Send an email.",
+          "exampleTranslation": "发邮件。"
+        },
+        {
+          "word": "message",
+          "phonetic": "/ˈmesɪdʒ/",
+          "meaning": "n. 消息",
+          "example": "Send a message.",
+          "exampleTranslation": "发一条消息。"
+        },
+        {
+          "word": "safe",
+          "phonetic": "/seɪf/",
+          "meaning": "adj. 安全的",
+          "example": "Be safe online.",
+          "exampleTranslation": "网上要注意安全。"
+        }
+      ]
+    }
+  ]
+}

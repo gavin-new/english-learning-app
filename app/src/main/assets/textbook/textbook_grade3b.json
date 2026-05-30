@@ -1,0 +1,478 @@
+{
+  "semester": "三年级下册",
+  "grade": 3,
+  "term": "b",
+  "category": "沪教版三年级下册",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Colours",
+      "words": [
+        {
+          "word": "colour",
+          "phonetic": "/ˈkʌlə/",
+          "meaning": "n. 颜色",
+          "example": "What colour is it?",
+          "exampleTranslation": "它是什么颜色？"
+        },
+        {
+          "word": "red",
+          "phonetic": "/red/",
+          "meaning": "adj. 红色的",
+          "example": "I like red.",
+          "exampleTranslation": "我喜欢红色。"
+        },
+        {
+          "word": "blue",
+          "phonetic": "/bluː/",
+          "meaning": "adj. 蓝色的",
+          "example": "The sky is blue.",
+          "exampleTranslation": "天空是蓝色的。"
+        },
+        {
+          "word": "green",
+          "phonetic": "/ɡriːn/",
+          "meaning": "adj. 绿色的",
+          "example": "The tree is green.",
+          "exampleTranslation": "那棵树是绿色的。"
+        },
+        {
+          "word": "yellow",
+          "phonetic": "/ˈjeləʊ/",
+          "meaning": "adj. 黄色的",
+          "example": "The sun is yellow.",
+          "exampleTranslation": "太阳是黄色的。"
+        },
+        {
+          "word": "white",
+          "phonetic": "/waɪt/",
+          "meaning": "adj. 白色的",
+          "example": "Snow is white.",
+          "exampleTranslation": "雪是白色的。"
+        },
+        {
+          "word": "black",
+          "phonetic": "/blæk/",
+          "meaning": "adj. 黑色的",
+          "example": "My bag is black.",
+          "exampleTranslation": "我的包是黑色的。"
+        },
+        {
+          "word": "pink",
+          "phonetic": "/pɪŋk/",
+          "meaning": "adj. 粉色的",
+          "example": "She likes pink.",
+          "exampleTranslation": "她喜欢粉色。"
+        },
+        {
+          "word": "brown",
+          "phonetic": "/braʊn/",
+          "meaning": "adj. 棕色的",
+          "example": "The bear is brown.",
+          "exampleTranslation": "那只熊是棕色的。"
+        },
+        {
+          "word": "purple",
+          "phonetic": "/ˈpɜːpəl/",
+          "meaning": "adj. 紫色的",
+          "example": "The flower is purple.",
+          "exampleTranslation": "那朵花是紫色的。"
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Tastes",
+      "words": [
+        {
+          "word": "taste",
+          "phonetic": "/teɪst/",
+          "meaning": "n. 味道",
+          "example": "How does it taste?",
+          "exampleTranslation": "它是什么味道？"
+        },
+        {
+          "word": "sweet",
+          "phonetic": "/swiːt/",
+          "meaning": "adj. 甜的",
+          "example": "The candy is sweet.",
+          "exampleTranslation": "这个糖果是甜的。"
+        },
+        {
+          "word": "sour",
+          "phonetic": "/ˈsaʊə/",
+          "meaning": "adj. 酸的",
+          "example": "The lemon is sour.",
+          "exampleTranslation": "柠檬是酸的。"
+        },
+        {
+          "word": "salty",
+          "phonetic": "/ˈsɔːlti/",
+          "meaning": "adj. 咸的",
+          "example": "The soup is salty.",
+          "exampleTranslation": "汤是咸的。"
+        },
+        {
+          "word": "bitter",
+          "phonetic": "/ˈbɪtə/",
+          "meaning": "adj. 苦的",
+          "example": "The medicine is bitter.",
+          "exampleTranslation": "药是苦的。"
+        },
+        {
+          "word": "hot",
+          "phonetic": "/hɒt/",
+          "meaning": "adj. 辣的",
+          "example": "The pepper is hot.",
+          "exampleTranslation": "辣椒很辣。"
+        },
+        {
+          "word": "candy",
+          "phonetic": "/ˈkændi/",
+          "meaning": "n. 糖果",
+          "example": "I like candy.",
+          "exampleTranslation": "我喜欢糖果。"
+        },
+        {
+          "word": "lemon",
+          "phonetic": "/ˈlemən/",
+          "meaning": "n. 柠檬",
+          "example": "The lemon is sour.",
+          "exampleTranslation": "柠檬是酸的。"
+        },
+        {
+          "word": "ice cream",
+          "phonetic": "/ˌaɪs ˈkriːm/",
+          "meaning": "n. 冰淇淋",
+          "example": "I want ice cream.",
+          "exampleTranslation": "我想要冰淇淋。"
+        },
+        {
+          "word": "chocolate",
+          "phonetic": "/ˈtʃɒklət/",
+          "meaning": "n. 巧克力",
+          "example": "I love chocolate.",
+          "exampleTranslation": "我喜欢巧克力。"
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Animals",
+      "words": [
+        {
+          "word": "animal",
+          "phonetic": "/ˈænɪməl/",
+          "meaning": "n. 动物",
+          "example": "I like animals.",
+          "exampleTranslation": "我喜欢动物。"
+        },
+        {
+          "word": "cat",
+          "phonetic": "/kæt/",
+          "meaning": "n. 猫",
+          "example": "The cat is cute.",
+          "exampleTranslation": "那只猫很可爱。"
+        },
+        {
+          "word": "dog",
+          "phonetic": "/dɒɡ/",
+          "meaning": "n. 狗",
+          "example": "I have a dog.",
+          "exampleTranslation": "我有一只狗。"
+        },
+        {
+          "word": "bird",
+          "phonetic": "/bɜːd/",
+          "meaning": "n. 鸟",
+          "example": "The bird can fly.",
+          "exampleTranslation": "那只鸟会飞。"
+        },
+        {
+          "word": "fish",
+          "phonetic": "/fɪʃ/",
+          "meaning": "n. 鱼",
+          "example": "The fish can swim.",
+          "exampleTranslation": "鱼会游泳。"
+        },
+        {
+          "word": "rabbit",
+          "phonetic": "/ˈræbɪt/",
+          "meaning": "n. 兔子",
+          "example": "The rabbit has long ears.",
+          "exampleTranslation": "兔子有长耳朵。"
+        },
+        {
+          "word": "monkey",
+          "phonetic": "/ˈmʌŋki/",
+          "meaning": "n. 猴子",
+          "example": "The monkey is clever.",
+          "exampleTranslation": "猴子很聪明。"
+        },
+        {
+          "word": "tiger",
+          "phonetic": "/ˈtaɪɡə/",
+          "meaning": "n. 老虎",
+          "example": "The tiger is strong.",
+          "exampleTranslation": "老虎很强壮。"
+        },
+        {
+          "word": "lion",
+          "phonetic": "/ˈlaɪən/",
+          "meaning": "n. 狮子",
+          "example": "The lion is the king.",
+          "exampleTranslation": "狮子是百兽之王。"
+        },
+        {
+          "word": "elephant",
+          "phonetic": "/ˈelɪfənt/",
+          "meaning": "n. 大象",
+          "example": "The elephant is big.",
+          "exampleTranslation": "大象很大。"
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Toys",
+      "words": [
+        {
+          "word": "toy",
+          "phonetic": "/tɔɪ/",
+          "meaning": "n. 玩具",
+          "example": "This is my toy.",
+          "exampleTranslation": "这是我的玩具。"
+        },
+        {
+          "word": "ball",
+          "phonetic": "/bɔːl/",
+          "meaning": "n. 球",
+          "example": "I have a ball.",
+          "exampleTranslation": "我有一个球。"
+        },
+        {
+          "word": "kite",
+          "phonetic": "/kaɪt/",
+          "meaning": "n. 风筝",
+          "example": "Let's fly a kite.",
+          "exampleTranslation": "我们去放风筝吧。"
+        },
+        {
+          "word": "doll",
+          "phonetic": "/dɒl/",
+          "meaning": "n. 洋娃娃",
+          "example": "She has a doll.",
+          "exampleTranslation": "她有一个洋娃娃。"
+        },
+        {
+          "word": "robot",
+          "phonetic": "/ˈrəʊbɒt/",
+          "meaning": "n. 机器人",
+          "example": "I want a robot.",
+          "exampleTranslation": "我想要一个机器人。"
+        },
+        {
+          "word": "bike",
+          "phonetic": "/baɪk/",
+          "meaning": "n. 自行车",
+          "example": "I can ride a bike.",
+          "exampleTranslation": "我会骑自行车。"
+        },
+        {
+          "word": "car",
+          "phonetic": "/kɑː/",
+          "meaning": "n. 小汽车",
+          "example": "My toy car is red.",
+          "exampleTranslation": "我的玩具车是红色的。"
+        },
+        {
+          "word": "train",
+          "phonetic": "/treɪn/",
+          "meaning": "n. 火车",
+          "example": "The train is long.",
+          "exampleTranslation": "火车很长。"
+        },
+        {
+          "word": "play",
+          "phonetic": "/pleɪ/",
+          "meaning": "v. 玩",
+          "example": "Let's play together.",
+          "exampleTranslation": "我们一起玩吧。"
+        },
+        {
+          "word": "fun",
+          "phonetic": "/fʌn/",
+          "meaning": "adj. 有趣的",
+          "example": "It's so fun!",
+          "exampleTranslation": "太有趣了！"
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Food and drinks",
+      "words": [
+        {
+          "word": "food",
+          "phonetic": "/fuːd/",
+          "meaning": "n. 食物",
+          "example": "I like Chinese food.",
+          "exampleTranslation": "我喜欢中国菜。"
+        },
+        {
+          "word": "drink",
+          "phonetic": "/drɪŋk/",
+          "meaning": "n. 饮料",
+          "example": "What drink do you want?",
+          "exampleTranslation": "你想要什么饮料？"
+        },
+        {
+          "word": "water",
+          "phonetic": "/ˈwɔːtə/",
+          "meaning": "n. 水",
+          "example": "Drink some water.",
+          "exampleTranslation": "喝点水。"
+        },
+        {
+          "word": "milk",
+          "phonetic": "/mɪlk/",
+          "meaning": "n. 牛奶",
+          "example": "I drink milk every day.",
+          "exampleTranslation": "我每天喝牛奶。"
+        },
+        {
+          "word": "juice",
+          "phonetic": "/dʒuːs/",
+          "meaning": "n. 果汁",
+          "example": "Orange juice, please.",
+          "exampleTranslation": "请给我橙汁。"
+        },
+        {
+          "word": "bread",
+          "phonetic": "/bred/",
+          "meaning": "n. 面包",
+          "example": "I have bread for breakfast.",
+          "exampleTranslation": "我早餐吃面包。"
+        },
+        {
+          "word": "rice",
+          "phonetic": "/raɪs/",
+          "meaning": "n. 米饭",
+          "example": "I like rice.",
+          "exampleTranslation": "我喜欢米饭。"
+        },
+        {
+          "word": "noodle",
+          "phonetic": "/ˈnuːdəl/",
+          "meaning": "n. 面条",
+          "example": "I want some noodles.",
+          "exampleTranslation": "我想要一些面条。"
+        },
+        {
+          "word": "egg",
+          "phonetic": "/eɡ/",
+          "meaning": "n. 鸡蛋",
+          "example": "I have an egg.",
+          "exampleTranslation": "我有一个鸡蛋。"
+        },
+        {
+          "word": "chicken",
+          "phonetic": "/ˈtʃɪkɪn/",
+          "meaning": "n. 鸡肉",
+          "example": "I like chicken.",
+          "exampleTranslation": "我喜欢鸡肉。"
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Numbers",
+      "words": [
+        {
+          "word": "number",
+          "phonetic": "/ˈnʌmbə/",
+          "meaning": "n. 数字",
+          "example": "What number is it?",
+          "exampleTranslation": "这是什么数字？"
+        },
+        {
+          "word": "one",
+          "phonetic": "/wʌn/",
+          "meaning": "num. 一",
+          "example": "I have one apple.",
+          "exampleTranslation": "我有一个苹果。"
+        },
+        {
+          "word": "two",
+          "phonetic": "/tuː/",
+          "meaning": "num. 二",
+          "example": "I have two eyes.",
+          "exampleTranslation": "我有两只眼睛。"
+        },
+        {
+          "word": "three",
+          "phonetic": "/θriː/",
+          "meaning": "num. 三",
+          "example": "There are three cats.",
+          "exampleTranslation": "有三只猫。"
+        },
+        {
+          "word": "four",
+          "phonetic": "/fɔː/",
+          "meaning": "num. 四",
+          "example": "A dog has four legs.",
+          "exampleTranslation": "狗有四条腿。"
+        },
+        {
+          "word": "five",
+          "phonetic": "/faɪv/",
+          "meaning": "num. 五",
+          "example": "I am five years old.",
+          "exampleTranslation": "我五岁。"
+        },
+        {
+          "word": "six",
+          "phonetic": "/sɪks/",
+          "meaning": "num. 六",
+          "example": "There are six eggs.",
+          "exampleTranslation": "有六个鸡蛋。"
+        },
+        {
+          "word": "seven",
+          "phonetic": "/ˈsevən/",
+          "meaning": "num. 七",
+          "example": "I am seven.",
+          "exampleTranslation": "我七岁。"
+        },
+        {
+          "word": "eight",
+          "phonetic": "/eɪt/",
+          "meaning": "num. 八",
+          "example": "I have eight books.",
+          "exampleTranslation": "我有八本书。"
+        },
+        {
+          "word": "nine",
+          "phonetic": "/naɪn/",
+          "meaning": "num. 九",
+          "example": "There are nine birds.",
+          "exampleTranslation": "有九只鸟。"
+        },
+        {
+          "word": "ten",
+          "phonetic": "/ten/",
+          "meaning": "num. 十",
+          "example": "Count from one to ten.",
+          "exampleTranslation": "从一数到十。"
+        },
+        {
+          "word": "how many",
+          "phonetic": "/haʊ ˈmeni/",
+          "meaning": "多少",
+          "example": "How many apples?",
+          "exampleTranslation": "多少个苹果？"
+        }
+      ]
+    }
+  ]
+}
