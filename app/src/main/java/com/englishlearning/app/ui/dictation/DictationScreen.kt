@@ -24,6 +24,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.englishlearning.app.audio.AudioPlayerManager
 import com.englishlearning.app.ui.viewmodel.DictationViewModel
+import com.englishlearning.app.ui.theme.*
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

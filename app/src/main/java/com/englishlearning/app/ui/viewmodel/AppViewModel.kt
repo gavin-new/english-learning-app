@@ -3,6 +3,7 @@ package com.englishlearning.app.ui.viewmodel
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
+import kotlinx.coroutines.launch
 import com.englishlearning.app.data.model.Word
 import com.englishlearning.app.data.repository.WordRepository
 

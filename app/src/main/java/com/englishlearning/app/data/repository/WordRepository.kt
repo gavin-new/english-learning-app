@@ -15,6 +15,12 @@ class WordRepository(context: Context) {
     private val db = AppDatabase.getDatabase(context)
     private val wordDao = db.wordDao()
 
+    private val appContext: Context
+
+    init {
+        this.appContext = context.applicationContext
+    }
+
     /** 首次启动标志 —— 确保词汇只加载一次 */
     @Volatile
     var isInitialized = false
@@ -22,22 +28,17 @@ class WordRepository(context: Context) {
 
     /**
      * 初始化词汇库: 从assets JSON文件加载所有词汇到Room
-     * 仅在首次启动时调用, 数据库回调已自动执行, 此处作为补充确保
+     * 注意: AppDatabase.Callback已自动处理 — 此方法作为备用
      */
     suspend fun initialize(): Boolean {
         if (isInitialized) return true
         return try {
             val count = wordDao.getWordCount()
             if (count == 0) {
-                // DB为空, 触发VocabularyLoader加载
-                val allWords = VocabularyLoader.loadAllVocabulary(
-                    db.openHelper.writableDatabase.let {
-                        // 需要Context — 由外部传入
-                        return@let emptyList<Word>()
-                    }
-                )
-                // 注意: AppDatabase.Callback已经处理了首次填充
-                // 这里只是作为备用路径
+                val allWords = VocabularyLoader.loadAllVocabulary(appContext)
+                if (allWords.isNotEmpty()) {
+                    wordDao.insertWords(allWords)
+                }
             }
             isInitialized = true
             true
