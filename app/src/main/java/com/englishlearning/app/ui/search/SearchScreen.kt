@@ -320,6 +320,7 @@ fun SearchModeSelector(
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SearchModeChip(
     icon: androidx.compose.ui.graphics.vector.ImageVector,
@@ -712,7 +713,7 @@ private fun recognizeTextFromImage(bitmap: Bitmap) {
     // 注意：这需要在后台线程执行
     // 实际应用中需要实现完整的OCR逻辑
     try {
-        val recognizer = TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS)
+        val recognizer = TextRecognition.getClient(TextRecognizerOptions.Builder().build())
         val image = InputImage.fromBitmap(bitmap, 0)
         
         recognizer.process(image)

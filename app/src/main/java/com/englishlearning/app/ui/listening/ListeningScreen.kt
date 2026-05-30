@@ -219,7 +219,7 @@ fun ListeningMaterialCard(material: ListeningMaterialItem) {
             if (material.progress > 0f) {
                 Spacer(modifier = Modifier.height(8.dp))
                 LinearProgressIndicator(
-                    progress = { material.progress },
+                    progress = material.progress,
                     modifier = Modifier
                         .fillMaxWidth()
                         .height(4.dp)

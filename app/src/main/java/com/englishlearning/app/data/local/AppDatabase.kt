@@ -4,6 +4,7 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import androidx.sqlite.db.SupportSQLiteDatabase
 import com.englishlearning.app.data.model.*
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -15,15 +16,20 @@ import kotlinx.coroutines.launch
         Article::class,
         LearningProgress::class,
         UserStats::class,
-        ListeningMaterial::class
+        ListeningMaterial::class,
+        VocabularyBookItem::class,
+        DictationRecord::class,
+        DictationSession::class
     ],
-    version = 1,
+    version = 2,
     exportSchema = false
 )
 abstract class AppDatabase : RoomDatabase() {
     abstract fun wordDao(): WordDao
     abstract fun learningProgressDao(): LearningProgressDao
     abstract fun userStatsDao(): UserStatsDao
+    abstract fun vocabularyBookDao(): VocabularyBookDao
+    abstract fun dictationDao(): DictationDao
     
     companion object {
         @Volatile
