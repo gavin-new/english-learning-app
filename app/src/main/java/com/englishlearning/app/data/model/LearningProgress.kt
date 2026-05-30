@@ -17,8 +17,8 @@ data class LearningProgress(
     val masteryLevel: Int = 0,            // 掌握程度 0-5
     val lastReviewDate: Long? = null,     // 上次复习时间
     val easeFactor: Float = 2.5f,         // 难度因子
-    val interval: Int = 1,               // 间隔天数
-    
+    val interval: Int = 1                // 间隔天数
+) {
     // 艾宾浩斯复习间隔（天）
     // 第1次复习: 1天后
     // 第2次复习: 3天后

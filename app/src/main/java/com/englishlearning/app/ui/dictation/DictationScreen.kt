@@ -67,7 +67,7 @@ fun DictationScreen(
     var dictationResults by remember { mutableStateOf<Map<Int, DictationResult>>(emptyMap()) }
     var isCompleted by remember { mutableStateOf(false) }
 
-    val focusRequester = rememberFocusRequester()
+    val focusRequester = remember { FocusRequester() }
     val currentWord = words.getOrNull(currentIndex)
 
     // 语音权限
@@ -107,6 +107,43 @@ fun DictationScreen(
     LaunchedEffect(currentIndex, showResult) {
         if (!showResult) {
             focusRequester.requestFocus()
+        }
+    }
+
+    // ═══ 辅助函数定义（必须在UI之前）═══
+    fun checkAnswer() {
+        currentWord?.let { word ->
+            val correct = userInput.trim().equals(word.word, ignoreCase = true)
+            isCorrect = correct
+            showResult = true
+            dictationResults = dictationResults + (currentIndex to DictationResult(
+                word = word.word,
+                userInput = userInput.trim(),
+                isCorrect = correct
+            ))
+            keyboardController?.hide()
+        }
+    }
+
+    fun nextWord() {
+        if (currentIndex < words.size - 1) {
+            currentIndex++
+            userInput = ""
+            showResult = false
+            isCorrect = false
+        } else {
+            isCompleted = true
+            val correctCount = dictationResults.count { it.value.isCorrect }
+            onComplete(UUID.randomUUID().toString(), correctCount, words.size)
+        }
+    }
+
+    fun toggleVoiceInput() {
+        if (isListening) {
+            speechRecognizer.stopListening()
+            isListening = false
+        } else {
+            isListening = true
         }
     }
 
@@ -255,49 +292,7 @@ fun DictationScreen(
         }
     }
 
-    // 检查答案
-    fun checkAnswer() {
-        currentWord?.let { word ->
-            val correct = userInput.trim().equals(word.word, ignoreCase = true)
-            isCorrect = correct
-            showResult = true
-
-            dictationResults = dictationResults + (currentIndex to DictationResult(
-                word = word.word,
-                userInput = userInput.trim(),
-                isCorrect = correct
-            ))
-
-            keyboardController?.hide()
-        }
-    }
-
-    // 下一个单词
-    fun nextWord() {
-        if (currentIndex < words.size - 1) {
-            currentIndex++
-            userInput = ""
-            showResult = false
-            isCorrect = false
-        } else {
-            isCompleted = true
-            // 计算结果
-            val correctCount = dictationResults.count { it.value.isCorrect }
-            onComplete(UUID.randomUUID().toString(), correctCount, words.size)
-        }
-    }
-
-    // 切换语音输入
-    fun toggleVoiceInput() {
-        if (isListening) {
-            speechRecognizer.stopListening()
-            isListening = false
-        } else {
-            // 启动语音识别
-            isListening = true
-            // 这里简化处理，实际实现需要设置RecognitionListener
-        }
-    }
+    // 播放单词发音
 }
 
 /**

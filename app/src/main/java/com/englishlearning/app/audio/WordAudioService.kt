@@ -9,6 +9,7 @@ import android.content.Context
 import android.content.Intent
 import android.os.Binder
 import android.os.Build
+import android.os.Bundle
 import android.os.IBinder
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
@@ -181,7 +182,7 @@ class WordAudioService : Service(), TextToSpeech.OnInitListener {
 
         val params = Bundle().apply {
             putFloat(TextToSpeech.Engine.KEY_PARAM_VOLUME, 1.0f)
-            putFloat(TextToSpeech.Engine.KEY_PARAM_SPEED, _playbackSpeed.value)
+            putFloat("speed", _playbackSpeed.value)
         }
 
         textToSpeech?.speak(
@@ -310,7 +311,8 @@ class WordAudioService : Service(), TextToSpeech.OnInitListener {
     private fun createSpeechParams(): Bundle {
         return Bundle().apply {
             putFloat(TextToSpeech.Engine.KEY_PARAM_VOLUME, 1.0f)
-            putFloat(TextToSpeech.Engine.KEY_PARAM_SPEED, _playbackSpeed.value)
+            // speed param is engine-specific, not all engines support it
+            putFloat("speed", _playbackSpeed.value)
         }
     }
 

@@ -1,12 +1,15 @@
 package com.englishlearning.app.data.model
 
+import android.os.Parcelable
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import kotlinx.parcelize.Parcelize
 
 /**
  * 单词实体类
  * 包含单词的所有信息：单词、音标、释义、例句、音频等
  */
+@Parcelize
 @Entity(tableName = "words")
 data class Word(
     @PrimaryKey(autoGenerate = true)
@@ -27,4 +30,4 @@ data class Word(
     val root: String? = null,            // 词根
     val rootMeaning: String? = null,     // 词根释义
     val createdAt: Long = System.currentTimeMillis()
-)
+) : Parcelable
